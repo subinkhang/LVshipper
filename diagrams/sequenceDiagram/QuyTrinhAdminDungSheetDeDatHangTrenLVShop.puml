@@ -1,0 +1,14 @@
+@startuml
+title Admin Dùng Sheet Để Đặt Hàng Trên LV Shop
+
+actor "Admin" as Admin
+participant "Tool đặt hàng tự động" as Web
+participant "Website LV Shop" as LV
+
+Admin -> Web : Cung cấp file sheet
+Web -> LV : Tự động truy cập website LV
+Web -> LV : Tự động nhập thông tin từ sheet orders vào form đặt hàng
+LV -> Web : Xác nhận đặt hàng thành công
+Web -> Admin : Thông báo thành công
+
+@enduml

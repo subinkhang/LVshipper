@@ -1,0 +1,3701 @@
+[
+  {
+      "skuId": "1AGIXY",
+      "productId": "nvprod5820110v",
+      "name": "Slim Fit Denim Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These slim jeans, crafted from premium Japanese denim, are a wardrobe essential enhanced with the Louis Vuitton savoir-faire. With their timeless light blue wash and their easy silhouette, they can be effortlessly styled with any look. Exclusive details include tobacco-coloured topstitching, an embroidered LV signature on a rear pocket and signed nubuck patches on the ticket pocket and waist.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Dyed Indigo Blue</li>\n  <li>Slim fit</li>\n  <li>LV embroidery on back pocket</li>\n  <li>Nubuck LV patch on ticket pocket</li>\n  <li>Nubuck Damier jacqueron</li>\n  <li>Signature-engraved pearl-effect button in aged gold-colour setting</li>\n  <li>Damier fabric pocket lining and fit tag</li>\n  <li>Pearl-effect rivets</li>\n  <li>Button fly</li>\n  <li>Classic denim 5-pocket tailoring</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£885.00",
+      "priceRaw": 885.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "32",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGIXS",
+              "size": "26",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXT",
+              "size": "27",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXU",
+              "size": "28",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXV",
+              "size": "29",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXW",
+              "size": "30",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXX",
+              "size": "31",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXY",
+              "size": "32",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXZ",
+              "size": "33",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIY0",
+              "size": "34",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIY1",
+              "size": "36",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIY2",
+              "size": "38",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIY3",
+              "size": "40",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM1_Other view.jpg",
+              "name": "Other view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-trousers--HSD51WPCP65L_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/slim-fit-denim-trousers-nvprod5820110v/1AGIXY",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Dyed_Indigo.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-fit-denim-pants---HSD51WPCP65L_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Dyed Indigo",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGIXM",
+      "productId": "nvprod5820109v",
+      "name": "Skate Fit Denim Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These skate jeans, crafted from premium Japanese denim, are a wardrobe essential enhanced with the Louis Vuitton savoir-faire. With their timeless light blue wash and their casual silhouette, they can be effortlessly styled with any look. Exclusive details include tobacco-coloured topstitching, an embroidered LV signature on a rear pocket and signed nubuck patches on the ticket pocket and waist.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Dyed Indigo Blue</li>\n  <li>Skate fit</li>\n  <li>LV embroidery on back pocket</li>\n  <li>Nubuck LV patch on ticket pocket</li>\n  <li>Nubuck Damier jacqueron</li>\n  <li>Signature-engraved pearl-effect button in aged gold-colour setting</li>\n  <li>Damier fabric pocket lining and fit tag</li>\n  <li>Pearl-effect rivets</li>\n  <li>Button fly</li>\n  <li>Classic denim 5-pocket tailoring</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£885.00",
+      "priceRaw": 885.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "32",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGIXG",
+              "size": "26",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXH",
+              "size": "27",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXI",
+              "size": "28",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXJ",
+              "size": "29",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXK",
+              "size": "30",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXL",
+              "size": "31",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXM",
+              "size": "32",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXN",
+              "size": "33",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXO",
+              "size": "34",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXP",
+              "size": "36",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXQ",
+              "size": "38",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXR",
+              "size": "40",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM1_Other view.jpg",
+              "name": "Other view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-trousers--HSD50WPCP65L_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/skate-fit-denim-trousers-nvprod5820109v/1AGIXM",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Dyed_Indigo.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-skate-fit-denim-pants--HSD50WPCP65L_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Dyed Indigo",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGIXB",
+      "productId": "nvprod5820108v",
+      "name": "Flared Fit Denim Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These flared jeans, crafted from premium Japanese denim, are a wardrobe essential enhanced with the Louis Vuitton savoir-faire. With their timeless light blue wash and their trendy silhouette, they can be effortlessly styled with any clothing look. Exclusive details include tobacco-coloured topstitching, an embroidered LV signature on a rear pocket and signed nubuck patches on the ticket pocket and waist.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Dyed Indigo Blue</li>\n  <li>Flared fit</li>\n  <li>LV embroidery on back pocket</li>\n  <li>Nubuck LV patch on ticket pocket</li>\n  <li>Nubuck Damier jacqueron</li>\n  <li>Signature-engraved pearl-effect button in aged gold-colour setting</li>\n  <li>Damier fabric pocket lining and fit tag</li>\n  <li>Pearl-effect rivets</li>\n  <li>Button fly</li>\n  <li>Classic denim 5-pocket tailoring</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "33",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGIX4",
+              "size": "26",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIX5",
+              "size": "27",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIX6",
+              "size": "28",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIX7",
+              "size": "29",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIX8",
+              "size": "30",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIX9",
+              "size": "31",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXA",
+              "size": "32",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXB",
+              "size": "33",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXC",
+              "size": "34",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXD",
+              "size": "36",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXE",
+              "size": "38",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIXF",
+              "size": "40",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWS",
+              "size": "26",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWT",
+              "size": "27",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWU",
+              "size": "28",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWV",
+              "size": "29",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWW",
+              "size": "30",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWX",
+              "size": "31",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWY",
+              "size": "32",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWZ",
+              "size": "33",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIX0",
+              "size": "34",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIX1",
+              "size": "36",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIX2",
+              "size": "38",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIX3",
+              "size": "40",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47EPCP65L_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM1_Other view.jpg",
+              "name": "Other view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-fit-denim-trousers--HSD47WPCP65L_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/flared-fit-denim-trousers-nvprod5820108v/1AGIXB",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Dyed_Indigo.jpg",
+      "enableViewBySet": false,
+      "color": "Dyed Indigo",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGIWM",
+      "productId": "nvprod5820106v",
+      "name": "Wide Leg Fit Denim Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These wide leg jeans, crafted from premium Japanese denim, are a wardrobe essential enhanced with the Louis Vuitton savoir-faire. With their timeless light blue wash and their statement silhouette, they can be effortlessly styled with any clothing look. Exclusive details include tobacco-coloured topstitching, an embroidered LV signature on a rear pocket and signed nubuck patches on the ticket pocket and waist.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Dyed Indigo Blue</li>\n  <li>Wide leg fit</li>\n  <li>LV embroidery on back pocket</li>\n  <li>Nubuck LV patch on ticket pocket</li>\n  <li>Nubuck Damier jacqueron</li>\n  <li>Signature-engraved pearl-effect button in aged gold-colour setting</li>\n  <li>Damier fabric pocket lining and fit tag</li>\n  <li>Pearl-effect rivets</li>\n  <li>Button fly</li>\n  <li>Classic denim 5-pocket tailoring</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "32",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGIWG",
+              "size": "26",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWH",
+              "size": "27",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWI",
+              "size": "28",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWJ",
+              "size": "29",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWK",
+              "size": "30",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWL",
+              "size": "31",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWM",
+              "size": "32",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWN",
+              "size": "33",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWO",
+              "size": "34",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWP",
+              "size": "36",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWQ",
+              "size": "38",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIWR",
+              "size": "40",
+              "color": "Dyed Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM1_Back worn view.jpg",
+              "name": "Back worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM1_Other view.jpg",
+              "name": "Other view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-trousers--HSD46WPCP65L_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/wide-leg-fit-denim-trousers-nvprod5820106v/1AGIWM",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Dyed_Indigo.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wide-leg-fit-denim-pants--HSD46WPCP65L_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Dyed Indigo",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AHCC7",
+      "productId": "nvprod6010063v",
+      "name": "Embellished Evening Cigarette Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These sleek black evening trousers cut from fine grain de poudre wool embody the elegance of the Spring-Summer 2025 Show’s dandy diplomat. Made to order with an elegant cigarette fit, they are richly embellished with glittering crystal and bead-embroidered bands on the waist and legs. A matching jacket makes a chic tuxedo evening suit.</p>",
+      "detailedDescription": "<ul>\n  <li>100% wool</li>\n  <li>Black </li>\n  <li>Regular fit</li>\n  <li>2 Italian pockets on the side</li>\n  <li>2 piped back pockets</li>\n  <li>Crystal and pearl-embroidered bands on the waist and legs</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£7,050.00",
+      "priceRaw": 7050.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "48",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Do not iron</li>\n  <li>Do not dry clean</li>\n  <li>Do not rub</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCC5",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCC6",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCC7",
+              "size": "48",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCC8",
+              "size": "50",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCC9",
+              "size": "52",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCA",
+              "size": "54",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCB",
+              "size": "56",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCC",
+              "size": "58",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCD",
+              "size": "60",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embellished-evening-cigarette-trousers--HSP62WRHL900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/embellished-evening-cigarette-trousers-nvprod6010063v/1AHCC7",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-made-to-order-embellished-evening-cigarette-pants--HSP62WRHL900_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCE1",
+      "productId": "nvprod6010059v",
+      "name": "Tailored Wool Cargo Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These cargo trousers from the Spring-Summer 2025 Show are tailored from fine black grain de poudre wool fabric, with handy zipped pockets on the outside of each leg featuring tone-on-tone LV embroidery on the left. Combining elegance with utility, this versatile design can complete a wide range of looks.</p>",
+      "detailedDescription": "<ul>\n  <li>100% wool</li>\n  <li>Black </li>\n  <li>Relaxed fit</li>\n  <li>2 Italian pockets</li>\n  <li>2 patch pockets on the sides with zips</li>\n  <li>2 piped back pockets</li>\n  <li>Signature embroidery on the left pocket</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,070.00",
+      "priceRaw": 1070.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "54",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCDW",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDX",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDY",
+              "size": "48",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDZ",
+              "size": "50",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCE0",
+              "size": "52",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCE1",
+              "size": "54",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCE2",
+              "size": "56",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCE3",
+              "size": "58",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCE4",
+              "size": "60",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-trousers--HSP77WRHL900_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/tailored-wool-cargo-trousers-nvprod6010059v/1AHCE1",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cargo-pants---HSP77WRHL900_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCDO",
+      "productId": "nvprod6010060v",
+      "name": "Flocked Damier Technical Track Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These black track trousers from the Spring-Summer 2025 Show offer a chic twist on a sportswear classic. The lustrous technical fabric is adorned with a flocked matte Damier motif incorporating Marque L.Vuitton Déposée signatures, while sweeping velvety bands add to the play of textures. Both comfortable and refined, these trousers make a sleek travel set paired with a matching top.</p>",
+      "detailedDescription": "<ul>\n  <li>100% polyamide</li>\n  <li>Deep Black</li>\n  <li>Regular fit</li>\n  <li>Sporty cut with velvet inserts</li>\n  <li>Elasticated waist and cuffs</li>\n  <li>2 Italian pockets with mesh lining</li>\n  <li>Flocked signature all over</li>\n  <li>Tone-on-tone embroidered eyelets</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,700.00",
+      "priceRaw": 1700.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "46",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Do not iron</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCDN",
+              "size": "44",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDO",
+              "size": "46",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDP",
+              "size": "48",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDQ",
+              "size": "50",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDR",
+              "size": "52",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDS",
+              "size": "54",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDT",
+              "size": "56",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDU",
+              "size": "58",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDV",
+              "size": "60",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-trousers--HSP76WRHJ90D_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/flocked-damier-technical-track-trousers-nvprod6010060v/1AHCDO",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Deep_Black.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flocked-damier-technical-track-pants--HSP76WRHJ90D_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Deep Black",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCDA",
+      "productId": "nvprod6010061v",
+      "name": "Graphic Jacquard Fluid Shorts",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>The embodiment of relaxed elegance, these shorts are crafted in a richly textured jacquard, featuring the Spring-Summer 2025 Show’s tone-on-tone black Damoflage motif. An elasticated waistband ensures comfort, while a bead embroidered LV signature patch adds a sophisticated finishing touch. These shorts can be styled with a matching short-sleeved shirt for a chic day-to-evening look.</p>",
+      "detailedDescription": "<ul>\n  <li>100% viscose</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>2 Italian pockets</li>\n  <li>1 flap piped pocket on the back</li>\n  <li>Signature jacquard</li>\n  <li>Bead-embroidered signature patch</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,160.00",
+      "priceRaw": 1160.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "54",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCD5",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCD6",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCD7",
+              "size": "48",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCD8",
+              "size": "50",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCD9",
+              "size": "52",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDA",
+              "size": "54",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDB",
+              "size": "56",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDC",
+              "size": "58",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCDD",
+              "size": "60",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-fluid-shorts--HSP71WSUJ900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/graphic-jacquard-fluid-shorts-nvprod6010061v/1AHCDA",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCCS",
+      "productId": "nvprod6010062v",
+      "name": "Bead-Embellished Silk Pyjama Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These black silk pyjama trousers embody the effortless elegance of the Spring-Summer 2025 runway. Two front pleats enhance the fluid drape of the silk twill, while a bead-embroidered signature adorns the left pocket. A line of silvery beads adds a sophisticated finishing touch down the outside of each leg. A matching shirt and jacket make a chic evening ensemble.</p>",
+      "detailedDescription": "<ul>\n  <li>100% silk</li>\n  <li>Black</li>\n  <li>Relaxed fit</li>\n  <li>Striped monochrome jacquard twill</li>\n  <li>Silver beaded trim down each leg</li>\n  <li>2 Italian pockets on the sides</li>\n  <li>2 piped back pockets</li>\n  <li>2 front pleats</li>\n  <li>Elasticated drawstring waist</li>\n  <li>Bead-embroidered signature patch on left leg</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,590.00",
+      "priceRaw": 2590.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "54",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCCN",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCO",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCP",
+              "size": "48",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCQ",
+              "size": "50",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCR",
+              "size": "52",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCS",
+              "size": "54",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCT",
+              "size": "56",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCU",
+              "size": "58",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCCV",
+              "size": "60",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pyjama-trousers--HSP70WRID900_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/bead-embellished-silk-pyjama-trousers-nvprod6010062v/1AHCCS",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-silk-pajama-pants--HSP70WRID900_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCC2",
+      "productId": "nvprod6010064v",
+      "name": "Wool-Silk Blend Monogram Evening Cigarette Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These tailored cigarette trousers are inspired by the Spring-Summer 2025 Show’s dandy diplomat. Their elegant silhouette is crafted from a luxurious wool-silk blend jacquard in mid-brown tones, featuring an all-over Mini Monogram Flower motif with a coppery lustre. Paired with a matching jacket, these trousers can be worn as part of a sophisticated evening tuxedo.</p>",
+      "detailedDescription": "<ul>\n  <li>50% wool, 33% silk, 17% mohair</li>\n  <li>Mid-Brown</li>\n  <li>Regular fit</li>\n  <li>2 Italian pockets</li>\n  <li>2 piped back pockets</li>\n  <li>Signature jacquard</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,340.00",
+      "priceRaw": 1340.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Brown",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "56",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCBW",
+              "size": "44",
+              "color": "Mid-Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-silk-blend-monogram-evening-cigarette-trousers--HSP61WSOI851_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBX",
+              "size": "46",
+              "color": "Mid-Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-silk-blend-monogram-evening-cigarette-trousers--HSP61WSOI851_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBY",
+              "size": "48",
+              "color": "Mid-Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-silk-blend-monogram-evening-cigarette-trousers--HSP61WSOI851_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBZ",
+              "size": "50",
+              "color": "Mid-Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-silk-blend-monogram-evening-cigarette-trousers--HSP61WSOI851_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCC0",
+              "size": "52",
+              "color": "Mid-Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-silk-blend-monogram-evening-cigarette-trousers--HSP61WSOI851_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCC1",
+              "size": "54",
+              "color": "Mid-Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-silk-blend-monogram-evening-cigarette-trousers--HSP61WSOI851_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCC2",
+              "size": "56",
+              "color": "Mid-Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-silk-blend-monogram-evening-cigarette-trousers--HSP61WSOI851_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCC3",
+              "size": "58",
+              "color": "Mid-Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-silk-blend-monogram-evening-cigarette-trousers--HSP61WSOI851_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCC4",
+              "size": "60",
+              "color": "Mid-Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-silk-blend-monogram-evening-cigarette-trousers--HSP61WSOI851_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-silk-blend-monogram-evening-cigarette-trousers--HSP61WSOI851_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/wool-silk-blend-monogram-evening-cigarette-trousers-nvprod6010064v/1AHCC2",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Mid_Brown.jpg",
+      "enableViewBySet": false,
+      "color": "Mid-Brown",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCBS",
+      "productId": "nvprod6010065v",
+      "name": "Jacquard Damier Wool Cigarette Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These sharply tailored trousers from the Spring-Summer 2025 Show reinvent the House’s heritage Damier as a vibrant blue and green wool jacquard with contrasting white Marque L.Vuitton Déposée signatures. Crafted from fine certified wool with an elegant cigarette fit, they can be paired with a matching jacket to make a graphic modern suit.</p>",
+      "detailedDescription": "<ul>\n  <li>100% wool</li>\n  <li>Multicoloured</li>\n  <li>Regular fit</li>\n  <li>Half-lined</li>\n  <li>2 Italian pockets</li>\n  <li>2 piped back pockets</li>\n  <li>Signature jacquard</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,160.00",
+      "priceRaw": 1160.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Multicolor",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "54",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCBN",
+              "size": "44",
+              "color": "Multicolour",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBO",
+              "size": "46",
+              "color": "Multicolour",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBP",
+              "size": "48",
+              "color": "Multicolour",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBQ",
+              "size": "50",
+              "color": "Multicolour",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBR",
+              "size": "52",
+              "color": "Multicolour",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBS",
+              "size": "54",
+              "color": "Multicolour",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBT",
+              "size": "56",
+              "color": "Multicolour",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBU",
+              "size": "58",
+              "color": "Multicolour",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBV",
+              "size": "60",
+              "color": "Multicolour",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-cigarette-trousers--HSP61WSMYMU1_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/jacquard-damier-wool-cigarette-trousers-nvprod6010065v/1AHCBS",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-LG-Multicolore.jpg",
+      "enableViewBySet": false,
+      "color": "Multicolour",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCBK",
+      "productId": "nvprod6010066v",
+      "name": "Jacquard Damier Wool-Silk Blend Cigarette Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These chic black tailored trousers are crafted from a wool-silk blend jacquard with a lustrous, subtly textured effect, featuring a tone-on-tone Damier motif. Paired with a matching jacket from the Spring-Summer 2025 Show, their tapered cigarette fit creates an effortlessly elegant suit worthy of the dandy diplomat who inspires this collection.</p>",
+      "detailedDescription": "<ul>\n  <li>49% viscose, 41% wool, 10% silk</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>2 Italian pockets</li>\n  <li>2 piped back pockets</li>\n  <li>Signature jacquard</li>\n  <li>Signature embroidery on the right pocket</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "56",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCBE",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBF",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBG",
+              "size": "48",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBH",
+              "size": "50",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBI",
+              "size": "52",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBJ",
+              "size": "54",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBK",
+              "size": "56",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBL",
+              "size": "58",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBM",
+              "size": "60",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-wool-silk-blend-cigarette-trousers--HSP61WSLW900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/jacquard-damier-wool-silk-blend-cigarette-trousers-nvprod6010066v/1AHCBK",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCB6",
+      "productId": "nvprod6010067v",
+      "name": "Tailored Wool Cigarette Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These chic black tailored cigarette trousers are perfect for completing formal looks. Their flattering tapered silhouette brings crisp precision to an ensemble, while the matte black grain de poudre wool makes them easy to style with the Spring-Summer 2025 Show’s subtle textures and multiplicity of black tones. A timeless and essential piece in the formal wardrobe.</p>",
+      "detailedDescription": "<ul>\n  <li>100% wool</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>2 Italian pockets</li>\n  <li>2 piped back pockets</li>\n  <li>Signed tab on the belt loop</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "46",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCB5",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCB6",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCB7",
+              "size": "48",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCB8",
+              "size": "50",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCB9",
+              "size": "52",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBA",
+              "size": "54",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBB",
+              "size": "56",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBC",
+              "size": "58",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCBD",
+              "size": "60",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-cigarette-trousers--HSP61WRHL900_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/tailored-wool-cigarette-trousers-nvprod6010067v/1AHCB6",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCAJ",
+      "productId": "nvprod6010068v",
+      "name": "Tailored Wool Flared Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>An essential piece in the formal men’s wardrobe, these black tailored trousers cut from fine grain de poudre wool bring an elegantly flared silhouette to an ensemble. They can be styled with any tailored jacket to create a contemporary twist on the suit or paired with the Spring-Summer 2025 Show’s range of black pieces for a subtle play of texture and tonality.</p>",
+      "detailedDescription": "<ul>\n  <li>100% wool</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>2 Italian pockets</li>\n  <li>2 piped back pockets</li>\n  <li>Signed tab on the belt</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "54",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCAW",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAE",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAX",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAF",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAY",
+              "size": "48",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAG",
+              "size": "48",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAZ",
+              "size": "50",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAH",
+              "size": "50",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCB0",
+              "size": "52",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAI",
+              "size": "52",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCB1",
+              "size": "54",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAJ",
+              "size": "54",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCB2",
+              "size": "56",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAK",
+              "size": "56",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCB3",
+              "size": "58",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAL",
+              "size": "58",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCB4",
+              "size": "60",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60WRHL900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAM",
+              "size": "60",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tailored-wool-flared-trousers--HSP60ERHL900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/tailored-wool-flared-trousers-nvprod6010068v/1AHCAJ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCAA",
+      "productId": "nvprod6010069v",
+      "name": "Flared Tailored Velvet Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These tailored trousers from the Spring-Summer 2025 Show have a flattering flared silhouette crafted from deep black velvet. A gold-toned metal tab engraved with a Marque L.Vuitton Déposée signature accents one of the belt loops. These trousers can be layered with other black pieces for a play of texture or worn as a sleek day-to-evening suit with a matching double-breasted jacket.</p>",
+      "detailedDescription": "<ul>\n  <li>60% wool, 40% nylon</li>\n  <li>Deep Black</li>\n  <li>Regular fit</li>\n  <li>2 Italian pockets</li>\n  <li>2 piped rear pockets</li>\n  <li>Signature tab on the belt loop</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "54",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCA5",
+              "size": "44",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-tailored-velvet-trousers--HSP60EPSY90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCA6",
+              "size": "46",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-tailored-velvet-trousers--HSP60EPSY90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCA7",
+              "size": "48",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-tailored-velvet-trousers--HSP60EPSY90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCA8",
+              "size": "50",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-tailored-velvet-trousers--HSP60EPSY90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCA9",
+              "size": "52",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-tailored-velvet-trousers--HSP60EPSY90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAA",
+              "size": "54",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-tailored-velvet-trousers--HSP60EPSY90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAB",
+              "size": "56",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-tailored-velvet-trousers--HSP60EPSY90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAC",
+              "size": "58",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-tailored-velvet-trousers--HSP60EPSY90D_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCAD",
+              "size": "60",
+              "color": "Deep Black",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-tailored-velvet-trousers--HSP60EPSY90D_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-tailored-velvet-trousers--HSP60EPSY90D_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/flared-tailored-velvet-trousers-nvprod6010069v/1AHCAA",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Deep_Black.jpg",
+      "enableViewBySet": false,
+      "color": "Deep Black",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AGJJ2",
+      "productId": "nvprod5790320v",
+      "name": "Slim Wool Evening Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These chic black evening trousers, tailored in fine wool suiting, have a slim silhouette that brings sharp definition to formal looks. A woven tone-on-tone 'Marque L.Vuitton Déposée' label signs the waist on the back. This timeless essential from the men’s universe can be mixed with other tailored pieces in the spirit of this collection’s unmatched suits.</p>",
+      "detailedDescription": "<ul>\n  <li>100% wool</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>'Marque L.Vuitton Déposée' woven label on the back</li>\n  <li>2 Italian pockets</li>\n  <li>2 piped rear pockets</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£885.00",
+      "priceRaw": 885.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "50",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGJIZ",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJJ0",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJJ1",
+              "size": "48",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJJ2",
+              "size": "50",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJJ3",
+              "size": "52",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJJ4",
+              "size": "54",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJJ5",
+              "size": "56",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJJ6",
+              "size": "58",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJJ7",
+              "size": "60",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/slim-wool-evening-trousers-nvprod5790320v/1AGJJ2",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-slim-wool-evening-trousers--HSP16WFZC900_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z267"
+  },
+  {
+      "skuId": "1AFWE8",
+      "productId": "nvprod5740295v",
+      "name": "Cashmere and Wool Blend Cigarette Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These elegant dark grey tailored trousers are a smart and versatile choice for any formal occasion. Crafted from a luxurious wool and cashmere blend twill, this timeless wintery essential can be worn as a part of a sophisticated business suit with a matching double-breasted jacket.</p>",
+      "detailedDescription": "<ul>\n  <li>52% wool, 48% cashmere</li>\n  <li>Dark Grey</li>\n  <li>Cigarette fit</li>\n  <li>LV-embroidered triangular tab on right hip</li>\n  <li>2 Italian pockets</li>\n  <li>2 piped pockets at the back</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "50",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWE5",
+              "size": "44",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWE6",
+              "size": "46",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWE7",
+              "size": "48",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWE8",
+              "size": "50",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWE9",
+              "size": "52",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEA",
+              "size": "54",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEB",
+              "size": "56",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEC",
+              "size": "58",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWED",
+              "size": "60",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cashmere-and-wool-blend-cigarette-trousers--HSFP7WKQ0706_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/cashmere-and-wool-blend-cigarette-trousers-nvprod5740295v/1AFWE8",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MAC-Z05_gris.jpg",
+      "enableViewBySet": false,
+      "color": "DARK GRAY",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AFWEQ",
+      "productId": "nvprod5740297v",
+      "name": "Wool Cigarette Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These elegant tailored wool trousers play with the codes of tailoring by reinventing the classic pinstripe motif, which is reconfigured here as a string of miniature LV signatures integrated into an LV Stripes jacquard. Crafted from fine wool in chic grey tones, these flattering trousers make a sophisticated suit paired with a matching jacket.</p>",
+      "detailedDescription": "<ul>\n  <li>100% wool</li>\n  <li>Dark Grey</li>\n  <li>Cigarette fit</li>\n  <li>LV Stripes all-over jacquard</li>\n  <li>LV-embroidered triangular tab on right hip</li>\n  <li>2 Italian pockets</li>\n  <li>2 piped pockets at the back</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£885.00",
+      "priceRaw": 885.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "50",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWEN",
+              "size": "44",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEO",
+              "size": "46",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEP",
+              "size": "48",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEQ",
+              "size": "50",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWER",
+              "size": "52",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWES",
+              "size": "54",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWET",
+              "size": "56",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEU",
+              "size": "58",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEV",
+              "size": "60",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJXM739_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/wool-cigarette-trousers-nvprod5740297v/1AFWEQ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MAC-Z05_gris.jpg",
+      "enableViewBySet": false,
+      "color": "DARK GRAY",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AFWEH",
+      "productId": "nvprod5740296v",
+      "name": "Wool Cigarette Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These elegantly tailored navy blue Pont Neuf cigarette trousers stand out with a fine wool Damier Heritage jacquard. The lustrous tone-on-tone weave twists a traditional glen plaid with a Damier motif incorporating vintage-inspired LV signatures. Signed with an LV-embroidered triangular tab on the right hip, these trousers make a chic business suit paired with a matching jacket.</p>",
+      "detailedDescription": "<ul>\n  <li>100% wool</li>\n  <li>Navy Blue</li>\n  <li>Cigarette fit</li>\n  <li>Damier Heritage all-over jacquard</li>\n  <li>LV-embroidered triangular tab on right hip</li>\n  <li>2 Italian pockets at the front</li>\n  <li>2 piped pockets at the back</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "50",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWEE",
+              "size": "44",
+              "color": "Navy Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEF",
+              "size": "46",
+              "color": "Navy Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEG",
+              "size": "48",
+              "color": "Navy Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEH",
+              "size": "50",
+              "color": "Navy Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEI",
+              "size": "52",
+              "color": "Navy Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEJ",
+              "size": "54",
+              "color": "Navy Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEK",
+              "size": "56",
+              "color": "Navy Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEL",
+              "size": "58",
+              "color": "Navy Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEM",
+              "size": "60",
+              "color": "Navy Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cigarette-trousers--HSFP8WJWO651_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/wool-cigarette-trousers-nvprod5740296v/1AFWEH",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Navy_Blue.jpg",
+      "enableViewBySet": false,
+      "color": "Navy Blue",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AGJLK",
+      "productId": "nvprod5790335v",
+      "name": "Wool Cargo Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These pale grey cargo trousers crafted from certified recycled wool are a comfortable and elegant choice for winter. Their workwear-inspired silhouette is adorned with an LV ornament on the right leg and a woven Monogram Flower label on the flap pocket. This functional and refined design is ideal for travelling paired with a matching overshirt.</p>",
+      "detailedDescription": "<ul>\n  <li>100% wool</li>\n  <li>Light Grey</li>\n  <li>Regular fit</li>\n  <li>LV metal ornament on right leg</li>\n  <li>Woven label with Monogram Flower details on left cargo pocket</li>\n  <li>1 flap pocket on the left leg</li>\n  <li>1 rear flap pocket</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,160.00",
+      "priceRaw": 1160.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "50",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGJLH",
+              "size": "44",
+              "color": "Light Gray",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJLI",
+              "size": "46",
+              "color": "Light Gray",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJLJ",
+              "size": "48",
+              "color": "Light Gray",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJLK",
+              "size": "50",
+              "color": "Light Gray",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJLL",
+              "size": "52",
+              "color": "Light Gray",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJLM",
+              "size": "54",
+              "color": "Light Gray",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJLN",
+              "size": "56",
+              "color": "Light Gray",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJLO",
+              "size": "58",
+              "color": "Light Gray",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJLP",
+              "size": "60",
+              "color": "Light Gray",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-trousers--HSP49WPBP704_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/wool-cargo-trousers-nvprod5790335v/1AGJLK",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Light_Gray.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-cargo-pants--HSP49WPBP704_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Light Gray",
+      "isDiamond": false,
+      "collection": "Z267"
+  },
+  {
+      "skuId": "1AGIUM",
+      "productId": "nvprod5790304v",
+      "name": "LV Blason Embellished Denim Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These elegant trousers are crafted from organic cotton chambray and adorned with a regal all-over LV Blason motif picked out in glittering rhinestones. Piped details and a pearl-effect button complete this casual yet sophisticated design. A matching pyjama shirt makes a sophisticated set for festive occasions.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Indigo Blue</li>\n  <li>Regular fit</li>\n  <li>All-over LV Blason in tonal rhinestones</li>\n  <li>Mother-of-pearl effect button closure</li>\n  <li>Piped detailing on side pockets and piped rear pocket</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,780.00",
+      "priceRaw": 1780.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "32",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGIUG",
+              "size": "26",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUH",
+              "size": "27",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUI",
+              "size": "28",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUJ",
+              "size": "29",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUK",
+              "size": "30",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUM",
+              "size": "32",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUN",
+              "size": "33",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUO",
+              "size": "34",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUP",
+              "size": "36",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUQ",
+              "size": "38",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUR",
+              "size": "40",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIUL",
+              "size": "31",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-pants--HSD05WRBA650_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-trousers--HSD05WRBA650_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/embellished-denim-trousers-nvprod5790304v/1AGIUM",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-650_indigo.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-embellished-denim-pants--HSD05WRBA650_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Indigo",
+      "isDiamond": false,
+      "collection": "Z267"
+  },
+  {
+      "skuId": "1AGJKT",
+      "productId": "nvprod5790334v",
+      "name": "Nylon Travel Track Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These lightweight technical track trousers allow comfort and style. They are constructed from navy blue technical fabric distinguished with an embossed all-over Damier, while sporty black side panels accent the legs. A matching tracksuit top makes a relaxed yet stylish set that is ideal for travelling.</p>",
+      "detailedDescription": "<ul>\n  <li>100% recycled polyester</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>Embossed Damier on navy blue technical fabric</li>\n  <li>Elasticated waist and bottom hem</li>\n  <li>1 back zip pocket</li>\n  <li>2 side pockets on seam</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "50",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Do not iron</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGJKQ",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJKR",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJKS",
+              "size": "48",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJKT",
+              "size": "50",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJKU",
+              "size": "52",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJKV",
+              "size": "54",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJKW",
+              "size": "56",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJKX",
+              "size": "58",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGJKY",
+              "size": "60",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-nylon-travel-track-trousers--HSP42WIMG900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/nylon-travel-track-trousers-nvprod5790334v/1AGJKT",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z267"
+  },
+  {
+      "skuId": "1AGIVM",
+      "productId": "nvprod5790305v",
+      "name": "Denim Carpenter Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These flattering high-waisted carpenter trousers with a boot-cut silhouette are constructed from exclusive Japanese denim canvas in washed dark indigo tones. Classic carpenter details are given a sophisticated twist with a pearl-effect button closure and rivets, bringing a distinguished touch to everyday looks, while a Damier jacqueron signs the back. A matching workwear jacket makes a trendy set.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Indigo Blue</li>\n  <li>Regular fit</li>\n  <li>Damier nubuck jacqueron at the back</li>\n  <li>Pearl-effect button and rivets</li>\n  <li>Carpenter details including chaps, side pockets and hammer holders</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,340.00",
+      "priceRaw": 1340.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "32",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGIVS",
+              "size": "26",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVG",
+              "size": "26",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVT",
+              "size": "27",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVH",
+              "size": "27",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVU",
+              "size": "28",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVI",
+              "size": "28",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVV",
+              "size": "29",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVJ",
+              "size": "29",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVW",
+              "size": "30",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVK",
+              "size": "30",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVX",
+              "size": "31",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVL",
+              "size": "31",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVY",
+              "size": "32",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVM",
+              "size": "32",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVZ",
+              "size": "33",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVN",
+              "size": "33",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIW0",
+              "size": "34",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVO",
+              "size": "34",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIW1",
+              "size": "36",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVP",
+              "size": "36",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIW2",
+              "size": "38",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVQ",
+              "size": "38",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIW3",
+              "size": "40",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20WPQF650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGIVR",
+              "size": "40",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-trousers--HSD20EPQF650_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/denim-carpenter-trousers-nvprod5790305v/1AGIVM",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-650_indigo.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-carpenter-pants--HSD20EPQF650_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Indigo",
+      "isDiamond": false,
+      "collection": "Z267"
+  },
+  {
+      "skuId": "1AFWDQ",
+      "productId": "nvprod5740293v",
+      "name": "Wool Drawstring Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These draped drawstring trousers are tailored from pure wool with a Big Damier jacquard in refined grey tones. Marque L.Vuitton Déposée signatures are incorporated into the motif, which is scaled up for a graphic effect. These trousers make an effortlessly elegant suit with a matching Napolitana jacket.</p>",
+      "detailedDescription": "<ul>\n  <li>100% wool</li>\n  <li>Dark Grey</li>\n  <li>Regular fit</li>\n  <li>Big Damier jacquard incorporating Marque L.Vuitton Déposée signatures</li>\n  <li>Drawstring elasticated waist</li>\n  <li>2 Italian pockets at the front</li>\n  <li>2 piped pockets at the back</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£885.00",
+      "priceRaw": 885.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "50",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWDN",
+              "size": "44",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWDO",
+              "size": "46",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWDP",
+              "size": "48",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWDQ",
+              "size": "50",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWDR",
+              "size": "52",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWDS",
+              "size": "54",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWDT",
+              "size": "56",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWDU",
+              "size": "58",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWDV",
+              "size": "60",
+              "color": "DARK GRAY",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM1_Close up view.jpg",
+              "name": "Close up view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-wool-drawstring-trousers--HSFP6WJWQ739_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/wool-drawstring-trousers-nvprod5740293v/1AFWDQ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MAC-Z05_gris.jpg",
+      "enableViewBySet": false,
+      "color": "DARK GRAY",
+      "isDiamond": false,
+      "collection": "Z288"
+  }
+]

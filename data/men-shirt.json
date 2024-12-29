@@ -1,0 +1,3392 @@
+[
+  {
+      "skuId": "1AFWHP",
+      "productId": "nvprod5740309v",
+      "name": "Monogram Long-Sleeved Cotton Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This white long-sleeved cotton shirt will elevate any look with its tone-on-tone jacquard Monogram motif resulting in a subtly textured finish. The classic tailored silhouette brings a discreet signature twist to a plain formal set and can also be layered with more graphic suits featuring a Monogram motif.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>White</li>\n  <li>Regular fit</li>\n  <li>All-over Monogram jacquard</li>\n  <li>Pointy collar</li>\n  <li>Simple cuffs</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£670.00",
+      "priceRaw": 670.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "39",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Remove accessories before cleaning</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWHM",
+              "size": "36",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHN",
+              "size": "37",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHO",
+              "size": "38",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHP",
+              "size": "39",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHQ",
+              "size": "40",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHR",
+              "size": "41",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHS",
+              "size": "42",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHT",
+              "size": "43",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHU",
+              "size": "44",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-cotton-shirt--HSS9PWJXK001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-long-sleeved-cotton-shirt-nvprod5740309v/1AFWHP",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-001_blanc.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AFWH7",
+      "productId": "nvprod5740307v",
+      "name": "Long-Sleeved Cotton Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This pale blue cotton long-sleeved shirt is elevated with an all-over Damier Heritage jacquard. The woven motif offers a contemporary twist on a traditional Prince of Wales check with a tone-on-tone Damier incorporating vintage-inspired LV signatures. This clothing piece, which lends a signature accent to formal attire, can also be layered with a matching suit in the same motif.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Light Blue</li>\n  <li>Regular fit</li>\n  <li>Damier Heritage all-over jacquard</li>\n  <li>LV stitching on top button</li>\n  <li>Pointy collar</li>\n  <li>Simple cuffs</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£670.00",
+      "priceRaw": 670.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "39",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Remove accessories before cleaning</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWH4",
+              "size": "36",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWH5",
+              "size": "37",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWH6",
+              "size": "38",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWH7",
+              "size": "39",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWH8",
+              "size": "40",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWH9",
+              "size": "41",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHA",
+              "size": "42",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHB",
+              "size": "43",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWHC",
+              "size": "44",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWW605_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/long-sleeved-cotton-shirt-nvprod5740307v/1AFWH7",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Light_Blue.jpg",
+      "enableViewBySet": false,
+      "color": "Light Blue",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AFWH0",
+      "productId": "nvprod5740306v",
+      "name": "Long-Sleeved Cotton Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Crafted from pure cotton, this long-sleeved tailored shirt is elevated with an all-over Damier jacquard. The discreet tone-on-tone woven motif lends a subtle lustre to this timeless silhouette. This versatile clothing piece can be styled in many ways, lending a signature accent to a plain formal suit or creating a sophisticated layered effect with other Damier pieces.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>White</li>\n  <li>Regular fit</li>\n  <li>Mini Damier all-over jacquard</li>\n  <li>LV stitching on top button</li>\n  <li>Pointy collar</li>\n  <li>Simple cuffs</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£670.00",
+      "priceRaw": 670.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "41",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWGV",
+              "size": "36",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGW",
+              "size": "37",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGX",
+              "size": "38",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGY",
+              "size": "39",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGZ",
+              "size": "40",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWH0",
+              "size": "41",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWH1",
+              "size": "42",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWH2",
+              "size": "43",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWH3",
+              "size": "44",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-cotton-shirt--HSS9PWJWN001_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/long-sleeved-cotton-shirt-nvprod5740306v/1AFWH0",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-001_blanc.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AFWGP",
+      "productId": "nvprod5740305v",
+      "name": "Long-Sleeved Silk and Cotton Blend Evening Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This chic white shirt in a lustrous silk-cotton blend is elevated with a tone-on-tone LV Cursive jacquard motif. A gold-colour top button embellished with a micro Monogram motif completes this formal evening design, which can be worn as a set with a tailored suit adorned with gold-embroidered LV Cursive signatures.</p>",
+      "detailedDescription": "<ul>\n  <li>53% cotton, 47% tussah silk</li>\n  <li>White</li>\n  <li>Regular fit</li>\n  <li>LV Cursive all-over jacquard</li>\n  <li>Monogram top button</li>\n  <li>Pointy collar</li>\n  <li>Simple cuffs</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,160.00",
+      "priceRaw": 1160.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "39",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Remove accessories before cleaning</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWGN",
+              "size": "37",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGO",
+              "size": "38",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGP",
+              "size": "39",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGQ",
+              "size": "40",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGR",
+              "size": "41",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGS",
+              "size": "42",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGT",
+              "size": "43",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGU",
+              "size": "44",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGM",
+              "size": "36",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-silk-and-cotton-blend-evening-shirt--HSS9PWJWL001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/long-sleeved-silk-and-cotton-blend-evening-shirt-nvprod5740305v/1AFWGP",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-001_blanc.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AHCHL",
+      "productId": "nvprod6010049v",
+      "name": "Signature Short-Sleeved Cotton Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This crisp white short-sleeved shirt, crafted from organic cotton poplin, is a versatile design for casual and smart occasions. It features two buttoned patch pockets on the chest, with an embossed Monogram Flower detail on the left. Mother-of-pearl effect buttons in gold-toned metal settings add a chic finishing touch.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>White</li>\n  <li>Regular fit</li>\n  <li>Back yoke with pleat</li>\n  <li>Mother-of-pearl button fastening</li>\n  <li>2 chest pockets</li>\n  <li>Embossed signature on front pocket</li>\n  <li>Tone-on-tone embossed LV on the back</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£795.00",
+      "priceRaw": 795.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCHJ",
+              "size": "XXS",
+              "color": "White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHK",
+              "size": "XS",
+              "color": "White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHL",
+              "size": "S",
+              "color": "White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHM",
+              "size": "M",
+              "color": "White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHN",
+              "size": "L",
+              "color": "White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHO",
+              "size": "XL",
+              "color": "White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHP",
+              "size": "XXL",
+              "color": "White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHQ",
+              "size": "XXXL",
+              "color": "White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHR",
+              "size": "XXXXL",
+              "color": "White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHS",
+              "size": "XXXXXL",
+              "color": "White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/signature-short-sleeved-cotton-shirt-nvprod6010049v/1AHCHL",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-White.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-signature-short-sleeved-cotton-shirt--HSS75WAS1001_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "White",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCHF",
+      "productId": "nvprod6010050v",
+      "name": "Embroidered Short-Sleeved Cotton Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This smart black short-sleeved shirt cut from organic cotton poplin is given a contemporary twist with an open collar. From the travel-inspired Spring-Summer 2025 Show, it is embellished with an embroidered tone-on-tone signature adorned with sequins on the chest pocket. This versatile design can adapt to both casual and smart occasions.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>Mother-of-pearl effect button fastening</li>\n  <li>1 chest pocket</li>\n  <li>Embroidered signature on chest pocket</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£850.00",
+      "priceRaw": 850.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "XXL",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Do not rub</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCH9",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHA",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHB",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHC",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHD",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHE",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHF",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHG",
+              "size": "XXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHH",
+              "size": "XXXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCHI",
+              "size": "XXXXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS73WAS1900_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/embroidered-short-sleeved-cotton-shirt-nvprod6010050v/1AHCHF",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCH0",
+      "productId": "nvprod6010051v",
+      "name": "Graphic Jacquard Short-Sleeved Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This chic short-sleeved shirt is cut from a richly textured tone-on-tone black Damoflage jacquard. The easy silhouette with a contemporary open collar is adorned with a bead-embroidered LV signature patch that adds a sophisticated finishing touch. This versatile piece is easy to style with the Spring-Summer 2025 Show’s smart black silhouettes, pairing with matching shorts for an effortlessly refined day-to-evening set.</p>",
+      "detailedDescription": "<ul>\n  <li>100% viscose</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>Mother-of-pearl effect buttons in aged gold-tone settings</li>\n  <li>Signature jacquard</li>\n  <li>Signature patch on back</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,340.00",
+      "priceRaw": 1340.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "XS",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCGZ",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCH0",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCH1",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCH2",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCH3",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCH4",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCH5",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCH6",
+              "size": "XXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCH7",
+              "size": "XXXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCH8",
+              "size": "XXXXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-jacquard-short-sleeved-shirt--HSS70WSUJ900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/graphic-jacquard-short-sleeved-shirt-nvprod6010051v/1AHCH0",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCGL",
+      "productId": "nvprod6010052v",
+      "name": "Bead-Embellished Short-Sleeved Silk Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This short-sleeved shirt with its modern open collar embodies the effortless elegance of the Spring-Summer 2025 Show. It is crafted from lustrous silk twill and adorned with a line of embroidered silver beads that outlines the collar and button placket. A matching jacket and trousers make a chic evening ensemble.</p>",
+      "detailedDescription": "<ul>\n  <li>100% silk</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>Striped monochrome jacquard twill</li>\n  <li>Silver beaded trim on collar and fastening</li>\n  <li>Button fastening</li>\n  <li>Signature patch on back</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,960.00",
+      "priceRaw": 1960.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "XL",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCGH",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGI",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGJ",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGK",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGL",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGM",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGN",
+              "size": "XXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGO",
+              "size": "XXXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/bead-embellished-short-sleeved-silk-shirt-nvprod6010052v/1AHCGL",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bead-embellished-short-sleeved-silk-shirt--HSS66WRID900_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCGD",
+      "productId": "nvprod6010053v",
+      "name": "Jacquard Damier Long-Sleeved Silk Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This black long-sleeved shirt is embellished with a softly textured jacquard weave in lustrous organic silk. It features a tone-on-tone all-over Damier incorporating Marque L.Vuitton Déposée signatures and is adorned with lustrous mother-of-pearl effect buttons. This versatile piece can complete a wide range of day-to-evening looks.</p>",
+      "detailedDescription": "<ul>\n  <li>100% silk</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>Mother-of-pearl effect buttons in aged gold settings</li>\n  <li>Signature jacquard</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,700.00",
+      "priceRaw": 1700.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "XXL",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCG7",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCG8",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCG9",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGA",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGB",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGC",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGD",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGE",
+              "size": "XXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGF",
+              "size": "XXXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCGG",
+              "size": "XXXXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCFX",
+              "size": "XXS",
+              "color": "Wistful Mauve"
+          },
+          {
+              "skuId": "1AHCFY",
+              "size": "XS",
+              "color": "Wistful Mauve"
+          },
+          {
+              "skuId": "1AHCFZ",
+              "size": "S",
+              "color": "Wistful Mauve"
+          },
+          {
+              "skuId": "1AHCG0",
+              "size": "M",
+              "color": "Wistful Mauve"
+          },
+          {
+              "skuId": "1AHCG1",
+              "size": "L",
+              "color": "Wistful Mauve"
+          },
+          {
+              "skuId": "1AHCG2",
+              "size": "XL",
+              "color": "Wistful Mauve"
+          },
+          {
+              "skuId": "1AHCG3",
+              "size": "XXL",
+              "color": "Wistful Mauve"
+          },
+          {
+              "skuId": "1AHCG4",
+              "size": "XXXL",
+              "color": "Wistful Mauve"
+          },
+          {
+              "skuId": "1AHCG5",
+              "size": "XXXXL",
+              "color": "Wistful Mauve"
+          },
+          {
+              "skuId": "1AHCG6",
+              "size": "XXXXXL",
+              "color": "Wistful Mauve"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jacquard-damier-long-sleeved-silk-shirt--HSS62WSLR900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/jacquard-damier-long-sleeved-silk-shirt-nvprod6010053v/1AHCGD",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AHCFO",
+      "productId": "nvprod6010054v",
+      "name": "Monogram Jacquard Long-Sleeved Cotton Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This long-sleeved white cotton-blend shirt is distinguished with a tone-on-tone Mini Monogram waffle jacquard with a softly textured finish. Mother-of-pearl effect buttons adorn the timeless silhouette of this refined piece, which brings a delicate signature accent to this season’s looks.</p>",
+      "detailedDescription": "<ul>\n  <li>97% cotton, 3% polyamide</li>\n  <li>Milk White</li>\n  <li>Regular fit</li>\n  <li>Mother-of-pearl effect buttons</li>\n  <li>Signature waffle jacquard</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "XS",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Pre-Order - Delivery from 2nd January",
+      "skus": [
+          {
+              "skuId": "1AHCFN",
+              "size": "XXS",
+              "color": "Milky White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCFO",
+              "size": "XS",
+              "color": "Milky White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCFP",
+              "size": "S",
+              "color": "Milky White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCFQ",
+              "size": "M",
+              "color": "Milky White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCFR",
+              "size": "L",
+              "color": "Milky White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCFS",
+              "size": "XL",
+              "color": "Milky White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCFT",
+              "size": "XXL",
+              "color": "Milky White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCFU",
+              "size": "XXXL",
+              "color": "Milky White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCFV",
+              "size": "XXXXL",
+              "color": "Milky White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AHCFW",
+              "size": "XXXXXL",
+              "color": "Milky White",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-jacquard-long-sleeved-cotton-shirt-nvprod6010054v/1AHCFO",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Milky-White.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-long-sleeved-cotton-shirt--HSS60WSPC002_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Milky White",
+      "isDiamond": false,
+      "collection": "Z268"
+  },
+  {
+      "skuId": "1AFWGI",
+      "productId": "nvprod5740304v",
+      "name": "Monogram Long-Sleeved Silk Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This lustrous silk evening shirt is embellished with a tonal all-over mini Monogram jacquard. This luxurious clothing piece brings a sophisticated play of textures to a black grain de poudre evening suit.</p>",
+      "detailedDescription": "<ul>\n  <li>100% silk</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>Mini Monogram jacquard</li>\n  <li>Monogram top button</li>\n  <li>Pointy collar</li>\n  <li>Concealed button placket</li>\n  <li>Simple cuffs</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,610.00",
+      "priceRaw": 1610.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "41",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Remove accessories before cleaning</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWGD",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGE",
+              "size": "37",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGF",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGG",
+              "size": "39",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGH",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGI",
+              "size": "41",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGJ",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGK",
+              "size": "43",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGL",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-long-sleeved-silk-shirt--HSS9PWDIV900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-long-sleeved-silk-shirt-nvprod5740304v/1AFWGI",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AFXVN",
+      "productId": "nvprod5620059v",
+      "name": "LV x Park Seo-Bo Cotton Short-Sleeved Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This vibrant red short-sleeved cotton shirt is from the exclusive LV x Park Seo-Bo capsule. It pays homage to the artist’s paintings with a sophisticated jacquard in mixed yarn that evokes his vertical brush strokes with a velvety 3D effect. A Park Seo-Bo tab signs the left seam, while the back is adorned with a metal LV ornament.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Red</li>\n  <li>Straight fit</li>\n  <li>Metal LV ornament on the back</li>\n  <li>Striped Jacquard Park Seo-Bo motif all over</li>\n  <li>Button-down collar</li>\n  <li>1 patch chest pocket</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£885.00",
+      "priceRaw": 885.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Red",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFXVL",
+              "size": "XS",
+              "color": "Rouge Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVM",
+              "size": "S",
+              "color": "Rouge Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVN",
+              "size": "M",
+              "color": "Rouge Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVO",
+              "size": "L",
+              "color": "Rouge Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVP",
+              "size": "XL",
+              "color": "Rouge Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVQ",
+              "size": "XXL",
+              "color": "Rouge Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVR",
+              "size": "XXXL",
+              "color": "Rouge Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVS",
+              "size": "XXXXL",
+              "color": "Rouge Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX502_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-park-seo-bo-cotton-short-sleeved-shirt-nvprod5620059v/1AFXVN",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-502_rouge_vif.jpg",
+      "enableViewBySet": false,
+      "color": "Rouge Vif",
+      "isDiamond": false,
+      "collection": "Z253"
+  },
+  {
+      "skuId": "1AFXV4",
+      "productId": "nvprod5620061v",
+      "name": "Long-Sleeved LV Blason Embellished Corduroy Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This black corduroy shirt is given a sparkling treatment with an all-over LV Blason motif picked out in black diamanté crystals, making it perfect for day-to-evening occasions. Monogram Flower-engraved snap buttons add further refinement to this casual yet sophisticated clothing piece, which can be worn as both a shirt or as an outer layer.</p>",
+      "detailedDescription": "<ul>\n  <li>98% cotton, 2% elastane</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>All-over LV Blason motif in applied diamanté crystals</li>\n  <li>Monogram Flower-engraved buttons</li>\n  <li>Press stud closure</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,700.00",
+      "priceRaw": 1700.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "L",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFXV0",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXV1",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXV2",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXV3",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXV4",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXV5",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXV6",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXV7",
+              "size": "XXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXV8",
+              "size": "XXXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXV9",
+              "size": "XXXXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-lv-blason-embellished-corduroy-shirt--HSS35WMPU900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/button-down-long-sleeved-corduroy-shirt-nvprod5620061v/1AFXV4",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z253"
+  },
+  {
+      "skuId": "1AFXUT",
+      "productId": "nvprod5620062v",
+      "name": "LV x Park Seo-Bo Corduroy Long-Sleeved Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This vibrant long-sleeved shirt from the exclusive LV x Park Seo-Bo capsule is crafted from cotton corduroy in two shades of green, inspired by the colours and textures of the artist’s Ecriture series of paintings. A metal LV ornament on the chest adorns this graphic piece, which has matching trousers for a total look.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Light Green</li>\n  <li>Regular fit</li>\n  <li>Green metal LV ornament on the left chest</li>\n  <li>LV signature on the top button</li>\n  <li>Press stud closure in matching green</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,610.00",
+      "priceRaw": 1610.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Green",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFXUR",
+              "size": "XS",
+              "color": "Light Green",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUS",
+              "size": "S",
+              "color": "Light Green",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUT",
+              "size": "M",
+              "color": "Light Green",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUU",
+              "size": "L",
+              "color": "Light Green",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUV",
+              "size": "XL",
+              "color": "Light Green",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUW",
+              "size": "XXL",
+              "color": "Light Green",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUX",
+              "size": "XXXL",
+              "color": "Light Green",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUY",
+              "size": "XXXXL",
+              "color": "Light Green",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-corduroy-long-sleeved-shirt--HSS39WMPY320_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-park-seo-bo-corduroy-long-sleeved-shirt-nvprod5620062v/1AFXUT",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Light_Green.jpg",
+      "enableViewBySet": false,
+      "color": "Light Green",
+      "isDiamond": false,
+      "collection": "Z253"
+  },
+  {
+      "skuId": "1AFXW8",
+      "productId": "nvprod5620057v",
+      "name": "LV Blason Printed Cotton Long-Sleeved Oxford Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This long-sleeved Oxford shirt is crafted in cotton and elevated with a discreet tonal all-over LV Blason motif. The button closure is concealed behind a placket for an elegantly streamlined look. This clothing piece can be layered with the LV Blason jacquard Napolitana jacket and trousers as part of a contemporary mid-season suit.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Sky Blue</li>\n  <li>Regular fit</li>\n  <li>All-over LV Blason print</li>\n  <li>Button closure concealed behind placket</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£805.00",
+      "priceRaw": 805.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "L",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Maximum washing temperature 30°C</li>\n  <li>Mild process</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry flat</li>\n  <li>Iron inside out with fabric in between</li>\n  <li>Wash inside out in a net</li>\n  <li>Machine wash very gently at 30°C</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFXW4",
+              "size": "XXS",
+              "color": "Sky Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXW5",
+              "size": "XS",
+              "color": "Sky Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXW6",
+              "size": "S",
+              "color": "Sky Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXW7",
+              "size": "M",
+              "color": "Sky Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXW8",
+              "size": "L",
+              "color": "Sky Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXW9",
+              "size": "XL",
+              "color": "Sky Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXWA",
+              "size": "XXL",
+              "color": "Sky Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXWB",
+              "size": "XXXL",
+              "color": "Sky Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXWC",
+              "size": "XXXXL",
+              "color": "Sky Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXWD",
+              "size": "XXXXXL",
+              "color": "Sky Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-blason-printed-cotton-long-sleeved-oxford-shirt--HSS32WKSU600_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/printed-cotton-long-sleeved-oxford-shirt-nvprod5620057v/1AFXW8",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Sky_Blue.jpg",
+      "enableViewBySet": false,
+      "color": "Sky Blue",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFXVY",
+      "productId": "nvprod5620058v",
+      "name": "Monogram Printed Long-Sleeved Cotton Poplin Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This long-sleeved light cotton shirt is elevated with a Monogram Macro motif in pale blue tones, printed in a sophisticated dark-to-light gradient from the hem to the collar. Mother-of-pearl-effect buttons on the collar and cuffs add a smart finishing touch to this elegant piece, which can complete a wide range of looks.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Ballad Blue</li>\n  <li>Regular fit</li>\n  <li>Monogram Macro gradient print</li>\n  <li>Button closure concealed behind placket</li>\n  <li>Back yoke</li>\n  <li>Mother-of-pearl-effect buttons</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£980.00",
+      "priceRaw": 980.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "L",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFXVU",
+              "size": "XXS",
+              "color": "Ballad Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVV",
+              "size": "XS",
+              "color": "Ballad Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVW",
+              "size": "S",
+              "color": "Ballad Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVX",
+              "size": "M",
+              "color": "Ballad Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVY",
+              "size": "L",
+              "color": "Ballad Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVZ",
+              "size": "XL",
+              "color": "Ballad Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXW0",
+              "size": "XXL",
+              "color": "Ballad Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXW1",
+              "size": "XXXL",
+              "color": "Ballad Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXW2",
+              "size": "XXXXL",
+              "color": "Ballad Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXW3",
+              "size": "XXXXXL",
+              "color": "Ballad Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-long-sleeved-cotton-poplin-shirt--HSS32WNCM6C1_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-printed-long-sleeved-cotton-poplin-shirt-nvprod5620058v/1AFXVY",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Ballad_Blue.jpg",
+      "enableViewBySet": false,
+      "color": "Ballad Blue",
+      "isDiamond": false,
+      "collection": "Z253"
+  },
+  {
+      "skuId": "1AFXVE",
+      "productId": "nvprod5620060v",
+      "name": "LV x Park Seo-Bo Cotton Short-Sleeved Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This pale blue short-sleeved cotton shirt is from the exclusive LV x Park Seo-Bo capsule. It pays homage to the artist’s paintings with a sophisticated jacquard in mixed yarn that evokes his vertical brush strokes with a velvety 3D effect. A Park Seo-Bo tab signs the left seam, while the back is adorned with a metal LV ornament.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Pastel Blue</li>\n  <li>Straight fit</li>\n  <li>Metal LV ornament on the back</li>\n  <li>Park Seo-Bo signature tab on left seam</li>\n  <li>Striped Jacquard Park Seo-Bo motif all over</li>\n  <li>Button-down collar</li>\n  <li>1 patch pocket on chest</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£885.00",
+      "priceRaw": 885.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "L",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFXVA",
+              "size": "XXS",
+              "color": "Pastel Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVB",
+              "size": "XS",
+              "color": "Pastel Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVC",
+              "size": "S",
+              "color": "Pastel Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVD",
+              "size": "M",
+              "color": "Pastel Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVE",
+              "size": "L",
+              "color": "Pastel Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVF",
+              "size": "XL",
+              "color": "Pastel Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVG",
+              "size": "XXL",
+              "color": "Pastel Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVH",
+              "size": "XXXL",
+              "color": "Pastel Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXVI",
+              "size": "XXXXL",
+              "color": "Pastel Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-park-seo-bo-cotton-short-sleeved-shirt--HSS33WNAX61A_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-park-seo-bo-cotton-short-sleeved-shirt-nvprod5620060v/1AFXVE",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Pastel_Blue.jpg",
+      "enableViewBySet": false,
+      "color": "Pastel Blue",
+      "isDiamond": false,
+      "collection": "Z253"
+  },
+  {
+      "skuId": "1AFXUK",
+      "productId": "nvprod5620063v",
+      "name": "Monogram Printed Short-Sleeved Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This cotton poplin short-sleeved shirt makes a bold impact with a sophisticated Monogram macro motif in deep blue tones, printed in a subtle dark-to-light gradient from the hem to the collar. This versatile clothing piece can be dressed up or down and is a refreshing layer for warmer days.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Petrol Blue</li>\n  <li>Regular fit</li>\n  <li>Monogram macro print</li>\n  <li>Button closure</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£885.00",
+      "priceRaw": 885.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "L",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFXUG",
+              "size": "XXS",
+              "color": "Bleu Pétrole",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUH",
+              "size": "XS",
+              "color": "Bleu Pétrole",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUI",
+              "size": "S",
+              "color": "Bleu Pétrole",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUJ",
+              "size": "M",
+              "color": "Bleu Pétrole",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUK",
+              "size": "L",
+              "color": "Bleu Pétrole",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUL",
+              "size": "XL",
+              "color": "Bleu Pétrole",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUM",
+              "size": "XXL",
+              "color": "Bleu Pétrole",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUN",
+              "size": "XXXL",
+              "color": "Bleu Pétrole",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUO",
+              "size": "XXXXL",
+              "color": "Bleu Pétrole",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFXUP",
+              "size": "XXXXXL",
+              "color": "Bleu Pétrole",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-printed-short-sleeved-shirt--HSS40WNCM630_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-printed-short-sleeved-shirt-nvprod5620063v/1AFXUK",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-630_bleu_petrole.jpg",
+      "enableViewBySet": false,
+      "color": "Bleu Pétrole",
+      "isDiamond": false,
+      "collection": "Z253"
+  },
+  {
+      "skuId": "1AFWG7",
+      "productId": "nvprod5740303v",
+      "name": "Embroidered Long-Sleeved Cotton Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This timeless shirt in smooth cotton poplin is signed with discreet tonal LV embroidery along the top of the chest pocket and around the cuffs, recalling the debossed leather details on the House’s heritage trunks. This is an effortless clothing piece for pairing with any tailored ensemble.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Ice Water Blue</li>\n  <li>Regular fit</li>\n  <li>Tone-on-tone LV embroidery on pocket and cuffs</li>\n  <li>Pointy collar</li>\n  <li>Simple cuffs</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£580.00",
+      "priceRaw": 580.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "39",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product care",
+              "description": "<ul><li>Do not wash</li><li>Do not bleach</li><li>Do not tumble dry</li><li>Iron at a maximum sole-plate temperature of 110°C</li><li>Mild professional dry cleaning in hydrocarbons KWL</li><li>Gentle dry clean</li><li>Dry clean inside out in a net</li><li>Remove accessories before cleaning</li></ul>",
+              "introduction": "<div class=\"popinHeader uppercase\">To preserve the quality of this garment, we recommend you to respect the care instructions :</div>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWG5",
+              "size": "37",
+              "color": "Ice Water",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWG6",
+              "size": "38",
+              "color": "Ice Water",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWG7",
+              "size": "39",
+              "color": "Ice Water",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWG8",
+              "size": "40",
+              "color": "Ice Water",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWG9",
+              "size": "41",
+              "color": "Ice Water",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGA",
+              "size": "42",
+              "color": "Ice Water",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGB",
+              "size": "43",
+              "color": "Ice Water",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWGC",
+              "size": "44",
+              "color": "Ice Water",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWG4",
+              "size": "36",
+              "color": "Ice Water",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS7PWDHI60E_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-long-sleeved-cotton-shirt--HSS7PWDHI60E_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/embroidered-long-sleeved-cotton-shirt-nvprod5740303v/1AFWG7",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Ice_Water.jpg",
+      "enableViewBySet": false,
+      "color": "Ice Water",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AFWG0",
+      "productId": "nvprod5740302v",
+      "name": "Embroidered Short-Sleeved Cotton Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This short-sleeved shirt crafted in smooth white cotton poplin offers a fresh mood for warmer days in the office. The timeless silhouette is elevated with tone-on-tone LV embroidery across the patch pocket, recalling the debossed leather detailing on the House’s heritage trunks. This is an effortless piece for pairing with any tailored ensemble.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Optic White</li>\n  <li>Regular fit</li>\n  <li>Tone-on-tone LV embroidery on chest pocket</li>\n  <li>Pointy collar</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£535.00",
+      "priceRaw": 535.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "41",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product care",
+              "description": "<ul><li>Do not wash</li><li>Do not bleach</li><li>Do not tumble dry</li><li>Iron at a maximum sole-plate temperature of 110°C</li><li>Mild professional dry cleaning in hydrocarbons KWL</li><li>Gentle dry clean</li><li>Dry clean inside out in a net</li><li>Iron inside out with a fabric in between</li></ul>",
+              "introduction": "<div class=\"popinHeader uppercase\">To preserve the quality of this garment, we recommend you to respect the care instructions :</div>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWFW",
+              "size": "37",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFX",
+              "size": "38",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFY",
+              "size": "39",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFZ",
+              "size": "40",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWG0",
+              "size": "41",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWG1",
+              "size": "42",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWG2",
+              "size": "43",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWG3",
+              "size": "44",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFV",
+              "size": "36",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embroidered-short-sleeved-cotton-shirt--HSS4PWDHI000_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/embroidered-short-sleeved-cotton-shirt-nvprod5740302v/1AFWG0",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-LG-Blanc.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Optique",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AFWFP",
+      "productId": "nvprod5740301v",
+      "name": "Monogram Short-Sleeved Cotton Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This pale blue short-sleeved shirt is a versatile layer for warmer days in the office. Tailored from pure cotton, it is embellished with an all-over Monogram pattern in a sophisticated jacquard weave with a subtle lustre. This piece brings a discreet signature twist to a plain suit and can also be layered with more graphic formal ensembles featuring a Monogram motif.</p>",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Light Blue</li>\n  <li>Regular fit</li>\n  <li>All-over Monogram jacquard</li>\n  <li>Pointy collar</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£615.00",
+      "priceRaw": 615.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "39",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWFM",
+              "size": "36",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFN",
+              "size": "37",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFO",
+              "size": "38",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFP",
+              "size": "39",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFQ",
+              "size": "40",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFR",
+              "size": "41",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFS",
+              "size": "42",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFT",
+              "size": "43",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWFU",
+              "size": "44",
+              "color": "Light Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-short-sleeved-cotton-shirt--HSS3PWJXK605_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-short-sleeved-cotton-shirt-nvprod5740301v/1AFWFP",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Light_Blue.jpg",
+      "enableViewBySet": false,
+      "color": "Light Blue",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AFWEZ",
+      "productId": "nvprod5740298v",
+      "name": "Bib Front Cotton Evening Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Impeccably chic, this white cotton poplin evening shirt is distinguished with pearl-effect buttons lending jewel-like accents to the collar and cuffs. With its crisply pleated bib front, this sophisticated clothing piece can be worn under a formal waistcoat or paired with a tuxedo for a timeless evening look.</p>",
+      "detailedDescription": "<ul>\n  <li>65% polyester, 35% cotton</li>\n  <li>White</li>\n  <li>Regular fit</li>\n  <li>Pearl-effect top button with LV signature</li>\n  <li>LV signatures on seam gussets</li>\n  <li>Bib front</li>\n  <li>Concealed button placket</li>\n  <li>Pearl-effect buttons on cuffs</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£795.00",
+      "priceRaw": 795.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "39",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWEW",
+              "size": "36",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEX",
+              "size": "37",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEY",
+              "size": "38",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWEZ",
+              "size": "39",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWF0",
+              "size": "40",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWF1",
+              "size": "41",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWF2",
+              "size": "42",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWF3",
+              "size": "43",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWF4",
+              "size": "44",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM1_Closeup view.jpg",
+              "name": "Closeup view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bib-front-cotton-evening-shirt--HSFS1WNYR001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/bib-front-cotton-evening-shirt-nvprod5740298v/1AFWEZ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-001_blanc.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc",
+      "isDiamond": false,
+      "collection": "Z288"
+  },
+  {
+      "skuId": "1AFWSS",
+      "productId": "nvprod5530133v",
+      "name": "Printed Short-Sleeved Silk Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Crafted from lustrous metallic grey organic silk, this fluid short-sleeved shirt has a relaxed open collar silhouette for summer. It features lasso-inspired LV Ropes signatures from the Fall-Winter 2024 Show, with an LV printed on the chest and an LV Lovers motif that adorns the back. Mother-of-pearl-effect buttons accent this refined day-to-evening piece, which can be worn as a set with matching shorts.</p>",
+      "detailedDescription": "<ul>\n  <li>100% silk</li>\n  <li>Grey</li>\n  <li>Relaxed fit</li>\n  <li>Printed LV Ropes signature on the chest</li>\n  <li>LV Ropes-printed LV Lovers signature on the back</li>\n  <li>Mother-of-pearl-effect buttons</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,360.00",
+      "priceRaw": 1360.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "L",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWSP",
+              "size": "XS",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSQ",
+              "size": "S",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSR",
+              "size": "M",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSS",
+              "size": "L",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWST",
+              "size": "XL",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSU",
+              "size": "XXL",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSV",
+              "size": "XXXL",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSW",
+              "size": "XXXXL",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.freecaster.com/embed/9c7ce265-bf3e-46fd-9d8a-c5f746e728db",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/printed-short-sleeved-silk-shirt-nvprod5530133v/1AFWSS",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Grey.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-short-sleeved-silk-shirt--HRS99WNGM752_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Grey",
+      "isDiamond": false,
+      "collection": "Z207"
+  },
+  {
+      "skuId": "1AFWSJ",
+      "productId": "nvprod5530127v",
+      "name": "Printed Long-Sleeved Silk Pyjama Overshirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This fluid pyjama-inspired shirt is crafted from pure silk printed with the Fall-Winter 2024 Show’s emblematic LV Arabesque motif, inspired by traditional cowboy boots. The graphic yet delicate white-on-black motif mimics embroidery while contrasting white piping draws attention to the Western yoke and mother-of-pearl button closure. Matching pyjama trousers make a fluid silhouette for evenings.</p>",
+      "detailedDescription": "<ul>\n  <li>100% silk</li>\n  <li>Black</li>\n  <li>Relaxed fit</li>\n  <li>LV Arabesque printed motif</li>\n  <li>Western-style yoke front and back</li>\n  <li>Buttoned flap pocket on chest</li>\n  <li>Contrasting piping on seams and hems</li>\n  <li>Mother-of-pearl-effect buttoned closure</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,990.00",
+      "priceRaw": 1990.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Men",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "L",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons with KWL</li>\n  <li>Dry clean gently</li>\n  <li>Dry clean inside out in a net</li>\n  <li>Iron inside out with fabric in between</li>\n</ul>",
+              "introduction": "<p>To maintain the quality of your Louis Vuitton product, we recommend that you follow the care instructions:</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFWSF",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSG",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSH",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSI",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSJ",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSK",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSL",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSM",
+              "size": "XXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFWSN",
+              "size": "XXXXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.freecaster.com/embed/9c7ce26e-be41-4e16-b70c-1837d953e3be",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/printed-long-sleeved-silk-pyjama-overshirt-nvprod5530127v/1AFWSJ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-printed-long-sleeved-silk-pyjama-overshirt--HRS80WMRR900_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z207"
+  }
+]

@@ -1,0 +1,2883 @@
+[
+  {
+      "skuId": "1A5TRO",
+      "productId": "nvprod1800024v",
+      "name": "Louis Vuitton Print T-Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "This playful T-shirt combines a Louis Vuitton signature with a cool, laid-back vibe. Crafted from soft cotton jersey, it is printed on the inside with a Louis Vuitton motif, creating a reversed and slightly faded effect when worn. A palladium chain detail adds an iconic finishing touch.",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>White</li>\n  <li>Regular fit</li>\n  <li>Model wears size S</li>\n  <li>Model measurements: bust 81 cm/24 inches, height 178 cm/5 foot 10 inches, waist 61 cm/24 inches, hips 88 cm/34 inches</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£620.00",
+      "priceRaw": 620.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": true,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1A5TRM",
+              "size": "XXS",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5TRN",
+              "size": "XS",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5TRO",
+              "size": "S",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5TRP",
+              "size": "M",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5TRQ",
+              "size": "L",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5TRR",
+              "size": "XL",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5TRS",
+              "size": "XXL",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1481656",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/louis-vuitton-print-t-shirt-nvprod1800024v/1A5TRO",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-001_blanc.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FITS02LCT001_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1A84CM",
+      "productId": "nvprod2170062v",
+      "name": "Louis Vuitton Print T-Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "This playful piece twists a basic T-shirt shape with a reversed Louis Vuitton signature. The motif is printed on the cotton jersey fabric with a distinctive mottled effect. The House’s iconic chain detail adds a finishing touch to the piece.",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>Model wears size S</li>\n  <li>Model measurements: bust 79 cm/31 inches, height 176 cm/5 feet 10 inches, waist 57 cm/22.4 inches, hips 85 cm/33.5 inches</li>\n  <li>Made in Italy</li>\n  <li>Wash by hand</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Do not dry clean</li>\n</ul>",
+      "price": "£620.00",
+      "priceRaw": 620.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": true,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1A84CJ",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A84CK",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A84CL",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A84CM",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A84CN",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A84CO",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A84CP",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1481683",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/louis-vuitton-print-t-shirt-nvprod2170062v/1A84CM",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-print-t-shirt--FJTS18TXP900_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1A4PF8",
+      "productId": "nvprod1130152v",
+      "name": "Side Strap T-Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "Crafted from soft jersey, the Side Strap T-Shirt offers a contemporary spin on the classic wardrobe staple. It features an adjustable waist, which is evocative of kimono obi belts thanks to its fabric side straps and iconic metallic D-ring. Gold-tone Monogram Flower details embellish the neckline.",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>White</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£715.00",
+      "priceRaw": 715.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": true,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1A4PF5",
+              "size": "XXS",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PF6",
+              "size": "XS",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PF7",
+              "size": "S",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PF8",
+              "size": "M",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PF9",
+              "size": "L",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFA",
+              "size": "XL",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFB",
+              "size": "XXL",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFC",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFD",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFE",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFF",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFG",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFH",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFI",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1481666",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/side-strap-t-shirt-nvprod1130152v/1A4PF8",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-001_blanc.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1A4PFF",
+      "productId": "nvprod1130152v",
+      "name": "Side Strap T-Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "Crafted from soft jersey, the Side Strap T-Shirt offers a contemporary spin on the classic wardrobe staple. It features an adjustable waist, which is evocative of kimono obi belts thanks to its fabric side straps and iconic metallic D-ring. Gold-tone Monogram Flower details embellish the neckline.",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£715.00",
+      "priceRaw": 715.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": true,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1A4PF5",
+              "size": "XXS",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PF6",
+              "size": "XS",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PF7",
+              "size": "S",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PF8",
+              "size": "M",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PF9",
+              "size": "L",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFA",
+              "size": "XL",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFB",
+              "size": "XXL",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFC",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFD",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFE",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFF",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFG",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFH",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PFI",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-side-strap-t-shirt--FGTS03JG2900_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1481665",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/side-strap-t-shirt-nvprod1130152v/1A4PFF",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1A8QDI",
+      "productId": "nvprod2800274v",
+      "name": "LV Escale Printed T-Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This T-shirt in soft cotton jersey from the LV Escale Summer capsule is printed with the iconic Monogram on the inside for a subtle faded effect. Flattering, breezy cap sleeves and a chain detail at the neck give this fresh, relaxed summer essential a dressy touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Outer material: 100% cotton</li>\n  <li>White</li>\n  <li>Regular fit</li>\n  <li>Model wears size S</li>\n  <li>Model measurements: bust 76 cm/30 inches, height 176 cm/5 feet 10 inches, waist 62 cm/25.5 inches, hips 88 cm/34 inches</li>\n  <li>Made in Italy</li>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning with tetrachloroethane/F solvent </li>\n</ul>",
+      "price": "£760.00",
+      "priceRaw": 760.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": true,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1A8QDG",
+              "size": "XXS",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A8QDH",
+              "size": "XS",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A8QDI",
+              "size": "S",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A8QDJ",
+              "size": "M",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A8QDK",
+              "size": "L",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A8QDL",
+              "size": "XL",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A8QDM",
+              "size": "XXL",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-escale-printed-t-shirt--FKTS21UYZ001_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1471036",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-escale-printed-t-shirt-nvprod2800274v/1A8QDI",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-001_blanc.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1A5M05",
+      "productId": "nvprod1430100v",
+      "name": "Frill Blouse",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "With subtle ruffle accents on the sleeves and collar, this Frill Blouse is an enchanting piece. Gold-tone details catch the light in the form of Monogram Flowers on the front and LV buttons at the neck. The blouse has been made from soft cotton poplin and features Monogram fil coupé to create an elegant piece.",
+      "detailedDescription": "<ul>\n  <li>100% cotton</li>\n  <li>Optic White</li>\n  <li>Slightly boxy</li>\n  <li>Made in Italy</li>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons</li>\n  <li>Professional dry cleaning in hydrocarbons</li>\n</ul>",
+      "price": "£930.00",
+      "priceRaw": 930.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": true,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1A5M04",
+              "size": "34",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5M05",
+              "size": "36",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5M06",
+              "size": "38",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5M07",
+              "size": "40",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5M08",
+              "size": "42",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A5M09",
+              "size": "44",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frill-blouse--FHBL13AQV000_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1481663",
+              "name": "freeCaster Media Worn View"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1277707",
+              "name": "Product push"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/frill-blouse-nvprod1430100v/1A5M05",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-LG-Blanc.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Optique",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGSKP",
+      "productId": "nvprod5880055v",
+      "name": "Monogram Pocket T-Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This T-shirt is a Louis Vuitton essential in a slightly tapered fit cut from soft, comfortable cotton jersey. The patch pocket is elegantly signed with Monogram silk trimmed with a graphic stripe accent, reminiscent of the borders of classic silk scarves. An LV chain detail adds a contemporary House touch to the neckline.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£760.00",
+      "priceRaw": 760.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGSKM",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pocket-t-shirt--FSTS22UOL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGSKN",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pocket-t-shirt--FSTS22UOL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGSKO",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pocket-t-shirt--FSTS22UOL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGSKP",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pocket-t-shirt--FSTS22UOL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGSKQ",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pocket-t-shirt--FSTS22UOL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGSKR",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pocket-t-shirt--FSTS22UOL001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGSKS",
+              "size": "XXL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pocket-t-shirt--FSTS22UOL001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pocket-t-shirt--FSTS22UOL001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pocket-t-shirt--FSTS22UOL001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pocket-t-shirt--FSTS22UOL001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-pocket-t-shirt-nvprod5880055v/1AGSKP",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGRI6",
+      "productId": "nvprod5860236v",
+      "name": "Rhinestone Mahina T-Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>A seasonal signature elevates a timeless clothing staple. This T-shirt is playfully signed all over with the delicate Mahina Monogram motif in a sparkly rhinestone finish. It is cut from soft, comfortable cotton jersey in a classic straight-cut shape with a sporty ribbed crew neckline for versatile daily styling.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Shining Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,630.00",
+      "priceRaw": 1630.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Fashion Show",
+      "skus": [
+          {
+              "skuId": "1AGRI4",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rhinestone-mahina-t-shirt--FSTS98SZN90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRI5",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rhinestone-mahina-t-shirt--FSTS98SZN90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRI6",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rhinestone-mahina-t-shirt--FSTS98SZN90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRI7",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rhinestone-mahina-t-shirt--FSTS98SZN90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRI8",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rhinestone-mahina-t-shirt--FSTS98SZN90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRI9",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rhinestone-mahina-t-shirt--FSTS98SZN90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRIA",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rhinestone-mahina-t-shirt--FSTS98SZN90T_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rhinestone-mahina-t-shirt--FSTS98SZN90T_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rhinestone-mahina-t-shirt--FSTS98SZN90T_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rhinestone-mahina-t-shirt--FSTS98SZN90T_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/rhinestone-mahina-t-shirt-nvprod5860236v/1AGRI6",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z270"
+  },
+  {
+      "skuId": "1AGRH9",
+      "productId": "nvprod5860235v",
+      "name": "Stencil Signature T-Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This classic T-shirt is playfully signed on the chest with a vintage-effect Louis Vuitton print that nods to the stencilled signatures on the House’s archival travel trunks. This casual clothing piece is crafted from cotton jersey in a timeless straight-cut shape with a crew neckline trimmed with a chic LV chain embellishment.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Bleached Yellow</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£770.00",
+      "priceRaw": 770.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Yellow",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Fashion Show",
+      "skus": [
+          {
+              "skuId": "1AGRH7",
+              "size": "XXS",
+              "color": "Jaune Blanchi",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stencil-signature-t-shirt--FSTS34SYP419_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRH8",
+              "size": "XS",
+              "color": "Jaune Blanchi",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stencil-signature-t-shirt--FSTS34SYP419_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRH9",
+              "size": "S",
+              "color": "Jaune Blanchi",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stencil-signature-t-shirt--FSTS34SYP419_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRHA",
+              "size": "M",
+              "color": "Jaune Blanchi",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stencil-signature-t-shirt--FSTS34SYP419_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRHB",
+              "size": "L",
+              "color": "Jaune Blanchi",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stencil-signature-t-shirt--FSTS34SYP419_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRHC",
+              "size": "XL",
+              "color": "Jaune Blanchi",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stencil-signature-t-shirt--FSTS34SYP419_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRHD",
+              "size": "XXL",
+              "color": "Jaune Blanchi",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stencil-signature-t-shirt--FSTS34SYP419_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stencil-signature-t-shirt--FSTS34SYP419_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stencil-signature-t-shirt--FSTS34SYP419_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stencil-signature-t-shirt--FSTS34SYP419_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/stencil-signature-t-shirt-nvprod5860235v/1AGRH9",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-419_jaune_blanchi.jpg",
+      "enableViewBySet": false,
+      "color": "Jaune Blanchi",
+      "isDiamond": false,
+      "collection": "Z270"
+  },
+  {
+      "skuId": "1AGRGB",
+      "productId": "nvprod5860210v",
+      "name": "Studded LV Sweater",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This staple sweater has a clean, contemporary feel in soft cotton-blend jersey. It is cut in a casual long-sleeved shape with ribbed hems for a timeless look, while the front is embellished with the iconic LV Initials picked out in a shiny, studded finish for a chic signature touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 89% cotton, 11% polyamide</li>\n  <li>Shining Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,270.00",
+      "priceRaw": 1270.00,
+      "currency": "GBP",
+      "locateInStore": false,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Fashion Show",
+      "skus": [
+          {
+              "skuId": "1AGRG9",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-studded-lv-sweater--FSJT95FED90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRGA",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-studded-lv-sweater--FSJT95FED90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRGB",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-studded-lv-sweater--FSJT95FED90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRGC",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-studded-lv-sweater--FSJT95FED90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRGD",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-studded-lv-sweater--FSJT95FED90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRGE",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-studded-lv-sweater--FSJT95FED90T_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRGF",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-studded-lv-sweater--FSJT95FED90T_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-studded-lv-sweater--FSJT95FED90T_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-studded-lv-sweater--FSJT95FED90T_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/studded-lv-sweater-nvprod5860210v/1AGRGB",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z270"
+  },
+  {
+      "skuId": "1AGLZ6",
+      "productId": "nvprod5860186v",
+      "name": "Cape Sleeve Blouse",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>The front of this breezy silk blouse has an understated contemporary aesthetic in a clean-cut oversized shape with a simple rounded neckline. At the back, the billowing long sleeves connect to form a fluid cape-like layer, adding romantic volume to the boxy silhouette. Contrasting cufflinks complete the clothing look with a graphic touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% silk</li>\n  <li>Off White</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£3,100.00",
+      "priceRaw": 3100.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Fashion Show",
+      "skus": [
+          {
+              "skuId": "1AGLZ4",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cape-sleeve-blouse--FSBL75SPM003_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLZ5",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cape-sleeve-blouse--FSBL75SPM003_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLZ6",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cape-sleeve-blouse--FSBL75SPM003_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLZ7",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cape-sleeve-blouse--FSBL75SPM003_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLZ8",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cape-sleeve-blouse--FSBL75SPM003_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLZ9",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cape-sleeve-blouse--FSBL75SPM003_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLZA",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cape-sleeve-blouse--FSBL75SPM003_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cape-sleeve-blouse--FSBL75SPM003_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cape-sleeve-blouse--FSBL75SPM003_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/cape-sleeve-blouse-nvprod5860186v/1AGLZ6",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z270"
+  },
+  {
+      "skuId": "1AGLKM",
+      "productId": "nvprod5860243v",
+      "name": "Trompe L’Oeil Scarf Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This trompe l’oeil top from the runway showcases the House’s savoir-faire with couture levels of craftsmanship. It is made from a soft, lustrous cashmere-silk blend in a subtle striped motif. The sophisticated cropped silhouette drapes across the front and falls gracefully over the shoulders for a scarf-like effect, complete with a zip fastening at the back.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 83% cashmere, 17% silk</li>\n  <li>Beige</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£4,100.00",
+      "priceRaw": 4100.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Beige",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Fashion Show",
+      "skus": [
+          {
+              "skuId": "1AGLKK",
+              "size": "32",
+              "color": "Savane",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-trompe-l-oeil-scarf-top--FSBL69SGZ125_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLKL",
+              "size": "34",
+              "color": "Savane",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-trompe-l-oeil-scarf-top--FSBL69SGZ125_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLKM",
+              "size": "36",
+              "color": "Savane",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-trompe-l-oeil-scarf-top--FSBL69SGZ125_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLKN",
+              "size": "38",
+              "color": "Savane",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-trompe-l-oeil-scarf-top--FSBL69SGZ125_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLKO",
+              "size": "40",
+              "color": "Savane",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-trompe-l-oeil-scarf-top--FSBL69SGZ125_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLKP",
+              "size": "42",
+              "color": "Savane",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-trompe-l-oeil-scarf-top--FSBL69SGZ125_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-trompe-l-oeil-scarf-top--FSBL69SGZ125_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-trompe-l-oeil-scarf-top--FSBL69SGZ125_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/trompe-loeil-scarf-top-nvprod5860243v/1AGLKM",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-125_Savane.jpg",
+      "enableViewBySet": false,
+      "color": "Savane",
+      "isDiamond": false,
+      "collection": "Z270"
+  },
+  {
+      "skuId": "1AGRBF",
+      "productId": "nvprod5860190v",
+      "name": "Utility Strip Silk Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>A standout style from the runway, this shirt is crafted from lightweight, sheer silk gauze with a graphic array of horizontal and vertical strips across the shoulders and body for a structured utility feel. It is cut with a clean standing collar trimmed with three buttons and wrist-grazing sleeves that underscore the boxy shape.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% silk</li>\n  <li>White</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£3,550.00",
+      "priceRaw": 3550.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Fashion Show",
+      "skus": [
+          {
+              "skuId": "1AGRBD",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRBE",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRBF",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRBG",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRBH",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGRBI",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/utility-strip-silk-shirt-nvprod5860190v/1AGRBF",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z270"
+  },
+  {
+      "skuId": "1AGLVY",
+      "productId": "nvprod5860191v",
+      "name": "Utility Strip Silk Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>A standout style from the runway, this shirt is crafted from lightweight, sheer silk gauze with a graphic array of horizontal and vertical strips across the shoulders and body for a structured utility feel. It is cut with a clean standing collar trimmed with three buttons and wrist-grazing sleeves that underscore the boxy shape.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% silk</li>\n  <li>Light Grey</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£3,550.00",
+      "priceRaw": 3550.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Fashion Show",
+      "skus": [
+          {
+              "skuId": "1AGLVW",
+              "size": "32",
+              "color": "Gris Chine",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLVX",
+              "size": "34",
+              "color": "Gris Chine",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLVY",
+              "size": "36",
+              "color": "Gris Chine",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLVZ",
+              "size": "38",
+              "color": "Gris Chine",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLW0",
+              "size": "40",
+              "color": "Gris Chine",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ704_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLW1",
+              "size": "42",
+              "color": "Gris Chine",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ704_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ704_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-utility-strip-silk-shirt--FSBL97SFZ704_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/utility-strip-silk-shirt-nvprod5860191v/1AGLVY",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-740_gris_chine.jpg",
+      "enableViewBySet": false,
+      "color": "Gris Chine",
+      "isDiamond": false,
+      "collection": "Z270"
+  },
+  {
+      "skuId": "1AGLVI",
+      "productId": "nvprod5860187v",
+      "name": "Colour-Blocked Corset Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This contemporary corset top combines clean lines with graphic colour-blocking for a striking statement look. It is crafted from thick, structured silk faille in a sharp silhouette that offsets a straight neckline with a dramatically curved hem, while alternating flashes of black and grey create a flattering effect. It fastens at the side with an LV zip.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% silk</li>\n  <li>Pearl Grey</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£5,000.00",
+      "priceRaw": 5000.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Fashion Show",
+      "skus": [
+          {
+              "skuId": "1AGLVG",
+              "size": "32",
+              "color": "Pearl Grey ",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-colour-blocked-corset-top--FSBL80ZDK701_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLVH",
+              "size": "34",
+              "color": "Pearl Grey ",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-colour-blocked-corset-top--FSBL80ZDK701_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLVI",
+              "size": "36",
+              "color": "Pearl Grey ",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-colour-blocked-corset-top--FSBL80ZDK701_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLVJ",
+              "size": "38",
+              "color": "Pearl Grey ",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-colour-blocked-corset-top--FSBL80ZDK701_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLVK",
+              "size": "40",
+              "color": "Pearl Grey ",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-colour-blocked-corset-top--FSBL80ZDK701_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGLVM",
+              "size": "44",
+              "color": "Pearl Grey ",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-colour-blocked-corset-top--FSBL80ZDK701_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-colour-blocked-corset-top--FSBL80ZDK701_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-colour-blocked-corset-top--FSBL80ZDK701_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/colour-blocked-corset-top-nvprod5860187v/1AGLVI",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-701_gris_perle.jpg",
+      "enableViewBySet": false,
+      "color": "Pearl Grey ",
+      "isDiamond": false,
+      "collection": "Z270"
+  },
+  {
+      "skuId": "1AGDJW",
+      "productId": "nvprod5790207v",
+      "name": "Monogram Flower Mountain T-Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This T-shirt nods to dynamic winter sports style with a large print of a mountain detailed with an oversized Monogram Flower motif, a chunky Louis Vuitton signature and graphic, colourful stripes. Cut from soft cotton jersey in a classic fit, the crew neckline is trimmed with a chic LV chain embellishment for a final House touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Optic White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,030.00",
+      "priceRaw": 1030.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGDJU",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mountain-t-shirt--FSTS15UOL000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDJV",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mountain-t-shirt--FSTS15UOL000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDJW",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mountain-t-shirt--FSTS15UOL000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDJY",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mountain-t-shirt--FSTS15UOL000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDJZ",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mountain-t-shirt--FSTS15UOL000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDK0",
+              "size": "XXL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mountain-t-shirt--FSTS15UOL000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDJX",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mountain-t-shirt--FSTS15UOL000_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mountain-t-shirt--FSTS15UOL000_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mountain-t-shirt--FSTS15UOL000_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mountain-t-shirt--FSTS15UOL000_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-flower-mountain-t-shirt-nvprod5790207v/1AGDJW",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGBPP",
+      "productId": "nvprod5790162v",
+      "name": "Winter Bloom Technical Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This long-sleeved top from the ski capsule is cut from technical stretch jersey that skims and sculpts the figure for a sleek silhouette. It is printed all over with a romantic winter bloom motif, while the outer arms, standing collar and front zip are highlighted with contrasting accents for a sporty look, which is emphasised by thumb holes in the cuffs.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 72% polyamide, 28% elastane</li>\n  <li>Beige/Pink</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,610.00",
+      "priceRaw": 1610.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Pink",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBPN",
+              "size": "32",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-technical-top--FSBL21PDH521_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBPO",
+              "size": "34",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-technical-top--FSBL21PDH521_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBPP",
+              "size": "36",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-technical-top--FSBL21PDH521_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBPQ",
+              "size": "38",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-technical-top--FSBL21PDH521_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBPR",
+              "size": "40",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-technical-top--FSBL21PDH521_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBPS",
+              "size": "42",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-technical-top--FSBL21PDH521_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBPT",
+              "size": "44",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-technical-top--FSBL21PDH521_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-technical-top--FSBL21PDH521_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-technical-top--FSBL21PDH521_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-technical-top--FSBL21PDH521_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/winter-bloom-technical-top-nvprod5790162v/1AGBPP",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-034_beige_rose_2.jpg",
+      "enableViewBySet": false,
+      "color": "Beige Rose",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGC99",
+      "productId": "nvprod5790223v",
+      "name": "Jewel Button Knit Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This elegant knit top is spun from a soft compact wool blend in a chic cropped shape with short sleeves. The neckline is highlighted with a shimmering beaded trim, while the LV Night Collection’s ornate oversized jewel buttons add an elevated modern touch to the back.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 98% wool, 1% polyamide, 1% elastane</li>\n  <li>Red</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,860.00",
+      "priceRaw": 2860.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Red",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGC97",
+              "size": "XXS",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-knit-top--FSKS12PTQ506_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGC98",
+              "size": "XS",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-knit-top--FSKS12PTQ506_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGC99",
+              "size": "S",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-knit-top--FSKS12PTQ506_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCA1",
+              "size": "L",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-knit-top--FSKS12PTQ506_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCA2",
+              "size": "XL",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-knit-top--FSKS12PTQ506_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCA0",
+              "size": "M",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-knit-top--FSKS12PTQ506_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-knit-top--FSKS12PTQ506_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-knit-top--FSKS12PTQ506_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-knit-top--FSKS12PTQ506_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/jewel-button-knit-top-nvprod5790223v/1AGC99",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-506_rouge.jpg",
+      "enableViewBySet": false,
+      "color": "Rouge",
+      "isDiamond": false,
+      "collection": "Z169"
+  },
+  {
+      "skuId": "1AGAY2",
+      "productId": "nvprod5790213v",
+      "name": "Monogram Accent Lavallière Blouse",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Seasonal detailing elevates this blouse with a sophisticated modern spirit. Tailored from soft, fluid silk crepe de chine in a refined finish, pleating introduces gentle volume to the straight-cut silhouette. The lavallière collar is delicately signed with metallic Monogram Flower accents and can be removed, thanks to an exposed zip around the neckline.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% silk</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,740.00",
+      "priceRaw": 1740.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGAY1",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-lavalliere-blouse--FSBL10AKM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAY2",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-lavalliere-blouse--FSBL10AKM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAY3",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-lavalliere-blouse--FSBL10AKM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAY4",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-lavalliere-blouse--FSBL10AKM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAY5",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-lavalliere-blouse--FSBL10AKM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAY6",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-lavalliere-blouse--FSBL10AKM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAY7",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-lavalliere-blouse--FSBL10AKM900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-lavalliere-blouse--FSBL10AKM900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-lavalliere-blouse--FSBL10AKM900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-lavalliere-blouse--FSBL10AKM900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-accent-lavalliere-blouse-nvprod5790213v/1AGAY2",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z169"
+  },
+  {
+      "skuId": "1AGAXN",
+      "productId": "nvprod5790212v",
+      "name": "Jewel Button Mikado Blouse",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This blouse has a smart, structured look in crisp wool-silk mikado tailored in a boxy straight cut, which is emphasised with shoulder pads. The front has a subtle layered effect with the LV Night Collection’s signature jewel buttons adding a dressy detail to the shoulders and hips. It is fastened at the back with an exposed zip.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 86% wool, 14% silk</li>\n  <li>Black</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£3,750.00",
+      "priceRaw": 3750.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGAXL",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-mikado-blouse--FSBB06SM4900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAXM",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-mikado-blouse--FSBB06SM4900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAXN",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-mikado-blouse--FSBB06SM4900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAXO",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-mikado-blouse--FSBB06SM4900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAXP",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-mikado-blouse--FSBB06SM4900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAXQ",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-mikado-blouse--FSBB06SM4900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAXR",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-mikado-blouse--FSBB06SM4900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-mikado-blouse--FSBB06SM4900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-mikado-blouse--FSBB06SM4900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-jewel-button-mikado-blouse--FSBB06SM4900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/jewel-button-mikado-blouse-nvprod5790212v/1AGAXN",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z169"
+  },
+  {
+      "skuId": "1AGBLA",
+      "productId": "nvprod5790210v",
+      "name": "LV Circle Sequin Crop Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Shimmering all-over sequin embroidery elevates this chic crop top into a celebratory seasonal statement from the LV Night Collection. Crafted on a base of lightweight stretch tulle, the chest is signed with a sparkling LV Circle motif in contrasting sequins, while an LV chain embellishment adds a final House touch to the neckline.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 71% polyamide, 29% elastane</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,860.00",
+      "priceRaw": 2860.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBL9",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-crop-top--FSBB04ZY7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBLA",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-crop-top--FSBB04ZY7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBLB",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-crop-top--FSBB04ZY7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBLC",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-crop-top--FSBB04ZY7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBLD",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-crop-top--FSBB04ZY7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBLE",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-crop-top--FSBB04ZY7900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-crop-top--FSBB04ZY7900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-crop-top--FSBB04ZY7900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-crop-top--FSBB04ZY7900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-circle-sequin-crop-top-nvprod5790210v/1AGBLA",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z169"
+  },
+  {
+      "skuId": "1AGBLY",
+      "productId": "nvprod5790208v",
+      "name": "Broderie Anglaise Collar Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This shirt is tailored from lightweight cotton voile in an elegant tone-on-tone striped finish. It is crafted in a breezy straight-cut shape with smart buttoned cuffs, while a dainty Peter Pan collar detailed with contrasting broderie anglaise completes the look with a romantic yet graphic twist.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,430.00",
+      "priceRaw": 1430.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBLX",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-anglaise-collar-shirt--FSBB01OPF001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBLY",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-anglaise-collar-shirt--FSBB01OPF001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBLZ",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-anglaise-collar-shirt--FSBB01OPF001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBM0",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-anglaise-collar-shirt--FSBB01OPF001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBM1",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-anglaise-collar-shirt--FSBB01OPF001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBM2",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-anglaise-collar-shirt--FSBB01OPF001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-anglaise-collar-shirt--FSBB01OPF001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-anglaise-collar-shirt--FSBB01OPF001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-anglaise-collar-shirt--FSBB01OPF001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/broderie-anglaise-collar-shirt-nvprod5790208v/1AGBLY",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGBOM",
+      "productId": "nvprod5790209v",
+      "name": "LV Circle Sequin T-Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This casual oversized T-shirt is elevated into a seasonal statement with dazzling all-over sequin embroidery, crafted on a base of lightweight stretch tulle for a fluid, glittering finish. An LV Circle signature is picked out in contrasting sequins on the chest, while the neckline is embellished with an LV chain detail for a final House touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 71% polyamide, 29% elastane</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£4,100.00",
+      "priceRaw": 4100.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBOL",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-t-shirt--FSBB03ZY7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBOM",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-t-shirt--FSBB03ZY7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBON",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-t-shirt--FSBB03ZY7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBOO",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-t-shirt--FSBB03ZY7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBOP",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-t-shirt--FSBB03ZY7900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-t-shirt--FSBB03ZY7900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-t-shirt--FSBB03ZY7900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-circle-sequin-t-shirt--FSBB03ZY7900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-circle-sequin-t-shirt-nvprod5790209v/1AGBOM",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z169"
+  },
+  {
+      "skuId": "1AGBDB",
+      "productId": "nvprod5790211v",
+      "name": "Sequin Pyjama Shirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This button-up pyjama shirt from the LV Night Collection makes a shimmering statement with glittering sequins embroidered onto a contrasting base of stretch tulle for a bold, fluid finish. The classic loungewear style is detailed with a chic notched collar, graphic piping and three patch pockets, one of which is signed with an LV Circle motif.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% silk</li>\n  <li>Fiery Red</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£5,250.00",
+      "priceRaw": 5250.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Red",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBDA",
+              "size": "34",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sequin-pyjama-shirt--FSBB05ZY7592_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBDB",
+              "size": "36",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sequin-pyjama-shirt--FSBB05ZY7592_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBDC",
+              "size": "38",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sequin-pyjama-shirt--FSBB05ZY7592_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBDD",
+              "size": "40",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sequin-pyjama-shirt--FSBB05ZY7592_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBDE",
+              "size": "42",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sequin-pyjama-shirt--FSBB05ZY7592_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sequin-pyjama-shirt--FSBB05ZY7592_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sequin-pyjama-shirt--FSBB05ZY7592_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sequin-pyjama-shirt--FSBB05ZY7592_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/sequin-pyjama-shirt-nvprod5790211v/1AGBDB",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-506_rouge.jpg",
+      "enableViewBySet": false,
+      "color": "Rouge",
+      "isDiamond": false,
+      "collection": "Z169"
+  }
+]

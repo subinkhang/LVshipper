@@ -1,0 +1,2796 @@
+[
+  {
+      "skuId": "1AGHDC",
+      "productId": "nvprod5790237v",
+      "name": "Monogram Jacquard Denim Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This staple denim jacket is revisited with sturdy cotton gabardine featuring the iconic Monogram motif as a subtle tone-on-tone jacquard. Two flap pockets on the chest emphasise the structured look, while golden hardware adds rock’n’roll edge. An embossed leather Louis Vuitton patch adds a final signature to the back of the waistband.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,500.00",
+      "priceRaw": 2500.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGHD9",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-jacket--FSJA42YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDA",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-jacket--FSJA42YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDB",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-jacket--FSJA42YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDC",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-jacket--FSJA42YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDD",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-jacket--FSJA42YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDE",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-jacket--FSJA42YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDF",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-jacket--FSJA42YK1900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-jacket--FSJA42YK1900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-jacket--FSJA42YK1900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-jacquard-denim-jacket-nvprod5790237v/1AGHDC",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGHDJ",
+      "productId": "nvprod5790249v",
+      "name": "Monogram Jacquard Denim Shorts",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These classic denim mini shorts have rock’n’roll flare in Monogram jacquard cotton gabardine detailed with contrasting golden hardware. They are crafted in a staple straight-cut shape with five pockets and belt loops, while the back of the waistband is signed with an embossed leather Louis Vuitton patch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,200.00",
+      "priceRaw": 1200.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGHDI",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-shorts--FSPA48YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDJ",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-shorts--FSPA48YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDK",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-shorts--FSPA48YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDL",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-shorts--FSPA48YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDM",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-shorts--FSPA48YK1900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-shorts--FSPA48YK1900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-denim-shorts--FSPA48YK1900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-jacquard-denim-shorts-nvprod5790249v/1AGHDJ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGHDQ",
+      "productId": "nvprod5790238v",
+      "name": "Sleeveless Monogram Jacquard Denim Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Cut from cotton gabardine in a tone-on-tone Monogram jacquard, this sleeveless denim jacket is a casual staple with attitude. Golden hardware underscores the rock’n’roll feel, while a shirt collar and two flap pockets on the chest add structure. The sides are highlighted with zips for versatile styling.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,500.00",
+      "priceRaw": 2500.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGHDO",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-monogram-jacquard-denim-jacket--FSJA43YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDP",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-monogram-jacquard-denim-jacket--FSJA43YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDQ",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-monogram-jacquard-denim-jacket--FSJA43YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDR",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-monogram-jacquard-denim-jacket--FSJA43YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDS",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-monogram-jacquard-denim-jacket--FSJA43YK1900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-monogram-jacquard-denim-jacket--FSJA43YK1900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-monogram-jacquard-denim-jacket--FSJA43YK1900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/sleeveless-monogram-jacquard-denim-jacket-nvprod5790238v/1AGHDQ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGHDX",
+      "productId": "nvprod5790250v",
+      "name": "Monogram Jacquard Jeans",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These jeans are cut in a casual carrot shape with a high waist and legs that taper towards the ankles. The iconic Monogram motif features all over as a tone-on-tone jacquard on structured cotton gabardine, while polished golden hardware introduces a chic rock’n’roll twist. The jeans are complete with an embossed leather Louis Vuitton patch on the waistband.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,380.00",
+      "priceRaw": 1380.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGHDW",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-jeans--FSPA49YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDX",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-jeans--FSPA49YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDY",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-jeans--FSPA49YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHDZ",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-jeans--FSPA49YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHE0",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-jeans--FSPA49YK1900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-jeans--FSPA49YK1900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-jeans--FSPA49YK1900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-jacquard-jeans-nvprod5790250v/1AGHDX",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFYTF",
+      "productId": "nvprod5560161v",
+      "name": "LV x AC Monogram Preppy Blazer",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This blazer is reimagined in washed denim featuring a graphic all-over Monogram motif for a playfully casual spin on a timeless preppy style. Contrasting yellow stitching highlights the construction, while Monogram canvas buttons add a classic signature to the front fastening and cuffs.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,540.00",
+      "priceRaw": 2540.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFYTC",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYTD",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYTE",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYTF",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYTG",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYTH",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYTI",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYTJ",
+              "size": "46",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-preppy-blazer--FRJA15EFY610_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-ac-monogram-preppy-blazer-nvprod5560161v/1AFYTF",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z248"
+  },
+  {
+      "skuId": "1AGBD3",
+      "productId": "nvprod5790075v",
+      "name": "Vintage-Effect Monogram Denim Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This denim jacket has a laidback look in a vintage-effect Monogram motif in relief on cotton gabardine. The neckline and waist are dyed black for a rebellious, raw look, while a removable cotton jersey hood underscores the casual appeal. It is complete with two flap pockets on the chest.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,500.00",
+      "priceRaw": 2500.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBD1",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-denim-jacket--FSJA01YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBD2",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-denim-jacket--FSJA01YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBD3",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-denim-jacket--FSJA01YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBD4",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-denim-jacket--FSJA01YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBD5",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-denim-jacket--FSJA01YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBD6",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-denim-jacket--FSJA01YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBD7",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-denim-jacket--FSJA01YK1900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-denim-jacket--FSJA01YK1900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-denim-jacket--FSJA01YK1900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-denim-jacket--FSJA01YK1900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/vintage-effect-monogram-denim-jacket-nvprod5790075v/1AGBD3",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGBK6",
+      "productId": "nvprod5790106v",
+      "name": "Vintage-Effect Monogram Flared Jeans",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Cut in a classic flared shape with five pockets, these classic jeans have elevated appeal in cotton gabardine, which is subtly signed all over with this season’s vintage-look Monogram motif for a laidback look. A Monogram canvas tab adds a final House touch to the back of the waistband.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,740.00",
+      "priceRaw": 1740.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBK4",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBK5",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBK6",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBK7",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBK8",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBK9",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBKA",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBKB",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-vintage-effect-monogram-flared-jeans--FSPA09YK1900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/vintage-effect-monogram-flared-jeans-nvprod5790106v/1AGBK6",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AFYSZ",
+      "productId": "nvprod5560168v",
+      "name": "LV x AC Monogram Jeans",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These flared jeans make a chic signature statement in casual washed denim featuring an all-over print of the Monogram motif, with classic yellow stitching highlighting the construction. A D-ring Vuitton belt adds a graphic, sporty detail to the waist, while the back pocket is signed with the LV x America's Cup 2024 capsule’s essential Gaston patch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,990.00",
+      "priceRaw": 1990.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFYSW",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYSX",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYSY",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYSZ",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYT0",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYT1",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYT2",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYT3",
+              "size": "46",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-jeans--FRPT51EFY610_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-ac-monogram-jeans-nvprod5560168v/1AFYSZ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z248"
+  },
+  {
+      "skuId": "1AFYT7",
+      "productId": "nvprod5560162v",
+      "name": "LV x AC Monogram Shorts",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These classic straight-cut shorts are elevated with an all-over Monogram motif printed on casual washed denim accented with yellow topstitching. The waistline is cinched with a sporty D-ring Vuitton belt, while the back pocket is signed with the LV x America's Cup 2024 capsule’s graphic Gaston patch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,720.00",
+      "priceRaw": 1720.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFYT4",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYT5",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYT6",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYT7",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYT8",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYT9",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYTA",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYTB",
+              "size": "46",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-shorts--FRPT64EFY610_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-ac-monogram-shorts-nvprod5560162v/1AFYT7",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z248"
+  },
+  {
+      "skuId": "1AGEB6",
+      "productId": "nvprod5770094v",
+      "name": "Denim Riding Gilet",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This denim gilet draws on the formality of traditional riding coats in a pared-back, modern shape crafted from structured cotton gabardine. The front is cut with a clean neckline and a curved front opening, while the panelled back introduces sophisticated volume. This clothing piece is complete with a refined hook-and-button fastening and a Monogram canvas tab on the left pocket.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>White</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£2,320.00",
+      "priceRaw": 2320.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGEB4",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-riding-gilet--FRVE37BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEB5",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-riding-gilet--FRVE37BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEB6",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-riding-gilet--FRVE37BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEB7",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-riding-gilet--FRVE37BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEB8",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-riding-gilet--FRVE37BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEB9",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-riding-gilet--FRVE37BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEB3",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-riding-gilet--FRVE37BT9001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-riding-gilet--FRVE37BT9001_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/denim-riding-gilet-nvprod5770094v/1AGEB6",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z210"
+  },
+  {
+      "skuId": "1AGEBB",
+      "productId": "nvprod5770066v",
+      "name": "Darted Denim Mini Shorts",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These denim mini shorts are made from cotton gabardine in an unfussy straight cut detailed with darts at the back for a tapered fit. A Monogram canvas tab adds a classic House touch to the leg, while the waistband is signed with a Louis Vuitton Paris patch. They are complete with two side pockets and an exposed zip fastening.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,070.00",
+      "priceRaw": 1070.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "32",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGEBB",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-darted-denim-mini-shorts--FRPO24BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEBC",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-darted-denim-mini-shorts--FRPO24BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEBD",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-darted-denim-mini-shorts--FRPO24BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEBE",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-darted-denim-mini-shorts--FRPO24BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEBF",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-darted-denim-mini-shorts--FRPO24BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEBG",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-darted-denim-mini-shorts--FRPO24BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGEBH",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-darted-denim-mini-shorts--FRPO24BT9001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-darted-denim-mini-shorts--FRPO24BT9001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-darted-denim-mini-shorts--FRPO24BT9001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-darted-denim-mini-shorts--FRPO24BT9001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/darted-denim-mini-shorts-nvprod5770066v/1AGEBB",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z210"
+  },
+  {
+      "skuId": "1ABR6U",
+      "productId": "nvprod4340018v",
+      "name": "Bleached Denim Zip-Up Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This casual A-line dress has a spirited retro look in bleached denim detailed with contrasting yellow stitching and brass hardware. The front is fastened with an exposed oversized zip pull, while an integrated belt detail accentuates a feminine waistline. The VVN leather travel tag on the hip nods to iconic pieces in the House’s Leather Goods Collection.</p>",
+      "detailedDescription": "<ul>\n  <li>Length: 85 cm/33.5 inches</li>\n  <li>Main material: 100% cotton</li>\n  <li>White</li>\n  <li>Regular fit</li>\n</ul>",
+      "price": "£1,830.00",
+      "priceRaw": 1830.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<p>The fabric may evolve over time and gives each piece a unique look.</p><p>We recommend that you take special care of this garment and entrust it to a specialized dry cleaner.</p>",
+              "introduction": "<div class=\"popinHeader uppercase\">This garment meets the highest demands and respects Louis Vuitton's traditions.</div>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1ABR6T",
+              "size": "34",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress--FPDR63GM1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABR6U",
+              "size": "36",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress--FPDR63GM1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABR6V",
+              "size": "38",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress--FPDR63GM1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABR6W",
+              "size": "40",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress--FPDR63GM1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABR6X",
+              "size": "42",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress--FPDR63GM1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABR6Y",
+              "size": "44",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress--FPDR63GM1001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress--FPDR63GM1001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress--FPDR63GM1001_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress--FPDR63GM1001_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress--FPDR63GM1001_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/bleached-denim-zip-up-dress-nvprod4340018v/1ABR6U",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-001_blanc.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bleached-denim-zip-up-dress --FPDR63GM1001_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc",
+      "isDiamond": false,
+      "collection": "Z179"
+  },
+  {
+      "skuId": "1AFZXC",
+      "productId": "nvprod5560166v",
+      "name": "LV x AC Embossed Monogram Shorts",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Crafted in a casual straight-cut shape, these denim shorts are refreshed with the iconic Monogram motif in relief for a subtle all over signature. A D-ring Vuitton belt introduces a bold, sporty detail to the waist, while a graphic Gaston patch from the LV x America's Cup 2024 capsule completes the look.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,450.00",
+      "priceRaw": 1450.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFZX9",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-embossed-monogram-shorts--FRPT50YK1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZXA",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-embossed-monogram-shorts--FRPT50YK1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZXB",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-embossed-monogram-shorts--FRPT50YK1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZXC",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-embossed-monogram-shorts--FRPT50YK1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZXD",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-embossed-monogram-shorts--FRPT50YK1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZXE",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-embossed-monogram-shorts--FRPT50YK1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZXF",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-embossed-monogram-shorts--FRPT50YK1001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-embossed-monogram-shorts--FRPT50YK1001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-embossed-monogram-shorts--FRPT50YK1001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-embossed-monogram-shorts--FRPT50YK1001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-ac-embossed-monogram-shorts-nvprod5560166v/1AFZXC",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z248"
+  },
+  {
+      "skuId": "1AFTD3",
+      "productId": "nvprod5500045v",
+      "name": "Frayed Seam Bermuda Shorts",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These Bermuda shorts have casual summer appeal in crisp cotton gabardine detailed with chic golden hardware. A frayed seam detail introduces a subtle textured touch to the waistline to emphasise the laidback look, while a leather LV Circle patch adds a subtle signature accent to the coin pocket.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,180.00",
+      "priceRaw": 1180.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFTD1",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frayed-seam-bermuda-shorts--FRPA40BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTD2",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frayed-seam-bermuda-shorts--FRPA40BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTD3",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frayed-seam-bermuda-shorts--FRPA40BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTD4",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frayed-seam-bermuda-shorts--FRPA40BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTD5",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frayed-seam-bermuda-shorts--FRPA40BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTD6",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frayed-seam-bermuda-shorts--FRPA40BT9001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTD7",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frayed-seam-bermuda-shorts--FRPA40BT9001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-frayed-seam-bermuda-shorts--FRPA40BT9001_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/frayed-seam-bermuda-shorts-nvprod5500045v/1AFTD3",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1ABT8Y",
+      "productId": "nvprod4390027v",
+      "name": "Stonewashed Trucker Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This trucker jacket is a timeless staple elevated with a chic signature. It is cut in a contemporary cropped shape from hard-wearing stonewashed denim for comfortable, casual everyday styling. It is complete with brass hardware and two flap pockets, one of which is trimmed with a VVN leather travel tag in homage to the House’s travel heritage.</p>",
+      "detailedDescription": "<ul>\n  <li>Length 48 cm/18.9 inches</li>\n  <li>Main material: 100% cotton</li>\n  <li>Blue</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,190.00",
+      "priceRaw": 2190.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<p>The fabric may evolve over time and gives each piece a unique look.</p>\n<p>We recommend that you take special care of this garment and entrust it to a specialised dry cleaner.</p>",
+              "introduction": "<p>This fabric garment was designed to meet the highest demands, reflecting Louis Vuitton's heritage.</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1ABT8W",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABT8X",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABT8Y",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABT8Z",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABT90",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABT91",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABT92",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket--FPJA44GM1610_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1483235",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/stonewashed-trucker-jacket-nvprod4390027v/1ABT8Y",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-stonewashed-trucker-jacket --FPJA44GM1610_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z227"
+  },
+  {
+      "skuId": "1ACCX7",
+      "productId": "nvprod4700007v",
+      "name": "Short Denim Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This piece is the go-to denim jacket for everyday looks. The chic fitted shape is crafted from organic cotton denim with classic yellow stitching highlighting the construction and silver Louis Vuitton Paris buttons fastening the front. A top-stitched V on the front pocket adds a signature detail.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Blue</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,350.00",
+      "priceRaw": 2350.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1ACCX5",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCX6",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCX7",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCX8",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCX9",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCXA",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCXB",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCXC",
+              "size": "46",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-short-denim-jacket--FQJA20GM1610_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/short-denim-jacket-nvprod4700007v/1ACCX7",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z221"
+  },
+  {
+      "skuId": "1ACCWR",
+      "productId": "nvprod4700011v",
+      "name": "Monogram Patch Jeans",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>A timeless staple refreshed with casual detailing, these jeans are cut in a flattering high-waisted silhouette from thick organic denim for a classic look. A chunky leather belt loop underscores the relaxed attitude, while a chic jewel button adds a playfully polished detail. These jeans are signed with a Monogram leather patch on the hip.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Blue</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,240.00",
+      "priceRaw": 1240.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1ACCWP",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCWQ",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCWR",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCWS",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCWT",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCWU",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCWV",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ACCWW",
+              "size": "46",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-patch-jeans--FQPA41GM1610_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-patch-jeans-nvprod4700011v/1ACCWR",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFTAM",
+      "productId": "nvprod5560075v",
+      "name": "Sleeveless Washed Raw Denim Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This sleeveless jacket is cut from soft washed raw denim and finished with frayed hems for a casually rebellious clothing look. The waist and slanted flap pockets are subtly highlighted in a darker shade of blue, while yellow topstitching playfully highlights the construction. Two adjustable Monogram canvas tabs add a functional signature to the back.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Indigo Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,900.00",
+      "priceRaw": 1900.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFTAK",
+              "size": "32",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-washed-raw-denim-jacket--FRJC12GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTAL",
+              "size": "34",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-washed-raw-denim-jacket--FRJC12GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTAM",
+              "size": "36",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-washed-raw-denim-jacket--FRJC12GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTAN",
+              "size": "38",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-washed-raw-denim-jacket--FRJC12GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTAO",
+              "size": "40",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-washed-raw-denim-jacket--FRJC12GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTAP",
+              "size": "42",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-washed-raw-denim-jacket--FRJC12GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTAQ",
+              "size": "44",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-washed-raw-denim-jacket--FRJC12GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTAR",
+              "size": "46",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-washed-raw-denim-jacket--FRJC12GOW650_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeveless-washed-raw-denim-jacket--FRJC12GOW650_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/sleeveless-washed-raw-denim-jacket-nvprod5560075v/1AFTAM",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-650_indigo.jpg",
+      "enableViewBySet": false,
+      "color": "Indigo",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFTGF",
+      "productId": "nvprod5560218v",
+      "name": "Washed Raw Denim Skirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This maxi skirt is cut from raw denim that has been washed for a soft, comfortable finish, with the right pocket and hemline subtly highlighted in a darker shade of blue. A slit at the back of the full-length, straight-cut silhouette ensures ease of movement. Contrasting yellow topstitching and a Monogram canvas patch on the back complete the clothing look.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Indigo Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,360.00",
+      "priceRaw": 1360.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFTGE",
+              "size": "34",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-skirt--FRSK55GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTGF",
+              "size": "36",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-skirt--FRSK55GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTGG",
+              "size": "38",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-skirt--FRSK55GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTGH",
+              "size": "40",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-skirt--FRSK55GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTGI",
+              "size": "42",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-skirt--FRSK55GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTGJ",
+              "size": "44",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-skirt--FRSK55GOW650_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-skirt--FRSK55GOW650_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/washed-raw-denim-skirt-nvprod5560218v/1AFTGF",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-650_indigo.jpg",
+      "enableViewBySet": false,
+      "color": "Indigo",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFTFZ",
+      "productId": "nvprod5560210v",
+      "name": "Washed Raw Denim Jeans",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These slim fit jeans are an elevated essential in soft and comfortable washed raw denim, with the ankles and right pocket highlighted in a darker shade of blue. Classic yellow topstitching highlights the construction, while a Monogram canvas patch adds a discreet signature to the back of the waistband.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Indigo Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,180.00",
+      "priceRaw": 1180.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFTFX",
+              "size": "32",
+              "color": "Gris Fonce Chine",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTFY",
+              "size": "34",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTFZ",
+              "size": "36",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTG0",
+              "size": "38",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTG1",
+              "size": "40",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTG2",
+              "size": "42",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTG3",
+              "size": "44",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTG4",
+              "size": "46",
+              "color": "Indigo",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-raw-denim-jeans--FRPT26GOW650_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/washed-raw-denim-jeans-nvprod5560210v/1AFTFZ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-650_indigo.jpg",
+      "enableViewBySet": false,
+      "color": "Indigo",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFTEV",
+      "productId": "nvprod5560076v",
+      "name": "Washed Denim Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This jacket has effortless daily appeal in washed denim cut in a slightly cropped shape. Two buttoned flap pockets and tone-on-tone topstitching emphasise the structured look, while a notched collar adds a neat detail to the neckline. The clothing piece is discreetly signed with LV buttons and an embossed leather patch on the back.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Mouse Grey</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,170.00",
+      "priceRaw": 2170.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFTET",
+              "size": "32",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTEU",
+              "size": "34",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTEV",
+              "size": "36",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTEW",
+              "size": "38",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTEX",
+              "size": "40",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTEY",
+              "size": "42",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTEZ",
+              "size": "44",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1489006",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/washed-denim-jacket-nvprod5560076v/1AFTEV",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Gris_Souris.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-jacket--FRJC15MML703_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Gris Souris Grey",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFTG7",
+      "productId": "nvprod5560211v",
+      "name": "Washed Denim Wide Leg Jeans",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These classic five-pocket jeans are cut from washed denim in a relaxed wide leg shape with flared hems for a casual, contemporary look. The back of the waistband is discreetly signed with an embossed LV patch, while a Monogram canvas tab adds a final House touch to the left ankle.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Mouse Grey</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,180.00",
+      "priceRaw": 1180.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFTG5",
+              "size": "32",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTG6",
+              "size": "34",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTG7",
+              "size": "36",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTG8",
+              "size": "38",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTG9",
+              "size": "40",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTGA",
+              "size": "42",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTGB",
+              "size": "44",
+              "color": "Gris Souris Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1489044",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/washed-denim-wide-leg-jeans-nvprod5560211v/1AFTG7",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Gris_Souris.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-washed-denim-wide-leg-jeans--FRPT39MML703_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Gris Souris Grey",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFT18",
+      "productId": "nvprod5500018v",
+      "name": "Monogram Flower Mosaic Denim Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This casual denim jacket is elevated into a graphic signature statement with an all-over print of this season’s romantic Monogram Flower mosaic motif. The shape is slightly cropped for chic daily styling, complete with a classic collar, two flap pockets and golden hardware.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 87% cotton, 13% polyester</li>\n  <li>Ocean Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,900.00",
+      "priceRaw": 2900.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFT16",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFT17",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFT18",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFT19",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFT20",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFT21",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFT22",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-flower-mosaic-denim-jacket-nvprod5500018v/1AFT18",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-denim-jacket--FRJA27LPD619_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFULF",
+      "productId": "nvprod5500050v",
+      "name": "Monogram Flower Mosaic Mini Shorts",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This season’s romantic Monogram Flower mosaic motif reimagines these casual mini shorts as a graphic everyday statement. Cut from structured cotton gabardine, golden hardware introduces a chic metallic accent while an oversized leather belt loop adds a modern signature detail to the waistline. These shorts are complete with five practical pockets.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 87% cotton, 13% polyester</li>\n  <li>Ocean Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,720.00",
+      "priceRaw": 1720.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFULD",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFULE",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFULF",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFULG",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFULH",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFULI",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFULJ",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-flower-mosaic-mini-shorts-nvprod5500050v/1AFULF",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-flower-mosaic-mini-shorts--FRPA46LPD619_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z252"
+  }
+]

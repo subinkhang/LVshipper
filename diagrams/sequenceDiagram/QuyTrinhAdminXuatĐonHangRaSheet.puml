@@ -1,0 +1,15 @@
+@startuml
+title Quá Trình Admin Xuất Đơn Hàng Ra Sheet
+
+actor "Admin" as Admin
+participant "WordPress Admin Dashboard" as DB
+participant "Local System" as FS
+
+Admin -> DB : Yêu cầu xuất đơn hàng
+DB -> DB : Dùng plugin Export For WooCommerce \nđể truy vấn dữ liệu đơn hàng
+DB -> DB : Trả về dữ liệu đơn hàng
+DB -> FS : Tạo file sheet (Excel/CSV)
+FS -> DB : File sheet được tạo thành công
+DB -> Admin : Tải file về máy
+
+@enduml

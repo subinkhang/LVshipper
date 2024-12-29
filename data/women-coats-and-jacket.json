@@ -1,0 +1,2965 @@
+[
+  {
+      "skuId": "1AGNYH",
+      "productId": "nvprod5880031v",
+      "name": "Reversible Signature Short Hooded Wrap Coat",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>The House’s signature short wrap coat is crafted from cosy double-face wool-silk in a versatile colourway, which reverses to reveal a graphic jacquard of the Monogram motif. Cut in an enveloping hooded silhouette, the front opening is highlighted with contrasting piping, while a casual self-tie belt accentuates the waistline and two side pockets complete the look.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 99% wool, 1% silk</li>\n  <li>Grey</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,850.00",
+      "priceRaw": 3850.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGNYE",
+              "size": "32",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FSCO06QWE702_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNYF",
+              "size": "34",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FSCO06QWE702_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNYG",
+              "size": "36",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FSCO06QWE702_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNYH",
+              "size": "38",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FSCO06QWE702_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNYI",
+              "size": "40",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FSCO06QWE702_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNYJ",
+              "size": "42",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FSCO06QWE702_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNYK",
+              "size": "44",
+              "color": "Grey",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FSCO06QWE702_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FSCO06QWE702_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/reversible-signature-short-hooded-wrap-coat-nvprod5880031v/1AGNYH",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Grey.jpg",
+      "enableViewBySet": false,
+      "color": "Grey",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGBFC",
+      "productId": "nvprod5790072v",
+      "name": "Reversible Signature Hooded Wrap Coat",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>The House’s iconic wrap coat is crafted from sumptuous double face wool-silk in a long, enveloping silhouette complete with a generous hood and a coordinating belt to add definition to the waistline. It can be reversed to reveal a delicate jacquard of the Flight Mode capsule’s signature Mahina Monogram motif.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 99% wool, 1% silk</li>\n  <li>Silver</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£4,750.00",
+      "priceRaw": 4750.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Metal",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBF9",
+              "size": "32",
+              "color": "Argent",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBFA",
+              "size": "34",
+              "color": "Argent",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBFB",
+              "size": "36",
+              "color": "Argent",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBFC",
+              "size": "38",
+              "color": "Argent",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBFD",
+              "size": "40",
+              "color": "Argent",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBFE",
+              "size": "42",
+              "color": "Argent",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBFF",
+              "size": "44",
+              "color": "Argent",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBFG",
+              "size": "46",
+              "color": "Argent",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO12PGY720_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/reversible-signature-hooded-wrap-coat-nvprod5790072v/1AGBFC",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-720_argent.jpg",
+      "enableViewBySet": false,
+      "color": "Argent",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1A4PE6",
+      "productId": "nvprod1130148v",
+      "name": "Hooded Wrap Coat",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This Hooded Wrap Coat is a stylish piece that recalls the House's leatherwork savoir-faire. It is tailored in double cashgora with a discreet Monogram interior.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 99% wool, 1% silk</li>\n  <li>Black/White</li>\n  <li>Regular fit</li>\n  <li>Model wears size FR 38</li>\n  <li>Model measurements: bust 82 cm/33 inches, height 178 cm/5 feet 10 inches, waist 61 cm/25 inches, hips 87 cm/34 inches</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£4,200.00",
+      "priceRaw": 4200.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": true,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1A4PE5",
+              "size": "34",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PE6",
+              "size": "36",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PE7",
+              "size": "38",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PE8",
+              "size": "40",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PE9",
+              "size": "42",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A4PEA",
+              "size": "44",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-hooded-wrap-coat--FGCO40QWE904_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/hooded-wrap-coat-nvprod1130148v/1A4PE6",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-904_noir_blanc.jpg",
+      "enableViewBySet": false,
+      "color": "Noir Blanc",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1A99KB",
+      "productId": "nvprod3160116v",
+      "name": "Belted Short Wrap Pea Coat",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This chic short wrap pea coat is updated for the season in a fresh colourway and signed with the clothing collection’s Louis Vuitton Paris belt for a contemporary touch. The double face wool-silk blend is soft, lightweight and warm, with a voluminous hood amping up the cosiness. The piece is completed with an iconic Monogram jacquard on the inside.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 99% wool, 1% silk</li>\n  <li>Other material: 50% cotton, 50% polyester</li>\n  <li>Lining: 53% viscose, 47% cupro</li>\n  <li>Black/White</li>\n  <li>Regular fit</li>\n  <li>Model wears LV size 36 (UK 8)</li>\n  <li>Model measurements: bust 81 cm/32 inches, height 174 cm/5 feet 9 inches, waist 58 cm/23 inches, hips 86 cm/34 inches</li>\n  <li>Made in Italy</li>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons</li>\n</ul>",
+      "price": "£3,950.00",
+      "priceRaw": 3950.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1A99K9",
+              "size": "32",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99KA",
+              "size": "34",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99KB",
+              "size": "36",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99KC",
+              "size": "38",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99KD",
+              "size": "40",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99KE",
+              "size": "42",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99KF",
+              "size": "44",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99MF",
+              "size": "46",
+              "color": "Noir Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1481682",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/belted-short-wrap-pea-coat-nvprod3160116v/1A99KB",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-904_noir_blanc.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-short-wrap-pea-coat--FMCO06QWE904_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Noir Blanc",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1A99K3",
+      "productId": "nvprod3160115v",
+      "name": "Belted Double Face Hooded Wrap Coat",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Crafted using a double face technique in a wool-silk blend, this warm, comfortable hooded wrap coat is an iconic Louis Vuitton staple. A giant Monogram motif signs the inside, while a seasonal signature belt cinches the waist to accentuate an elegant, feminine silhouette. A leather patch on the sleeve adds a final House touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 99% wool, 1% silk</li>\n  <li>Other material: 50% cotton, 50% polyester</li>\n  <li>Lining: 53% viscose, 47% cupro</li>\n  <li>Camel Brown</li>\n  <li>Regular fit</li>\n  <li>Model wears LV size 36 (UK 8)</li>\n  <li>Model measurements: bust 81 cm/32 inches, height 174 cm/5 feet 9 inches, waist 58 cm/23 inches, hips 86 cm/34 inches</li>\n  <li>Made in Italy</li>\n  <li>Do not wash</li>\n  <li>Do not bleach</li>\n  <li>Do not tumble dry</li>\n  <li>Iron at a maximum sole-plate temperature of 110°C</li>\n  <li>Mild professional dry cleaning in hydrocarbons</li>\n</ul>",
+      "price": "£4,500.00",
+      "priceRaw": 4500.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Natural",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1A99K1",
+              "size": "32",
+              "color": "Camel",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99K2",
+              "size": "34",
+              "color": "Camel",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99K3",
+              "size": "36",
+              "color": "Camel",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99K4",
+              "size": "38",
+              "color": "Camel",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99K5",
+              "size": "40",
+              "color": "Camel",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99K6",
+              "size": "42",
+              "color": "Camel",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99K7",
+              "size": "44",
+              "color": "Camel",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1A99K8",
+              "size": "46",
+              "color": "Camel",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1481678",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/belted-double-face-hooded-wrap-coat-nvprod3160115v/1A99K3",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-102_camel.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-belted-double-face-hooded-wrap-coat--FMCO05NUV102_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Camel",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGBQE",
+      "productId": "nvprod5790070v",
+      "name": "Reversible Signature Hooded Wrap Coat",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>A staple of the Flight Mode capsule, this long hooded wrap coat is crafted from plush double face wool-silk that can be reversed to reveal a delicate all-over Mahina Monogram motif. The front opening and side pockets are trimmed with tonal leather for an elevated finish, while a tone-on-tone belt adds definition to the enveloping silhouette.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 99% wool, 1% silk</li>\n  <li>Natural Beige</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£4,350.00",
+      "priceRaw": 4350.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Beige",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBQB",
+              "size": "32",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBQC",
+              "size": "34",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBQD",
+              "size": "36",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBQE",
+              "size": "38",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBQF",
+              "size": "40",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBQG",
+              "size": "42",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBQH",
+              "size": "44",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBQI",
+              "size": "46",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07PGY106_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/reversible-signature-hooded-wrap-coat-nvprod5790070v/1AGBQE",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-006_beige.jpg",
+      "enableViewBySet": false,
+      "color": "beige",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AFSKE",
+      "productId": "nvprod5560060v",
+      "name": "Reversible Signature Short Hooded Wrap Coat",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>The House’s iconic reversible short wrap coat is crafted from plush double-face wool-silk in an enveloping hooded silhouette for cosy yet elegant cold weather wear. In a fresh seasonal colourway, one side is signed all over with a Monogram motif. A coordinating belt adds definition to the waistline and two side pockets complete the look.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 99% wool, 1% silk</li>\n  <li>Beige/Cream</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,950.00",
+      "priceRaw": 3950.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Beige",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSKC",
+              "size": "32",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FRCO39QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSKD",
+              "size": "34",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FRCO39QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSKE",
+              "size": "36",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FRCO39QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSKF",
+              "size": "38",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FRCO39QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSKG",
+              "size": "40",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FRCO39QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSKH",
+              "size": "42",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FRCO39QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSKI",
+              "size": "44",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FRCO39QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSKJ",
+              "size": "46",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FRCO39QWE803_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-short-hooded-wrap-coat--FRCO39QWE803_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/reversible-signature-short-hooded-wrap-coat-nvprod5560060v/1AFSKE",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-030_beige_4.jpg",
+      "enableViewBySet": false,
+      "color": "Beige",
+      "isDiamond": false,
+      "collection": "Z208"
+  },
+  {
+      "skuId": "1AFSGU",
+      "productId": "nvprod5560050v",
+      "name": "Lapel Collar Wrap Coat",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This elegant coat is crafted from a warm double-face wool-silk blend in an enveloping wrap shape, which is cinched at the waist with a coordinating self-tie belt. A lapel collar introduces a structured detail to the ample silhouette while revealing a glimpse of the Monogram jacquard that signs the inside.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 99% wool, 1% silk</li>\n  <li>Beige/Cream</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£4,150.00",
+      "priceRaw": 4150.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Beige",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSGS",
+              "size": "32",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSGT",
+              "size": "34",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSGU",
+              "size": "36",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSGV",
+              "size": "38",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSGW",
+              "size": "40",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSGX",
+              "size": "42",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSGY",
+              "size": "44",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSGZ",
+              "size": "46",
+              "color": "Beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1489009",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lapel-collar-wrap-coat-nvprod5560050v/1AFSGU",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-030_beige_4.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lapel-collar-wrap-coat--FRCO28QWE803_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Beige",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AG809",
+      "productId": "nvprod5790235v",
+      "name": "Double Face Open-Arm Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This zip-up jacket is a sporty House staple in a contemporary open-arm silhouette. It is cut from a cosy double face wool-silk blend, which is signed on the inside with a tonal Monogram motif. The hood is trimmed with sleek leather drawstrings, while two practical pockets complete the look.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 99% wool, 1% silk</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,770.00",
+      "priceRaw": 2770.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AG806",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-double-face-open-arm-jacket--FSCO14QWE900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AG807",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-double-face-open-arm-jacket--FSCO14QWE900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AG808",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-double-face-open-arm-jacket--FSCO14QWE900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AG809",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-double-face-open-arm-jacket--FSCO14QWE900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AG810",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-double-face-open-arm-jacket--FSCO14QWE900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AG811",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-double-face-open-arm-jacket--FSCO14QWE900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AG812",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-double-face-open-arm-jacket--FSCO14QWE900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-double-face-open-arm-jacket--FSCO14QWE900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-double-face-open-arm-jacket--FSCO14QWE900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-double-face-open-arm-jacket--FSCO14QWE900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/double-face-open-arm-jacket-nvprod5790235v/1AG809",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGAQ5",
+      "productId": "nvprod5790181v",
+      "name": "Diamond Ripstop Puffer Gilet",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>When styled as part of a full skiwear silhouette, this puffer gilet is a sleek yet cosy mid-layer. It is cut from ultra-lightweight waterproof nylon ripstop fabric, which is padded with feathers and finished with a quilted diamond motif. A high neckline and a coated technical zip keep out the cold, while fastened pockets add a practical detail. It is signed with a seasonal LV snowflake print on the chest.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% polyamide</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,630.00",
+      "priceRaw": 2630.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGAQ2",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-gilet--FSOW13MRN900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAQ3",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-gilet--FSOW13MRN900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAQ4",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-gilet--FSOW13MRN900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAQ5",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-gilet--FSOW13MRN900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAQ6",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-gilet--FSOW13MRN900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAQ7",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-gilet--FSOW13MRN900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-gilet--FSOW13MRN900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-gilet--FSOW13MRN900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-gilet--FSOW13MRN900_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-gilet--FSOW13MRN900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/diamond-ripstop-puffer-gilet-nvprod5790181v/1AGAQ5",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGAR9",
+      "productId": "nvprod5790179v",
+      "name": "Drawstring Detail Technical Puffer Gilet",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This boxy zip-up puffer gilet is cut from ultra-lightweight nylon in a chic, glossy finish, signed with a seasonal LV snowflake print on the chest and a graphic Monogram motif on the inside. It is padded with a combination of down and feathers and finished with seamless bonding and technical topstitching to keep out the cold on the slopes. Both the cosy high neckline and arm holes can be cinched with drawstrings to emphasise the warmth.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% polyamide</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,500.00",
+      "priceRaw": 3500.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGAR6",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-drawstring-detail-technical-puffer-gilet--FSOW08NRC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAR7",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-drawstring-detail-technical-puffer-gilet--FSOW08NRC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAR8",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-drawstring-detail-technical-puffer-gilet--FSOW08NRC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAR9",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-drawstring-detail-technical-puffer-gilet--FSOW08NRC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGARA",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-drawstring-detail-technical-puffer-gilet--FSOW08NRC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGARB",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-drawstring-detail-technical-puffer-gilet--FSOW08NRC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGARC",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-drawstring-detail-technical-puffer-gilet--FSOW08NRC900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-drawstring-detail-technical-puffer-gilet--FSOW08NRC900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-drawstring-detail-technical-puffer-gilet--FSOW08NRC900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-drawstring-detail-technical-puffer-gilet--FSOW08NRC900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/drawstring-detail-technical-puffer-gilet-nvprod5790179v/1AGAR9",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGAWS",
+      "productId": "nvprod5790182v",
+      "name": "Monogram Puffer Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This nylon puffer jacket is discreetly signed all over with a tone-on-tone Monogram jacquard. Cut in a modern boxy shape, feather padding emphasises the warmth and volume, while a covered front zip, ribbed cuffs and a high neckline keep out the cold. It is complete with fastened side pockets and a practical removable hood.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 54% polyester, 46% polyamide</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£4,150.00",
+      "priceRaw": 4150.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGAWP",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAWQ",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAWR",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAWS",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAWT",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAWU",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAWV",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-puffer-jacket-nvprod5790182v/1AGAWS",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z256"
+  },
+  {
+      "skuId": "1AF473",
+      "productId": "nvprod4700009v",
+      "name": "Monogram Accent Pillow Puffer Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This streetwear-forward puffer jacket takes its design cues from the House’s iconic Pillow boots. Cut from recycled nylon, the voluminous silhouette is padded with a combination of goose down and wadding for warmth and comfort. A standing collar keeps out the cold, while Monogram accents complete the clothing look with an iconic signature.</p>",
+      "detailedDescription": "<ul>\n  <li>Length: 69 cm/27.2 inches</li>\n  <li>Main material: 100% polyamide</li>\n  <li>Optic White</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,150.00",
+      "priceRaw": 3150.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1AF471",
+              "size": "32",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-pillow-puffer-jacket--FQOW33E54000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AF472",
+              "size": "34",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-pillow-puffer-jacket--FQOW33E54000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AF473",
+              "size": "36",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-pillow-puffer-jacket--FQOW33E54000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AF474",
+              "size": "38",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-pillow-puffer-jacket--FQOW33E54000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AF475",
+              "size": "40",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-pillow-puffer-jacket--FQOW33E54000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AF476",
+              "size": "42",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-pillow-puffer-jacket--FQOW33E54000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AF477",
+              "size": "44",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-pillow-puffer-jacket--FQOW33E54000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AF478",
+              "size": "46",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-pillow-puffer-jacket--FQOW33E54000_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-pillow-puffer-jacket--FQOW33E54000_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1486064",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-accent-pillow-puffer-jacket-nvprod4700009v/1AF473",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-LG-Blanc.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-pillow-puffer-jacket---FQOW33E54000_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Optique",
+      "isDiamond": false,
+      "collection": "Z228"
+  },
+  {
+      "skuId": "1AAIJD",
+      "productId": "nvprod4040122v",
+      "name": "Long-Sleeved Pillow Puffer Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This is a chic, sporty long-sleeved puffer jacket inspired by the Spring-Summer 2021 Collection’s instantly iconic Pillow Boots. It is cut from quilted nylon ripstop with a Monogram lining that can be glimpsed inside the ample hood, with coordinating Monogram canvas fastenings. This clothing piece is padded with genuine feathers for a snug feel, amped up by elasticated cuffs to keep out the cold.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% polyamide</li>\n  <li>Black</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,500.00",
+      "priceRaw": 2500.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Noir",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<p>We recommend that you take great care of it. We recommend you take special care and entrust this garment to a specialized dry cleaner.</p>",
+              "introduction": "<div class=\"popinHeader uppercase\">This garment meets the highest demands and respects Louis Vuitton's traditions.</div>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1AAIJA",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-pillow-puffer-jacket--FOOW21E54900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AAIJB",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-pillow-puffer-jacket--FOOW21E54900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AAIJC",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-pillow-puffer-jacket--FOOW21E54900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AAIJD",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-pillow-puffer-jacket--FOOW21E54900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AAIJE",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-pillow-puffer-jacket--FOOW21E54900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AAIJF",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-pillow-puffer-jacket--FOOW21E54900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AAIJG",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-pillow-puffer-jacket--FOOW21E54900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-pillow-puffer-jacket--FOOW21E54900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-pillow-puffer-jacket--FOOW21E54900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-long-sleeved-pillow-puffer-jacket--FOOW21E54900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/long-sleeved-pillow-puffer-jacket-nvprod4040122v/1AAIJD",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1ABYKC",
+      "productId": "nvprod4700088v",
+      "name": "Monogram Jacquard Knit Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This jacket is spun from a soft silk-blend knit featuring the iconic Monogram motif as a graphic jacquard with contrasting plain black shoulders. The silhouette is long and oversized for a cosy, enveloping fit, complete with an ample hood, elasticated cuffs and a drawstring hem. This clothing piece is finished with an exposed golden front zip and two practical flap pockets.</p>",
+      "detailedDescription": "<ul>\n  <li>Length: 75 cm/29.5 inches</li>\n  <li>Main material: 56% silk, 42% polyamide, 2% elastane</li>\n  <li>Black/Brown</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,700.00",
+      "priceRaw": 3700.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<p>We recommend you take special care and entrust this garment to a specialist dry cleaner.</p>",
+              "introduction": "<p>This fabric garment was designed to meet the highest demands, reflecting Louis Vuitton's heritage.</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1ABYK9",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-knit-jacket--FQKC07FN7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYKA",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-knit-jacket--FQKC07FN7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYKB",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-knit-jacket--FQKC07FN7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYKC",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-knit-jacket--FQKC07FN7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYKD",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-knit-jacket--FQKC07FN7900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYKE",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-knit-jacket--FQKC07FN7900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-knit-jacket--FQKC07FN7900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-knit-jacket--FQKC07FN7900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-knit-jacket--FQKC07FN7900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-jacquard-knit-jacket-nvprod4700088v/1ABYKC",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGNY9",
+      "productId": "nvprod5880032v",
+      "name": "Reversible Signature Hooded Wrap Coat",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>The House’s signature wrap coat is effortlessly elegant in a long, hooded silhouette that is casually cinched at the waist with a self-tie belt. Crafted from sumptuous double-face wool-silk in a rich seasonal colourway, the iconic Monogram motif features as a graphic all-over signature on the reverse. This clothing piece is complete with refined tone-on-tone leather piping and two practical pockets.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Chocolate Brown</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£4,200.00",
+      "priceRaw": 4200.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Brown",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "New",
+      "skus": [
+          {
+              "skuId": "1AGNY6",
+              "size": "32",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07QWE811_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNY7",
+              "size": "34",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07QWE811_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNY8",
+              "size": "36",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07QWE811_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNY9",
+              "size": "38",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07QWE811_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNYA",
+              "size": "40",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07QWE811_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNYB",
+              "size": "42",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07QWE811_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGNYC",
+              "size": "44",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07QWE811_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07QWE811_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FSCO07QWE811_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/reversible-signature-hooded-wrap-coat-nvprod5880032v/1AGNY9",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-806_marron.jpg",
+      "enableViewBySet": false,
+      "color": "Brown",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFSJI",
+      "productId": "nvprod5560058v",
+      "name": "Reversible Signature Hooded Wrap Coat",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This reversible coat is crafted in the House’s signature hooded wrap silhouette from a sumptuous double-face wool-silk blend for elegant cold weather styling. In warm seasonal tones, one side is left plain for a timeless look, while the reverse is subtly signed all over with a Monogram jacquard. A casual self-tie belt adds definition to the waistline.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 99% wool, 1% silk</li>\n  <li>Dark Grey</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£4,200.00",
+      "priceRaw": 4200.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSJG",
+              "size": "32",
+              "color": "Gris Fonce",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FRCO38QWE739_PM1_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSJH",
+              "size": "34",
+              "color": "Gris Fonce",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FRCO38QWE739_PM1_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSJI",
+              "size": "36",
+              "color": "Gris Fonce",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FRCO38QWE739_PM1_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSJJ",
+              "size": "38",
+              "color": "Gris Fonce",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FRCO38QWE739_PM1_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSJK",
+              "size": "40",
+              "color": "Gris Fonce",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FRCO38QWE739_PM1_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSJL",
+              "size": "42",
+              "color": "Gris Fonce",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FRCO38QWE739_PM1_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSJM",
+              "size": "44",
+              "color": "Gris Fonce",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FRCO38QWE739_PM1_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FRCO38QWE739_PM1_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FRCO38QWE739_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-reversible-signature-hooded-wrap-coat--FRCO38QWE739_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/reversible-signature-hooded-wrap-coat-nvprod5560058v/1AFSJI",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-739_gris_fonce.jpg",
+      "enableViewBySet": false,
+      "color": "Gris Fonce",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGAQD",
+      "productId": "nvprod5790180v",
+      "name": "Diamond Ripstop Puffer Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This cosy hooded puffer jacket forms the mid-layer of this season’s technical ski silhouette. It is crafted from ultra-lightweight waterproof nylon ripstop fabric and quilted in a chic diamond pattern with a subtle half Monogram Flower motif on the back. Feather padding underscores the warmth, while a coated front zip, elasticated cuffs and fastened pockets emphasise the practicality. An LV snowflake adds a graphic signature to the chest.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% polyamide</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,550.00",
+      "priceRaw": 3550.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGAQA",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-jacket--FSOW12MRN900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAQB",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-jacket--FSOW12MRN900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAQC",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-jacket--FSOW12MRN900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAQD",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-jacket--FSOW12MRN900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAQE",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-jacket--FSOW12MRN900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAQF",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-jacket--FSOW12MRN900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-jacket--FSOW12MRN900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-jacket--FSOW12MRN900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-diamond-ripstop-puffer-jacket--FSOW12MRN900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/diamond-ripstop-puffer-jacket-nvprod5790180v/1AGAQD",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AFUIJ",
+      "productId": "nvprod5560204v",
+      "name": "Cropped Monogram Puffer Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This puffer jacket is a chic everyday essential in a cropped shape, made from nylon in a subtle all-over Monogram motif. Feather padding introduces warmth and volume, while a shirt collar adds structure to the silhouette. Monogram canvas buttons and an LV patch on the left sleeve complete the clothing look with a final signature touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 54% polyester, 46% polyamide</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,350.00",
+      "priceRaw": 3350.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFUIH",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUII",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIJ",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIK",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIL",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIM",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIP",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIQ",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIR",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIS",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIT",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIU",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM1_Side view.jpg",
+              "name": "Side view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/cropped-monogram-puffer-jacket-nvprod5560204v/1AFUIJ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFUIR",
+      "productId": "nvprod5560204v",
+      "name": "Cropped Monogram Puffer Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This puffer jacket is a chic everyday essential in a cropped shape, made from nylon in a subtle all-over Monogram motif. Feather padding introduces warmth and volume, while a shirt collar adds structure to the silhouette. Monogram canvas buttons and an LV patch on the left sleeve complete the clothing look with a final signature touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 54% polyester, 46% polyamide</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,350.00",
+      "priceRaw": 3350.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFUIH",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUII",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIJ",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIK",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIL",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIM",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIP",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIQ",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIR",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIS",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIT",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUIU",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-cropped-monogram-puffer-jacket--FROW19MHI900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/cropped-monogram-puffer-jacket-nvprod5560204v/1AFUIR",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGAEM",
+      "productId": "nvprod5790057v",
+      "name": "Monogram Puffer Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This nylon puffer jacket is discreetly signed all over with a tone-on-tone Monogram jacquard. Cut in a modern boxy shape, feather padding emphasises the warmth and volume, while a covered front zip, ribbed cuffs and a high neckline keep out the cold. It is complete with fastened side pockets and a practical removable hood.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 54% polyester, 46% polyamide</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£4,150.00",
+      "priceRaw": 4150.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGAEJ",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAEK",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAEL",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAEM",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAEN",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAEO",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAEP",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAEQ",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-puffer-jacket--FSOW14MHI900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-puffer-jacket-nvprod5790057v/1AGAEM",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z256"
+  },
+  {
+      "skuId": "1AGBUE",
+      "productId": "nvprod5790186v",
+      "name": "Denim Print Cropped Puffer Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This puffer jacket has been playfully reimagined in soft peach-effect cotton featuring a trompe l’oeil denim print. The chic cropped shape is padded with feathers for elevated warmth and volume, while the cuffs, waist and high neckline are finished with soft ribbing for a snug fit. It fastens with an exposed zip signed with a Monogram canvas pull.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 88% cotton, 9% polyamide, 3% elastane</li>\n  <li>Strong Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,200.00",
+      "priceRaw": 3200.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBUJ",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-print-cropped-puffer-jacket--FSOW18QFS620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBUC",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-print-cropped-puffer-jacket--FSOW18QFS620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBUD",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-print-cropped-puffer-jacket--FSOW18QFS620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBUE",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-print-cropped-puffer-jacket--FSOW18QFS620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBUF",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-print-cropped-puffer-jacket--FSOW18QFS620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBUG",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-print-cropped-puffer-jacket--FSOW18QFS620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBUH",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-print-cropped-puffer-jacket--FSOW18QFS620_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-print-cropped-puffer-jacket--FSOW18QFS620_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-print-cropped-puffer-jacket--FSOW18QFS620_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-denim-print-cropped-puffer-jacket--FSOW18QFS620_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/denim-print-cropped-puffer-jacket-nvprod5790186v/1AGBUE",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGBX9",
+      "productId": "nvprod5790165v",
+      "name": "Ombré Monogram Fleece Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This cosy jacket has a modern, graphic look in fuzzy fleece featuring a print of this season’s ombré Monogram motif, which is offset by contrasting inserts of peach-effect cotton. The cuffs and high neckline can be folded over and cinched with drawstrings for versatile styling. It is complete with three practical pockets and a sporty mesh lining.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 67% polyester, 29% wool, 2% cotton, 2% polyamide</li>\n  <li>Black</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£3,300.00",
+      "priceRaw": 3300.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBX7",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBX8",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBX9",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXA",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXB",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXC",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXD",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXE",
+              "size": "46",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ombre-monogram-fleece-jacket--FSJA12PAU900_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/ombre-monogram-fleece-jacket-nvprod5790165v/1AGBX9",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGBHZ",
+      "productId": "nvprod5790166v",
+      "name": "Monogram Teddy Peplum Gilet",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This cosy gilet is crafted from soft wool-blend teddy fleece in a graphic all-over print of the iconic Monogram motif, while the ample drawstring hood strikes a sporty contrast in nylon twill. The boxy cut can be cinched at the waist to form a chic peplum silhouette. It is complete with golden hardware and classic Monogram canvas accents.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 25% acrylic, 25% polyamide, 23% wool, 21% polyester, 6% cotton</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,740.00",
+      "priceRaw": 1740.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBHW",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBHX",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBHY",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBHZ",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBI0",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBI1",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBI2",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBI3",
+              "size": "46",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-teddy-peplum-gilet--FSJA32GP1001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-teddy-peplum-gilet-nvprod5790166v/1AGBHZ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z279"
+  }
+]

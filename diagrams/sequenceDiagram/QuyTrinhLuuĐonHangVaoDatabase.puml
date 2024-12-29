@@ -1,0 +1,14 @@
+@startuml
+title Quá Trình Lưu Đơn Hàng Vào Database
+
+actor "Khách hàng" as User
+participant "Website" as Web
+database "Wordpress Database" as DB
+
+User -> Web : Đặt hàng
+Web -> Web : Xử lý dữ liệu đơn hàng
+Web -> DB : Gửi thông tin đơn hàng để lưu
+DB -> Web : Trả về kết quả lưu trữ
+Web -> User : Hiển thị thông báo thành công / thất bại
+
+@enduml

@@ -1,0 +1,2851 @@
+[
+  {
+      "skuId": "1AFZQ0",
+      "productId": "nvprod5560149v",
+      "name": "LV x AC Wrap Tie Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This dress is spun from a technical cotton blend in a punchy red hue trimmed with contrasting ribbed hems for a bold, sporty look. The back features wrap-around ties that knot at the front for a chic yet graphic silhouette. It is signed with a rubber Gaston patch and Monogram canvas accents.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 38% cotton, 36% polyamide, 25% viscose, 1% polyurethane</li>\n  <li>Red</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,540.00",
+      "priceRaw": 2540.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Red",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFZPY",
+              "size": "XS",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-wrap-tie-dress--FRKD35OVO506_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZPZ",
+              "size": "S",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-wrap-tie-dress--FRKD35OVO506_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZQ0",
+              "size": "M",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-wrap-tie-dress--FRKD35OVO506_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZQ1",
+              "size": "L",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-wrap-tie-dress--FRKD35OVO506_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZQ2",
+              "size": "XL",
+              "color": "Rouge",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-wrap-tie-dress--FRKD35OVO506_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-wrap-tie-dress--FRKD35OVO506_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-wrap-tie-dress--FRKD35OVO506_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-wrap-tie-dress--FRKD35OVO506_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-ac-wrap-tie-dress-nvprod5560149v/1AFZQ0",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-506_rouge.jpg",
+      "enableViewBySet": false,
+      "color": "Rouge",
+      "isDiamond": false,
+      "collection": "Z248"
+  },
+  {
+      "skuId": "1AFZAH",
+      "productId": "nvprod5560112v",
+      "name": "Dauphine Tab Knit Maxi Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This knit dress is crafted from a soft cotton-cashmere blend in a classic fitted short-sleeved shape for comfortable daily styling. The shoulders and side slit are highlighted with gleaming golden anchor buttons, while a patch pocket on the hip is embellished with a seasonal LV Circle tab, which nods to the House’s iconic Dauphine bag.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 50% cotton, 50% cashmere</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,290.00",
+      "priceRaw": 2290.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFZAF",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-dauphine-tab-knit-maxi-dress--FRKD25MUX900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZAG",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-dauphine-tab-knit-maxi-dress--FRKD25MUX900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZAH",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-dauphine-tab-knit-maxi-dress--FRKD25MUX900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZAI",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-dauphine-tab-knit-maxi-dress--FRKD25MUX900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZAJ",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-dauphine-tab-knit-maxi-dress--FRKD25MUX900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZAK",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-dauphine-tab-knit-maxi-dress--FRKD25MUX900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZAL",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-dauphine-tab-knit-maxi-dress--FRKD25MUX900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-dauphine-tab-knit-maxi-dress--FRKD25MUX900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-dauphine-tab-knit-maxi-dress--FRKD25MUX900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/dauphine-tab-knit-maxi-dress-nvprod5560112v/1AFZAH",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFYSR",
+      "productId": "nvprod5560159v",
+      "name": "LV x AC Monogram Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Signature details from the LV x America's Cup 2024 capsule elevate this A-line dress with a chic, sporty feel. The iconic Monogram motif features as an all-over print on denim, which has been washed for a casual finish. The knotted zip pull nods to sailing codes, while the waistline is highlighted with a graphic D-ring Vuitton belt.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,540.00",
+      "priceRaw": 2540.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFYSO",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYSP",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYSQ",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYSR",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYSS",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYST",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYSU",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYSV",
+              "size": "46",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-monogram-dress--FRDS56EFY610_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-ac-monogram-dress-nvprod5560159v/1AFYSR",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z248"
+  },
+  {
+      "skuId": "1AFYUR",
+      "productId": "nvprod5560097v",
+      "name": "Graphic Technical Jersey Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This dress nods to sporty clothing styles in soft, flexible technical jersey cut in a figure-skimming fit. Striped ribbing introduces a graphic accent to the short sleeves and neckline, which is emphasised by contrasting inserts on the chest and shoulders. A technical coated zip adds a final activewear detail to the front. The clothing piece is discreetly signed with an LV patch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 72% polyamide, 28% elastane</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,750.00",
+      "priceRaw": 1750.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFYUP",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-jersey-dress--FRDS62G72900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYUQ",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-jersey-dress--FRDS62G72900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYUR",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-jersey-dress--FRDS62G72900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYUS",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-jersey-dress--FRDS62G72900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYUT",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-jersey-dress--FRDS62G72900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYUU",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-jersey-dress--FRDS62G72900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-jersey-dress--FRDS62G72900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-jersey-dress--FRDS62G72900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-jersey-dress--FRDS62G72900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/graphic-technical-jersey-dress-nvprod5560097v/1AFYUR",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFYRZ",
+      "productId": "nvprod5560103v",
+      "name": "Monogram Piqué Polo Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This dress has a casual preppy feel with short sleeves and a sporty polo collar, complete with a golden snap button fastening on the chest. It is cut in a tapered fit from soft, flexible cotton piqué and the iconic Monogram motif features as a subtle all-over signature in relief.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,290.00",
+      "priceRaw": 1290.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFYRB",
+              "size": "XXS",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRC",
+              "size": "XS",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRD",
+              "size": "S",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRE",
+              "size": "M",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRF",
+              "size": "L",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRG",
+              "size": "XL",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRH",
+              "size": "XXL",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRW",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRX",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRY",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRZ",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYS0",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYS1",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYS2",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-pique-polo-dress-nvprod5560103v/1AFYRZ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z258"
+  },
+  {
+      "skuId": "1AFYRE",
+      "productId": "nvprod5560103v",
+      "name": "Monogram Piqué Polo Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This dress has a casual preppy feel with short sleeves and a sporty polo collar, complete with a golden snap button fastening on the chest. It is cut in a tapered fit from soft, flexible cotton piqué and the iconic Monogram motif features as a subtle all-over signature in relief.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Champagne</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,290.00",
+      "priceRaw": 1290.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Beige",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFYRB",
+              "size": "XXS",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRC",
+              "size": "XS",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRD",
+              "size": "S",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRE",
+              "size": "M",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRF",
+              "size": "L",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRG",
+              "size": "XL",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRH",
+              "size": "XXL",
+              "color": "Champagne",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRW",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRX",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRY",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYRZ",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYS0",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYS1",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYS2",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-pique-polo-dress--FRJD15DYM009_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-pique-polo-dress-nvprod5560103v/1AFYRE",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-009_champagne.jpg",
+      "enableViewBySet": false,
+      "color": "Champagne",
+      "isDiamond": false,
+      "collection": "Z258"
+  },
+  {
+      "skuId": "1AFZSN",
+      "productId": "nvprod5560160v",
+      "name": "LV x AC Utility Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Multiple fastened pockets and functional details rework this summery dress with a sporty utility feel. Cut from lightweight washed cotton twill, the drawstring and high neckline can be cinched for a defined silhouette, while the front is fastened with a covered zip. A rubber Gaston patch adds a playful pop of colour to the front.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,540.00",
+      "priceRaw": 2540.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFZSK",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-utility-dress--FRDS57PGT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZSL",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-utility-dress--FRDS57PGT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZSM",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-utility-dress--FRDS57PGT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZSN",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-utility-dress--FRDS57PGT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZSO",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-utility-dress--FRDS57PGT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZSP",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-utility-dress--FRDS57PGT001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZSQ",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-utility-dress--FRDS57PGT001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-utility-dress--FRDS57PGT001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-utility-dress--FRDS57PGT001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-utility-dress--FRDS57PGT001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-ac-utility-dress-nvprod5560160v/1AFZSN",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z248"
+  },
+  {
+      "skuId": "1AFYXV",
+      "productId": "nvprod5560095v",
+      "name": "Low Waist Ruffle Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Discreetly playful details offset the clean lines of this dress for a crisp, summery look. Crafted from a lightweight, textured viscose-blend crepe jersey, the top half is cut with a smart standing collar and fastened with tone-on-tone lacquered snap buttons on a scalloped tab, while the low waist skirt adds volume and dimension with asymmetrical ruffles.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 76% viscose, 21% polyamide, 3% elastane</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,290.00",
+      "priceRaw": 2290.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFYXS",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-low-waist-ruffle-dress--FRDS60JEV001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYXT",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-low-waist-ruffle-dress--FRDS60JEV001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYXU",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-low-waist-ruffle-dress--FRDS60JEV001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYXV",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-low-waist-ruffle-dress--FRDS60JEV001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYXW",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-low-waist-ruffle-dress--FRDS60JEV001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYXX",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-low-waist-ruffle-dress--FRDS60JEV001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFYXY",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-low-waist-ruffle-dress--FRDS60JEV001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-low-waist-ruffle-dress--FRDS60JEV001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-low-waist-ruffle-dress--FRDS60JEV001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/low-waist-ruffle-dress-nvprod5560095v/1AFYXV",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFSWL",
+      "productId": "nvprod5560066v",
+      "name": "Monogram Fil Coupé Belted Shirt Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This elegant long-sleeved shirt dress is reworked with an asymmetrical handkerchief hemline and an integrated belt at the waist for a breezy yet defined silhouette. Cut from soft, lightweight cotton poplin, the iconic Monogram motif features as a subtle all-over signature in a fil coupé finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Optic White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,630.00",
+      "priceRaw": 2630.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSWI",
+              "size": "32",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-belted-shirt-dress--FRDS32AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSWJ",
+              "size": "34",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-belted-shirt-dress--FRDS32AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSWK",
+              "size": "36",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-belted-shirt-dress--FRDS32AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSWL",
+              "size": "38",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-belted-shirt-dress--FRDS32AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSWM",
+              "size": "40",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-belted-shirt-dress--FRDS32AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSWN",
+              "size": "42",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-belted-shirt-dress--FRDS32AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSWO",
+              "size": "44",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-belted-shirt-dress--FRDS32AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSWP",
+              "size": "46",
+              "color": "Blanc Optique",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-belted-shirt-dress--FRDS32AQV000_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-belted-shirt-dress--FRDS32AQV000_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-fil-coupe-belted-shirt-dress-nvprod5560066v/1AFSWL",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-LG-Blanc.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Optique",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFTPB",
+      "productId": "nvprod5560080v",
+      "name": "Snap Waist T-Shirt Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This staple T-shirt dress is reworked with signature detailing for an elevated streetwear-forward clothing look. Cut from sporty interlock cotton jersey in a casual oversized shape, two giant snap buttons add definition to the waistline, while the ribbed crew neckline is trimmed with a scaled-up LV chain embellishment.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 89% cotton, 11% polyamide</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,900.00",
+      "priceRaw": 1900.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFTP8",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTP9",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPA",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPB",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPC",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPD",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPF",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPG",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPH",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPI",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPJ",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPK",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTPL",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-snap-waist-t-shirt-dress--FRJD23FED001_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/snap-waist-t-shirt-dress-nvprod5560080v/1AFTPB",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFZLI",
+      "productId": "nvprod5560114v",
+      "name": "Lace Knit Charm Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>A sleek silhouette elevated with spirited seasonal details, this long-sleeved maxi dress is crafted from a fine, flexible cotton blend spun in a delicate lace knit for a bold play of transparency. The left shoulder is playfully adorned with a signature charm chain, while a high slit in the hem allows for effortless movement.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,290.00",
+      "priceRaw": 2290.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFZLG",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lace-knit-charm-dress--FRKD36NYB001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZLH",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lace-knit-charm-dress--FRKD36NYB001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZLI",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lace-knit-charm-dress--FRKD36NYB001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZLJ",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lace-knit-charm-dress--FRKD36NYB001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZLK",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lace-knit-charm-dress--FRKD36NYB001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lace-knit-charm-dress--FRKD36NYB001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lace-knit-charm-dress--FRKD36NYB001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lace-knit-charm-dress--FRKD36NYB001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lace-knit-charm-dress-nvprod5560114v/1AFZLI",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFSVO",
+      "productId": "nvprod5500016v",
+      "name": "Monogram Fil Coupé Shirt Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This shirt dress is effortlessly elegant in lightweight cotton poplin featuring the iconic Monogram motif as a textured all-over signature in fil coupé. The full-length silhouette has a timeless tailored look with a smart collar, cuffs and delicate pearly buttons fastening the front.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Optic White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,810.00",
+      "priceRaw": 1810.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSVM",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDS26AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSVN",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDS26AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSVO",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDS26AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSVP",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDS26AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSVQ",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDS26AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSVR",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDS26AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSVS",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDS26AQV000_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSVT",
+              "size": "46",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDS26AQV000_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDS26AQV000_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-fil-coupe-shirt-dress-nvprod5500016v/1AFSVO",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFSQS",
+      "productId": "nvprod5500012v",
+      "name": "Monogram Fil Coupé Zip-Up Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This zip-up dress is cut in a chic fitted A-line silhouette with belt loops highlighting the waistline for a subtle trompe l’oeil look. Cut from structured cotton, the House’s iconic Monogram motif features as a subtle all-over signature in fil coupé, while a Monogram canvas patch adds a contemporary House touch to the left hip.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Ecru White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,670.00",
+      "priceRaw": 2670.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Beige",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSQQ",
+              "size": "32",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQR",
+              "size": "34",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQS",
+              "size": "36",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQT",
+              "size": "38",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQU",
+              "size": "40",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQV",
+              "size": "42",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQW",
+              "size": "44",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQX",
+              "size": "46",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-fil-coupe-zip-up-dress-nvprod5500012v/1AFSQS",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-006_beige.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-zip-up-dress--FRDR40KXP004_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "beige",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFSO4",
+      "productId": "nvprod5500006v",
+      "name": "Graphic Trim Tiered Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This dress from the LV By the Pool Collection is crafted from cotton poplin in an elegant silhouette with a voluminous tiered skirt for effortless summer styling. Contrasting striped trims add a playful graphic accent, while iconic Monogram Flower details pepper the design with a discreet signature touch. It is fastened at the back with an exposed zip.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Blueberry Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,630.00",
+      "priceRaw": 2630.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSO2",
+              "size": "32",
+              "color": "Bleu Myrtille",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSO3",
+              "size": "34",
+              "color": "Bleu Myrtille",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSO4",
+              "size": "36",
+              "color": "Bleu Myrtille",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSO5",
+              "size": "38",
+              "color": "Bleu Myrtille",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSO6",
+              "size": "40",
+              "color": "Bleu Myrtille",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSO7",
+              "size": "42",
+              "color": "Bleu Myrtille",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSO8",
+              "size": "44",
+              "color": "Bleu Myrtille",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/graphic-trim-tiered-dress-nvprod5500006v/1AFSO4",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-648_bleu_myrtille.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-trim-tiered-dress--FRDR15YF4648_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Bleu Myrtille",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFSOC",
+      "productId": "nvprod5500007v",
+      "name": "Palm Print Trompe L’Oeil Maxi Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>The top half of this trompe l’oeil dress is cut from ribbed jersey in a fitted tank shape trimmed with chunky LV chain straps for a contemporary yet casual look. The airy full-length skirt strikes a tonal and textural contrast in pleated silk featuring a bold all-over palm print from the LV By the Pool Collection.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 77% silk, 22% cotton, 1% elastane</li>\n  <li>Blue/White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,450.00",
+      "priceRaw": 3450.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSOB",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-palm-print-trompe-l-oeil-maxi-dress--FRDR22LWA619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSOC",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-palm-print-trompe-l-oeil-maxi-dress--FRDR22LWA619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSOD",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-palm-print-trompe-l-oeil-maxi-dress--FRDR22LWA619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSOE",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-palm-print-trompe-l-oeil-maxi-dress--FRDR22LWA619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSOF",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-palm-print-trompe-l-oeil-maxi-dress--FRDR22LWA619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSOG",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-palm-print-trompe-l-oeil-maxi-dress--FRDR22LWA619_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-palm-print-trompe-l-oeil-maxi-dress--FRDR22LWA619_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-palm-print-trompe-l-oeil-maxi-dress--FRDR22LWA619_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-palm-print-trompe-l-oeil-maxi-dress--FRDR22LWA619_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/palm-print-trompe-loeil-maxi-dress-nvprod5500007v/1AFSOC",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFZIE",
+      "productId": "nvprod5560094v",
+      "name": "Monogram Kaleidoscope Shirt Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>A play of seasonal codes elevates this long-sleeved shirt dress with a fresh, summery feel. Cut from fluid silk twill, the Monogram motif features all over in a colourful kaleidoscope finish. The silhouette has a modern, tailored look with a clean collar and covered button tab, while a wide self-tie belt introduces a casual detail.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Light Yellow</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,110.00",
+      "priceRaw": 2110.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Yellow",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFZIB",
+              "size": "32",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-shirt-dress--FRDR38NTF420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZIC",
+              "size": "34",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-shirt-dress--FRDR38NTF420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZID",
+              "size": "36",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-shirt-dress--FRDR38NTF420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZIE",
+              "size": "38",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-shirt-dress--FRDR38NTF420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZIF",
+              "size": "40",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-shirt-dress--FRDR38NTF420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZIG",
+              "size": "42",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-shirt-dress--FRDR38NTF420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZIH",
+              "size": "44",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-shirt-dress--FRDR38NTF420_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-shirt-dress--FRDR38NTF420_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-shirt-dress--FRDR38NTF420_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-kaleidoscope-shirt-dress-nvprod5560094v/1AFZIE",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-420_jaune_clair.jpg",
+      "enableViewBySet": false,
+      "color": "Pale Yellow",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFSRG",
+      "productId": "nvprod5500013v",
+      "name": "3D Monogram Fil Coupé Shirt Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>The pared-back silhouette of this elegant shirt dress is uplifted by the LV By the Pool Collection’s Monogram fil coupé motif in a fresh, summery colourway. Crafted from a lightweight cotton-silk blend, a smart collar, hidden button tab and cuffed long sleeves nod to classic tailoring codes, while an oversized knotted belt casually accentuates the waistline.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 38% silk, 35% cotton, 27% polyester</li>\n  <li>Bleu de France Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,630.00",
+      "priceRaw": 2630.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSR6",
+              "size": "32",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSR7",
+              "size": "34",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSR8",
+              "size": "36",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSR9",
+              "size": "38",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRA",
+              "size": "40",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRE",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRF",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRG",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRH",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRI",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRJ",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRK",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/3d-monogram-fil-coupe-shirt-dress-nvprod5500013v/1AFSRG",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-fil-coupe-shirt-dress--FRDR42KWX644_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFSRO",
+      "productId": "nvprod5500014v",
+      "name": "3D Monogram Tile Fil Coupé Shirt Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This elegant shirt dress is elevated with a graphic seasonal signature, which reimagines the House’s iconic Monogram in a geometric tile motif inspired by detailing at the historic home of Louis Vuitton. Tailored from lightweight fil coupé cotton poplin, this clothing piece is cinched at the waist with a knotted belt and fastened with a hidden button tab.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cotton</li>\n  <li>Ocean Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,080.00",
+      "priceRaw": 2080.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSRM",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRN",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRO",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRP",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRQ",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRR",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRS",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRT",
+              "size": "46",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-3d-monogram-tile-fil-coupe-shirt-dress--FRDR42MLU619_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/3d-monogram-tile-fil-coupe-shirt-dress-nvprod5500014v/1AFSRO",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFSRW",
+      "productId": "nvprod5500015v",
+      "name": "Monogram Fil Coupé Shirt Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This elegant shirt dress is cut from a cotton-silk blend in a zesty orange colourway for a bold summer look. The House’s iconic Monogram motif features as a subtle tone-on-tone signature in fil coupé. A smart collar, covered button tab and fastened cuffs nod to classic tailoring codes, while an oversized belt adds a relaxed finishing touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 59% cotton, 41% silk</li>\n  <li>Orange</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,630.00",
+      "priceRaw": 2630.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Orange",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSRV",
+              "size": "34",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRW",
+              "size": "36",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRX",
+              "size": "38",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRY",
+              "size": "40",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSRZ",
+              "size": "42",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSS0",
+              "size": "44",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-fil-coupe-shirt-dress-nvprod5500015v/1AFSRW",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Orange_Vif.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-shirt-dress--FRDR42UM7401_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Orange Vif",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFZKX",
+      "productId": "nvprod5560111v",
+      "name": "Asymmetrical Lace Knit Charm Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This spirited asymmetrical mini dress skims the figure in a fine, flexible cotton blend spun in a lace knit for a daring play of light. The shoulder is adorned with a removable chain embellished with signature charms. Ribbed hems and sides complete the look with a fresh, sporty finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 97% cotton, 2% polyamide, 1% elastane</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,770.00",
+      "priceRaw": 1770.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFZKV",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-lace-knit-charm-dress--FRKD20NYB900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZKW",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-lace-knit-charm-dress--FRKD20NYB900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZKX",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-lace-knit-charm-dress--FRKD20NYB900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZKY",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-lace-knit-charm-dress--FRKD20NYB900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZKZ",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-lace-knit-charm-dress--FRKD20NYB900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-lace-knit-charm-dress--FRKD20NYB900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-lace-knit-charm-dress--FRKD20NYB900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-lace-knit-charm-dress--FRKD20NYB900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/asymmetrical-lace-knit-charm-dress-nvprod5560111v/1AFZKX",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFSZ0",
+      "productId": "nvprod5560071v",
+      "name": "Bouclette Tweed A-Line Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>The unfussy silhouette of this A-line dress is elevated with this season’s bouclette tweed, which is spun from a richly textured wool-alpaca blend and accented with playful pops of colour. The structure is emphasised with two patch pockets on the front, while the back is fastened with an exposed zip trimmed with an oversized Monogram pull.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 44% wool, 26% alpaca wool, 20% polyamide, 4% linen, 4% acrylic, 2% viscose</li>\n  <li>Beige/Grey</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,630.00",
+      "priceRaw": 2630.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Beige",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSYY",
+              "size": "34",
+              "color": "Beige Gris",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bouclette-tweed-a-line-dress--FRDS52MCL019_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSYZ",
+              "size": "36",
+              "color": "Beige Gris",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bouclette-tweed-a-line-dress--FRDS52MCL019_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSZ0",
+              "size": "38",
+              "color": "Beige Gris",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bouclette-tweed-a-line-dress--FRDS52MCL019_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSZ1",
+              "size": "40",
+              "color": "Beige Gris",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bouclette-tweed-a-line-dress--FRDS52MCL019_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSZ2",
+              "size": "42",
+              "color": "Beige Gris",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bouclette-tweed-a-line-dress--FRDS52MCL019_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSZ3",
+              "size": "44",
+              "color": "Beige Gris",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bouclette-tweed-a-line-dress--FRDS52MCL019_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bouclette-tweed-a-line-dress--FRDS52MCL019_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/bouclette-tweed-a-line-dress-nvprod5560071v/1AFSZ0",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-013_beige_gris.jpg",
+      "enableViewBySet": false,
+      "color": "Beige Gris",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFSPO",
+      "productId": "nvprod5500009v",
+      "name": "Tropical Floral Shirt Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Smart tailoring elevates this chic silk shirt dress with a structured feel, while a large tropical floral motif emphasises a fresh, summery spirit. The top is cut with a sharp standing collar and pleated button tab, while epaulettes highlight the exaggerated shoulders and an airy, oversized knotted belt adds definition to the waistline of this clothing piece.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% silk</li>\n  <li>Peach</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,150.00",
+      "priceRaw": 3150.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Orange",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSPM",
+              "size": "32",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSPN",
+              "size": "34",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSPO",
+              "size": "36",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSPP",
+              "size": "38",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSPQ",
+              "size": "40",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSPR",
+              "size": "42",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSPS",
+              "size": "44",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSPT",
+              "size": "46",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/tropical-floral-shirt-dress-nvprod5500009v/1AFSPO",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Orange_Vif.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-tropical-floral-shirt-dress--FRDR35LSW412_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Orange Vif",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFSQC",
+      "productId": "nvprod5500010v",
+      "name": "Monogram Fil Coupé Batwing Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This shirt dress is bold and breezy in lightweight cotton-silk poplin featuring an all-over Monogram print highlighted with contrasting fil coupé for a graphic, textural finish. The silhouette is cut in an ample oversized fit with a fluid, asymmetrical back and voluminous batwing sleeves, while a clean neckline completes the look with a smart finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 39% silk, 34% cotton, 27% polyester</li>\n  <li>Bleu de France Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,630.00",
+      "priceRaw": 2630.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFSQA",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQB",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQC",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQD",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQE",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQF",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFSQG",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-fil-coupe-batwing-dress-nvprod5500010v/1AFSQC",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-fil-coupe-batwing-dress--FRDR37KWX644_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFU14",
+      "productId": "nvprod5560180v",
+      "name": "Sleeve Tie Knit Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This casual knit dress is quietly elevated in soft, lightweight cashmere for sumptuous daily styling. Spun in an oversized jumper shape, the sides are playfully trimmed with two colour-blocked sleeves that can be knotted around the waist for a defined silhouette. The House’s signature D-ring details add a contemporary finishing touch to the shoulders.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cashmere</li>\n  <li>Ciment Beige</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,540.00",
+      "priceRaw": 2540.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Beige",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFU12",
+              "size": "XS",
+              "color": "Beige Ciment",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFU13",
+              "size": "S",
+              "color": "Beige Ciment",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFU14",
+              "size": "M",
+              "color": "Beige Ciment",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFU15",
+              "size": "L",
+              "color": "Beige Ciment",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFU16",
+              "size": "XL",
+              "color": "Beige Ciment",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/sleeve-tie-knit-dress-nvprod5560180v/1AFU14",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Blanc_Ciment.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FRKD21MWV042_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Beige Ciment",
+      "isDiamond": false
+  }
+]

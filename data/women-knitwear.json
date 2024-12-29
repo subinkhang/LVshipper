@@ -1,0 +1,2857 @@
+[
+  {
+      "skuId": "1AGCOQ",
+      "productId": "nvprod5790173v",
+      "name": "Graphic Technical Knit Mitten Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This sleek colour-blocked top forms the base layer of this season’s ski capsule. It is spun from a technical wool-blend knit that is lightweight, flexible and moisture-wicking for elevated warmth and comfort on the slopes. An exposed zip allows the high neckline to be styled up or down, while the long sleeves extend to the knuckles and are finished with thumb holes for a built-in mitten effect.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 42% polyester, 34% wool, 23% polyamide, 1% polyurethane</li>\n  <li>Milk White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,120.00",
+      "priceRaw": 1120.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGCOV",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-knit-mitten-top--FSKL24PVX002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCOP",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-knit-mitten-top--FSKL24PVX002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCOQ",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-knit-mitten-top--FSKL24PVX002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCOZ",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-knit-mitten-top--FSKL24PVX002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCOT",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-knit-mitten-top--FSKL24PVX002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCOY",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-knit-mitten-top--FSKL24PVX002_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-knit-mitten-top--FSKL24PVX002_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-knit-mitten-top--FSKL24PVX002_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-knit-mitten-top--FSKL24PVX002_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-technical-knit-mitten-top--FSKL24PVX002_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/graphic-technical-knit-mitten-top-nvprod5790173v/1AGCOQ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGBZR",
+      "productId": "nvprod5790171v",
+      "name": "Mohair Hockey Stripes Jumper",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This jumper playfully reimagines the graphic look of an ice hockey jersey in a fluffy mohair blend for cosy winter wear. The body and sleeves are highlighted with colourful stripes, while the ribbed high neckline strikes a cosy contrast complete with an exposed zip for versatile styling. The clothing piece is signed on the arm with an LV snowflake patch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 53% mohair, 41% polyamide, 5% wool, 1% elastane</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,630.00",
+      "priceRaw": 2630.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBZQ",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mohair-hockey-stripes-jumper--FSKL22PTK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBZR",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mohair-hockey-stripes-jumper--FSKL22PTK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBZT",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mohair-hockey-stripes-jumper--FSKL22PTK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBZU",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mohair-hockey-stripes-jumper--FSKL22PTK001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBZS",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mohair-hockey-stripes-jumper--FSKL22PTK001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mohair-hockey-stripes-jumper--FSKL22PTK001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mohair-hockey-stripes-jumper--FSKL22PTK001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mohair-hockey-stripes-jumper--FSKL22PTK001_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mohair-hockey-stripes-jumper--FSKL22PTK001_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/mohair-hockey-stripes-jumper-nvprod5790171v/1AGBZR",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGDJK",
+      "productId": "nvprod5790206v",
+      "name": "Sporty Colour-Blocked Jumper",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This jumper nods to sporty codes in a bold colour-blocked construction, crafted from a soft cotton-cashmere blend. The ribbed high neckline can be styled open as a flat collar, thanks to an exposed zip, while the cuffs are finished with thumbholes to emphasise the athletic look. This clothing piece is complete with a glossy Vuitton signature on the chest.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 76% cotton, 16% polyamide, 8% cashmere</li>\n  <li>Light Ecru White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,050.00",
+      "priceRaw": 2050.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Beige",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGDJI",
+              "size": "XXS",
+              "color": "Ecru",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sporty-colour-blocked-jumper--FSST10PBF056_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDJJ",
+              "size": "XS",
+              "color": "Ecru",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sporty-colour-blocked-jumper--FSST10PBF056_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDJK",
+              "size": "S",
+              "color": "Ecru",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sporty-colour-blocked-jumper--FSST10PBF056_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDJM",
+              "size": "L",
+              "color": "Ecru",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sporty-colour-blocked-jumper--FSST10PBF056_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDJN",
+              "size": "XL",
+              "color": "Ecru",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sporty-colour-blocked-jumper--FSST10PBF056_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDJL",
+              "size": "M",
+              "color": "Ecru",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sporty-colour-blocked-jumper--FSST10PBF056_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sporty-colour-blocked-jumper--FSST10PBF056_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sporty-colour-blocked-jumper--FSST10PBF056_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sporty-colour-blocked-jumper--FSST10PBF056_PM1_Back view.jpg",
+              "name": "Back view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sporty-colour-blocked-jumper--FSST10PBF056_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/sporty-colour-blocked-jumper-nvprod5790206v/1AGDJK",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-004_ecru.jpg",
+      "enableViewBySet": false,
+      "color": "Ecru",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGCZT",
+      "productId": "nvprod5790169v",
+      "name": "Shearling-Effect Monogram Jacket",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This warm jacket has a modern, sporty spirit in a wool-cashmere blend spun in a fuzzy shearling-effect finish with a graphic Monogram motif in relief. The high neckline, waist and cuffs are highlighted with chunky ribbing for a cosy fit, while an exposed zip fastening completes the clothing look.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 57% wool, 25% cashmere, 17% polyamide, 1% elastane</li>\n  <li>Ecru White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,140.00",
+      "priceRaw": 2140.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Beige",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGCZR",
+              "size": "XXS",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-shearling-effect-monogram-jacket--FSKC19QYH004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCZS",
+              "size": "XS",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-shearling-effect-monogram-jacket--FSKC19QYH004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCZT",
+              "size": "S",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-shearling-effect-monogram-jacket--FSKC19QYH004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCZV",
+              "size": "L",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-shearling-effect-monogram-jacket--FSKC19QYH004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCZW",
+              "size": "XL",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-shearling-effect-monogram-jacket--FSKC19QYH004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCZX",
+              "size": "XXL",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-shearling-effect-monogram-jacket--FSKC19QYH004_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCZU",
+              "size": "M",
+              "color": "beige",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-shearling-effect-monogram-jacket--FSKC19QYH004_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-shearling-effect-monogram-jacket--FSKC19QYH004_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-shearling-effect-monogram-jacket--FSKC19QYH004_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-shearling-effect-monogram-jacket--FSKC19QYH004_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/shearling-effect-monogram-jacket-nvprod5790169v/1AGCZT",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-006_beige.jpg",
+      "enableViewBySet": false,
+      "color": "beige",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGCFQ",
+      "productId": "nvprod5790172v",
+      "name": "Winter Bloom Mohair Jumper",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This cosy jumper elevates après-ski looks with a romantic spirit in a soft, fluffy mohair-blend knit spun in this season’s chic winter bloom motif. The flat collar, cuffs and waistline strike a subtle contrast in a tonal ribbed finish, while the left sleeve is signed with a Monogram canvas tab.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 41% mohair, 39% wool, 18% polyamide, 2% acrylic</li>\n  <li>Beige</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,740.00",
+      "priceRaw": 1740.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Pink",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGCFP",
+              "size": "XS",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-mohair-jumper--FSKL23PTZ521_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCFQ",
+              "size": "S",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-mohair-jumper--FSKL23PTZ521_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCFS",
+              "size": "L",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-mohair-jumper--FSKL23PTZ521_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCFT",
+              "size": "XL",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-mohair-jumper--FSKL23PTZ521_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCFR",
+              "size": "M",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-mohair-jumper--FSKL23PTZ521_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-mohair-jumper--FSKL23PTZ521_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-mohair-jumper--FSKL23PTZ521_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-winter-bloom-mohair-jumper--FSKL23PTZ521_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/winter-bloom-mohair-jumper-nvprod5790172v/1AGCFQ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-034_beige_rose_2.jpg",
+      "enableViewBySet": false,
+      "color": "Beige Rose",
+      "isDiamond": false,
+      "collection": "Z279"
+  },
+  {
+      "skuId": "1AGHCT",
+      "productId": "nvprod5790242v",
+      "name": "Louis Vuitton Brushed Knit Jumper",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This staple jumper is playfully reimagined in a brushed mohair blend, which has a soft, slightly fluffy texture for cosy everyday styling. A large cursive Louis Vuitton signature adds a chic graphic detail to the chest of this luxurious clothing piece. The crew neckline, cuffs and waist are ribbed for a neat finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 56% virgin wool, 24% cashmere, 20% polyamide</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,380.00",
+      "priceRaw": 1380.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGHCQ",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHCR",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHCS",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHCU",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHCV",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGHCT",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/louis-vuitton-brushed-knit-jumper-nvprod5790242v/1AGHCT",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGAAA",
+      "productId": "nvprod5790246v",
+      "name": "Compact Knit Mini Skirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This staple mini skirt is crafted from a compact wool knit for a contemporary casual look. Side panels exaggerate the flared silhouette, while tone-on-tone topstitching emphasises the structure. The back is fastened with a half-zip trimmed with an oversized Monogram canvas pull for a subtle signature finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% virgin wool</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,120.00",
+      "priceRaw": 1120.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGAA7",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-mini-skirt--FSKZ07QXZ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAA8",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-mini-skirt--FSKZ07QXZ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAA9",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-mini-skirt--FSKZ07QXZ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAAB",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-mini-skirt--FSKZ07QXZ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAAC",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-mini-skirt--FSKZ07QXZ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAAA",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-mini-skirt--FSKZ07QXZ900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-mini-skirt--FSKZ07QXZ900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-mini-skirt--FSKZ07QXZ900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-mini-skirt--FSKZ07QXZ900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/compact-knit-mini-skirt-nvprod5790246v/1AGAAA",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGA98",
+      "productId": "nvprod5790240v",
+      "name": "Compact Knit Zip-Up Cardigan",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This cardigan is casual and cosy for modern everyday styling in a boxy shape with a front zip fastening. Spun from a warm and compact wool knit, ribbed hems and tone-on-tone topstitching emphasise the structured look, while Monogram canvas accents add an iconic signature finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% virgin wool</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,380.00",
+      "priceRaw": 1380.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGA96",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-zip-up-cardigan--FSKC22QXZ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGA97",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-zip-up-cardigan--FSKC22QXZ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGA99",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-zip-up-cardigan--FSKC22QXZ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAA0",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-zip-up-cardigan--FSKC22QXZ900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGA98",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-zip-up-cardigan--FSKC22QXZ900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-zip-up-cardigan--FSKC22QXZ900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-zip-up-cardigan--FSKC22QXZ900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-compact-knit-zip-up-cardigan--FSKC22QXZ900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/compact-knit-zip-up-cardigan-nvprod5790240v/1AGA98",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGA62",
+      "productId": "nvprod5790243v",
+      "name": "Rib-Knit Turtleneck Jumper",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This jumper is spun from thick, warm wool in an elegant English rib knit for cosy cold weather styling. The silhouette has a subtly sculptural feel with balloon sleeves, a tapered waistline and a turtleneck that can be styled up or down, thanks to a half-zip trimmed with a Monogram canvas pull.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% wool</li>\n  <li>Black/Heather Grey</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,430.00",
+      "priceRaw": 1430.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGA60",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rib-knit-turtleneck-jumper--FSKL42QJB910_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGA61",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rib-knit-turtleneck-jumper--FSKL42QJB910_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGA63",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rib-knit-turtleneck-jumper--FSKL42QJB910_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGA64",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rib-knit-turtleneck-jumper--FSKL42QJB910_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGA62",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rib-knit-turtleneck-jumper--FSKL42QJB910_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rib-knit-turtleneck-jumper--FSKL42QJB910_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rib-knit-turtleneck-jumper--FSKL42QJB910_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-rib-knit-turtleneck-jumper--FSKL42QJB910_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/rib-knit-turtleneck-jumper-nvprod5790243v/1AGA62",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AGBY1",
+      "productId": "nvprod5790095v",
+      "name": "Louis Vuitton Brushed Knit Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This knit top is playful yet chic in a trim shape with half-sleeves spun from a brushed mohair blend in a soft, slightly fluffy finish. The crew neckline, cuffs and waistline are trimmed with ribbing, while the chest is embellished with a cursive Louis Vuitton signature for an elegantly graphic touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 53% wool, 22% cashmere, 23% polyamide, 1% mohair</li>\n  <li>Milk White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,290.00",
+      "priceRaw": 1290.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBXZ",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-top--FSKS13PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBY0",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-top--FSKS13PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBY1",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-top--FSKS13PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBY3",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-top--FSKS13PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBY4",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-top--FSKS13PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBY5",
+              "size": "XXL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-top--FSKS13PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBY2",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-top--FSKS13PTC002_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-top--FSKS13PTC002_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-top--FSKS13PTC002_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-top--FSKS13PTC002_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/louis-vuitton-brushed-knit-top-nvprod5790095v/1AGBY1",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGBYD",
+      "productId": "nvprod5790091v",
+      "name": "Monogram Brushed Knit Jumper",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This staple jumper is elevated in a sumptuous blend of wool, mohair and cashmere in a soft, brushed finish. The House’s iconic Monogram motif features as a graphic all-over signature, while the crew neckline and exaggerated cuffs and waist are trimmed with contrast ribbing for a cosy fit.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 38% wool, 24% polyamide, 22% mohair, 15% cashmere</li>\n  <li>Milk White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,470.00",
+      "priceRaw": 1470.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBYB",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-jumper--FSKL16PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYC",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-jumper--FSKL16PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYD",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-jumper--FSKL16PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYF",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-jumper--FSKL16PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYG",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-jumper--FSKL16PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYE",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-jumper--FSKL16PTD002_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-jumper--FSKL16PTD002_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-jumper--FSKL16PTD002_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-jumper--FSKL16PTD002_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-brushed-knit-jumper-nvprod5790091v/1AGBYD",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGBXP",
+      "productId": "nvprod5790088v",
+      "name": "Louis Vuitton Brushed Knit Jumper",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This staple jumper is playfully reimagined in a brushed mohair blend, which has a soft, slightly fluffy texture for cosy everyday styling. A large cursive Louis Vuitton signature adds a chic graphic detail to the chest of this luxurious clothing piece. The crew neckline, cuffs and waist are ribbed for a neat finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 53% wool, 23% polyamide, 22% cashmere, 1% mohair</li>\n  <li>Milk White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,380.00",
+      "priceRaw": 1380.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBXN",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXO",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXP",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXR",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXS",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXT",
+              "size": "XXL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBXQ",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC002_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC002_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC002_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-louis-vuitton-brushed-knit-jumper--FSKL04PTC002_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/louis-vuitton-brushed-knit-jumper-nvprod5790088v/1AGBXP",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGBYP",
+      "productId": "nvprod5790086v",
+      "name": "Monogram Brushed Knit Cardigan",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This cardigan has a playful, modern clothing look in a soft, fluffy blend of brushed wool, mohair and cashmere in an all-over Monogram motif. The ribbed crew neckline, cuffs and waist strike a textural and tonal contrast, while cut-out Monogram Flower buttons add a graphic signature detail to the front fastening.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 38% wool, 24% polyamide, 22% mohair, 15% cashmere</li>\n  <li>Milk White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,740.00",
+      "priceRaw": 1740.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGBYN",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-cardigan--FSKC13PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYO",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-cardigan--FSKC13PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYP",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-cardigan--FSKC13PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYR",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-cardigan--FSKC13PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYS",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-cardigan--FSKC13PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYT",
+              "size": "XXL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-cardigan--FSKC13PTD002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGBYQ",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-cardigan--FSKC13PTD002_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-cardigan--FSKC13PTD002_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-cardigan--FSKC13PTD002_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-brushed-knit-cardigan--FSKC13PTD002_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-brushed-knit-cardigan-nvprod5790086v/1AGBYP",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGCI2",
+      "productId": "nvprod5820013v",
+      "name": "Monogram Accent Knit Hoodie",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This hoodie is a timeless travel essential in a soft, crease-resistant blend of wool. The fit is slouchy for comfortable wear, complete with large side pockets and ribbed hems. The hood is subtly signed with a Monogram jacquard, while the front zip is finished with a Monogram canvas pull.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 71% wool, 28% polyamide, 1% elastane</li>\n  <li>Anthracite Grey</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,100.00",
+      "priceRaw": 3100.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGCI0",
+              "size": "XXS",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-hoodie--FSKC03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCI1",
+              "size": "XS",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-hoodie--FSKC03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCI2",
+              "size": "S",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-hoodie--FSKC03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCI4",
+              "size": "L",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-hoodie--FSKC03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCI5",
+              "size": "XL",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-hoodie--FSKC03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCI6",
+              "size": "XXL",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-hoodie--FSKC03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCI3",
+              "size": "M",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-hoodie--FSKC03PUS901_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-hoodie--FSKC03PUS901_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-hoodie--FSKC03PUS901_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-hoodie--FSKC03PUS901_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-accent-knit-hoodie-nvprod5820013v/1AGCI2",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-901_anthracite.jpg",
+      "enableViewBySet": false,
+      "color": "Anthracite",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGCKE",
+      "productId": "nvprod5820014v",
+      "name": "Monogram Accent Knit Jogging Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These casual jogging trousers are reworked in a wool, cashmere and silk-blend knit that is soft and crease-resistant for an elevated finish. The classic sporty clothing style is trimmed with an elasticated drawstring waistband, cuffed ankles and two side pockets. Tonal Monogram jacquard inserts add a graphic signature accent to the legs.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 37% virgin wool, 30% polyamide, 12% cashmere, 11% wool, 9% silk, 1% elastane</li>\n  <li>Anthracite Grey</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,320.00",
+      "priceRaw": 2320.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Grey",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGCKC",
+              "size": "XXS",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-jogging-trousers--FSKP03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKD",
+              "size": "XS",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-jogging-trousers--FSKP03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKE",
+              "size": "S",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-jogging-trousers--FSKP03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKG",
+              "size": "L",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-jogging-trousers--FSKP03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKH",
+              "size": "XL",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-jogging-trousers--FSKP03PUS901_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKF",
+              "size": "M",
+              "color": "Anthracite",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-jogging-trousers--FSKP03PUS901_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-jogging-trousers--FSKP03PUS901_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-jogging-trousers--FSKP03PUS901_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-accent-knit-jogging-trousers--FSKP03PUS901_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-accent-knit-jogging-trousers-nvprod5820014v/1AGCKE",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-901_anthracite.jpg",
+      "enableViewBySet": false,
+      "color": "Anthracite",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGCKQ",
+      "productId": "nvprod5790090v",
+      "name": "Embossed Monogram High Neck Sweater",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This sweater is chic and sporty in a soft, compact cotton blend that is detailed with a scaled-up Monogram motif in relief for a subtle all-over signature finish. The casual clothing cut is finished with a high neckline that can be adjusted with drawstrings for a snug fit or styled open, thanks to an exposed zip fastening.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 66% cotton, 33% polyamide, 1% elastane</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,050.00",
+      "priceRaw": 2050.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGCKO",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-high-neck-sweater--FSKL15PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKP",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-high-neck-sweater--FSKL15PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKQ",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-high-neck-sweater--FSKL15PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKS",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-high-neck-sweater--FSKL15PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKT",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-high-neck-sweater--FSKL15PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKU",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-high-neck-sweater--FSKL15PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCKR",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-high-neck-sweater--FSKL15PVT900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-high-neck-sweater--FSKL15PVT900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-high-neck-sweater--FSKL15PVT900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-high-neck-sweater--FSKL15PVT900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/embossed-monogram-high-neck-sweater-nvprod5790090v/1AGCKQ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGDYU",
+      "productId": "nvprod5790093v",
+      "name": "Embossed Monogram Jogging Trousers",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These classic jogging trousers have an elevated, modern look in the Flight Mode Capsule’s go-to compact cotton blend, which is signed all over with the iconic Monogram motif in relief. An elasticated drawstring waistband and ankles emphasise the comfortable appeal of the sporty clothing style.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 73% cotton, 27% polyamide</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,470.00",
+      "priceRaw": 1470.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGDYS",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-jogging-trousers--FSKP11PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDYT",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-jogging-trousers--FSKP11PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDYU",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-jogging-trousers--FSKP11PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDYW",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-jogging-trousers--FSKP11PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDYX",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-jogging-trousers--FSKP11PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDYY",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-jogging-trousers--FSKP11PVT900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGDYV",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-jogging-trousers--FSKP11PVT900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-jogging-trousers--FSKP11PVT900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-embossed-monogram-jogging-trousers--FSKP11PVT900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/embossed-monogram-jogging-trousers-nvprod5790093v/1AGDYU",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGCDQ",
+      "productId": "nvprod5790089v",
+      "name": "Travel Stamp Long-Sleeved Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This casual long-sleeved top is quietly elevated in a fine silk-cashmere blend. The relaxed cut is finished with a patch pocket and an asymmetrical hemline with a slit at the side, which can be left loose or tied into a chic knot. It is signed with colourful Louis Vuitton travel stamps and an LV chain detail.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 68% cashmere, 29% silk, 2% polyamide, 1% polyurethane</li>\n  <li>Milk White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,230.00",
+      "priceRaw": 2230.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGCDO",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-travel-stamp-long-sleeved-top--FSKL14PTR002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCDP",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-travel-stamp-long-sleeved-top--FSKL14PTR002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCDQ",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-travel-stamp-long-sleeved-top--FSKL14PTR002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCDS",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-travel-stamp-long-sleeved-top--FSKL14PTR002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCDT",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-travel-stamp-long-sleeved-top--FSKL14PTR002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCDR",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-travel-stamp-long-sleeved-top--FSKL14PTR002_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-travel-stamp-long-sleeved-top--FSKL14PTR002_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-travel-stamp-long-sleeved-top--FSKL14PTR002_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-travel-stamp-long-sleeved-top--FSKL14PTR002_PM1_Interior view.jpg",
+              "name": "Interior view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-travel-stamp-long-sleeved-top--FSKL14PTR002_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/travel-stamp-long-sleeved-top-nvprod5790089v/1AGCDQ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGCX1",
+      "productId": "nvprod5790087v",
+      "name": "Asymmetrical Cashmere Knit Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This long-sleeved knit dress has an understatedly modern air in an ample, asymmetrical clothing silhouette. Spun from sumptuous brushed cashmere, a draped insert over the left side creates an elegant layered effect, which is emphasised by the diagonal hemline. Pearly snap buttons highlight the shoulder with a sophisticated finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cashmere</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£3,300.00",
+      "priceRaw": 3300.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "S",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGCWZ",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-cashmere-knit-dress--FSKD06PWF900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCX0",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-cashmere-knit-dress--FSKD06PWF900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCX1",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-cashmere-knit-dress--FSKD06PWF900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCX3",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-cashmere-knit-dress--FSKD06PWF900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCX4",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-cashmere-knit-dress--FSKD06PWF900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGCX2",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-cashmere-knit-dress--FSKD06PWF900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-cashmere-knit-dress--FSKD06PWF900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-cashmere-knit-dress--FSKD06PWF900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-asymmetrical-cashmere-knit-dress--FSKD06PWF900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/asymmetrical-cashmere-knit-dress-nvprod5790087v/1AGCX1",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z289"
+  },
+  {
+      "skuId": "1AGAGP",
+      "productId": "nvprod5790048v",
+      "name": "Broderie Collar Zip-Up Knit Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Chic seasonal detailing from the Black Out Collection uplifts this casual dress with a playful, modern look. This clothing piece is crafted in a classic short-sleeved shape from a comfortable stretch cotton blend. The front and top pockets are trimmed with exposed zips, while a removable broderie anglaise Peter Pan collar adds a graphic yet feminine detail to the neckline.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 90% cotton, 7% polyamide, 3% elastane</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,500.00",
+      "priceRaw": 2500.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGAGM",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-collar-zip-up-knit-dress--FSKD01MYI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAGN",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-collar-zip-up-knit-dress--FSKD01MYI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAGO",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-collar-zip-up-knit-dress--FSKD01MYI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAGQ",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-collar-zip-up-knit-dress--FSKD01MYI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAGR",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-collar-zip-up-knit-dress--FSKD01MYI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAGS",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-collar-zip-up-knit-dress--FSKD01MYI900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAGP",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-collar-zip-up-knit-dress--FSKD01MYI900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-collar-zip-up-knit-dress--FSKD01MYI900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-collar-zip-up-knit-dress--FSKD01MYI900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-broderie-collar-zip-up-knit-dress--FSKD01MYI900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/broderie-collar-zip-up-knit-dress-nvprod5790048v/1AGAGP",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z256"
+  },
+  {
+      "skuId": "1AGANE",
+      "productId": "nvprod5790050v",
+      "name": "Ribbed Knit Open Neck Jumper",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This jumper is crafted from a thick virgin-wool blend in a structured ribbed finish for elevated everyday styling. The volume of the rounded sleeves is offset by a fitted waist, while a wide, open neckline with a flat collar completes the look with a subtly sporty feel. This clothing piece is signed with a leather LV Circle patch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 90% wool, 9% polyamide, 1% elastane</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,250.00",
+      "priceRaw": 1250.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGANB",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ribbed-knit-open-neck-jumper--FSKL40QJC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGANC",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ribbed-knit-open-neck-jumper--FSKL40QJC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAND",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ribbed-knit-open-neck-jumper--FSKL40QJC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGANF",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ribbed-knit-open-neck-jumper--FSKL40QJC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGANG",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ribbed-knit-open-neck-jumper--FSKL40QJC900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGANE",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ribbed-knit-open-neck-jumper--FSKL40QJC900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ribbed-knit-open-neck-jumper--FSKL40QJC900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ribbed-knit-open-neck-jumper--FSKL40QJC900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ribbed-knit-open-neck-jumper--FSKL40QJC900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/ribbed-knit-open-neck-jumper-nvprod5790050v/1AGANE",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z256"
+  },
+  {
+      "skuId": "1AGALE",
+      "productId": "nvprod5790054v",
+      "name": "Flared Wool Skirt",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This skirt is effortlessly elegant in a minimal flared shape that falls to the knees. It is crafted from a thick, flexible wool blend that emphasises the airy silhouette and is fastened at the back with an invisible zip for a clean, streamlined finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 72% wool, 16% polyamide, 11% polyester, 1% polyurethane</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£1,740.00",
+      "priceRaw": 1740.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGALB",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-wool-skirt--FSKZ04QIR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGALC",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-wool-skirt--FSKZ04QIR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGALD",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-wool-skirt--FSKZ04QIR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGALF",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-wool-skirt--FSKZ04QIR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGALG",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-wool-skirt--FSKZ04QIR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGALH",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-wool-skirt--FSKZ04QIR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGALE",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-wool-skirt--FSKZ04QIR900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-wool-skirt--FSKZ04QIR900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-wool-skirt--FSKZ04QIR900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-flared-wool-skirt--FSKZ04QIR900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/flared-wool-skirt-nvprod5790054v/1AGALE",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z256"
+  },
+  {
+      "skuId": "1AGAH3",
+      "productId": "nvprod5790049v",
+      "name": "Sleeve Tie Knit Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This dress is cosy and comfortable in soft, lightweight cashmere spun in a casual long-sleeved shape for effortless daily styling. The waist is playfully embellished with two colour-blocked sleeves that can be tied for an adjusted fit, while the House’s signature D-ring details add a modern touch to the shoulders.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 100% cashmere</li>\n  <li>Black</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,500.00",
+      "priceRaw": 2500.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "M",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGAH0",
+              "size": "XXS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FSKD02MWV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAH1",
+              "size": "XS",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FSKD02MWV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAH2",
+              "size": "S",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FSKD02MWV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAH4",
+              "size": "L",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FSKD02MWV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAH5",
+              "size": "XL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FSKD02MWV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAH6",
+              "size": "XXL",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FSKD02MWV900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGAH3",
+              "size": "M",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FSKD02MWV900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FSKD02MWV900_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FSKD02MWV900_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-sleeve-tie-knit-dress--FSKD02MWV900_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/sleeve-tie-knit-dress-nvprod5790049v/1AGAH3",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false,
+      "collection": "Z256"
+  },
+  {
+      "skuId": "1AGFT6",
+      "productId": "nvprod5770034v",
+      "name": "Ruffle Trim Ribbed Knit Dress",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Romantic touches elevate this classic knit dress with a modern, feminine feel. Crafted in a fitted long-sleeved silhouette from a soft, flexible wool blend, the ribbed finish is trimmed with a scalloped edge, while the neckline, cuffs and hem are playfully adorned with ruffles. This clothing piece is complete with a Monogram Flower tab on the side for a subtle signature.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 50% viscose, 42% wool, 7% polyamide, 1% polyurethane</li>\n  <li>Milk White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£2,630.00",
+      "priceRaw": 2630.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "XXS",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AGFT6",
+              "size": "XXS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ruffle-trim-ribbed-knit-dress--FRKD97QFP002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGFT7",
+              "size": "XS",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ruffle-trim-ribbed-knit-dress--FRKD97QFP002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGFT8",
+              "size": "S",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ruffle-trim-ribbed-knit-dress--FRKD97QFP002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGFT9",
+              "size": "M",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ruffle-trim-ribbed-knit-dress--FRKD97QFP002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGFTA",
+              "size": "L",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ruffle-trim-ribbed-knit-dress--FRKD97QFP002_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AGFTB",
+              "size": "XL",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ruffle-trim-ribbed-knit-dress--FRKD97QFP002_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ruffle-trim-ribbed-knit-dress--FRKD97QFP002_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ruffle-trim-ribbed-knit-dress--FRKD97QFP002_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-ruffle-trim-ribbed-knit-dress--FRKD97QFP002_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/ruffle-trim-ribbed-knit-dress-nvprod5770034v/1AGFT6",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z210"
+  }
+]

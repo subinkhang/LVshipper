@@ -1,0 +1,2610 @@
+[
+  {
+      "skuId": "1AC6AV",
+      "productId": "nvprod4700096v",
+      "name": "Monogram Bikini Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Iconic signatures uplift this staple bikini top, crafted from comfortable swimwear jersey in a timeless triangle shape trimmed with a double strap detail for a subtle asymmetrical finish. The House's classic Monogram motif features as an all-over print, while golden triple V hardware and an LV Initials clasp complete the look with chic metallic accents.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>Black/Brown</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£515.00",
+      "priceRaw": 515.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Brown",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AC6AU",
+              "size": "34",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-top--FQSW32YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6AV",
+              "size": "36",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-top--FQSW32YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6AW",
+              "size": "38",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-top--FQSW32YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6AX",
+              "size": "40",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-top--FQSW32YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6AY",
+              "size": "42",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-top--FQSW32YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6AZ",
+              "size": "44",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-top--FQSW32YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6B0",
+              "size": "46",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-top--FQSW32YBU806_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-top--FQSW32YBU806_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-top--FQSW32YBU806_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-top--FQSW32YBU806_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-bikini-top-nvprod4700096v/1AC6AV",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-806_marron.jpg",
+      "enableViewBySet": false,
+      "color": "Brown",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AC6B3",
+      "productId": "nvprod4700097v",
+      "name": "Monogram Bikini Bottoms",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>A sporty staple elevated with a Louis Vuitton twist, these essential bikini bottoms are cut from comfortable swimwear jersey in a timeless low-rise shape. The House’s classic Monogram motif features as a graphic all-over print for an iconic signature finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>Black/Brown</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£380.00",
+      "priceRaw": 380.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Brown",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AC6B2",
+              "size": "34",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-bottoms--FQSW33YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6B3",
+              "size": "36",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-bottoms--FQSW33YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6B4",
+              "size": "38",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-bottoms--FQSW33YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6B5",
+              "size": "40",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-bottoms--FQSW33YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6B6",
+              "size": "42",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-bottoms--FQSW33YBU806_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC6B7",
+              "size": "44",
+              "color": "Brown",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-bottoms--FQSW33YBU806_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-bottoms--FQSW33YBU806_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-bottoms--FQSW33YBU806_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-bikini-bottoms--FQSW33YBU806_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-bikini-bottoms-nvprod4700097v/1AC6B3",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-806_marron.jpg",
+      "enableViewBySet": false,
+      "color": "Brown",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1ABYQX",
+      "productId": "nvprod4700013v",
+      "name": "Graphic Monogram Bikini Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>A graphic signature spin on a timeless swimwear style, this bikini top is cut in a go-to triangle shape with a contemporary asymmetrical double strap detail. It is crafted from technical jersey in a black and white print of the Monogram motif, with iconic triple V hardware adding a final House touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>Black/White</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£420.00",
+      "priceRaw": 420.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1ABZB1",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-top--FQSW26TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYQV",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-top--FQSW26TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYQW",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-top--FQSW26TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYQX",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-top--FQSW26TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYQY",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-top--FQSW26TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYQZ",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-top--FQSW26TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYR0",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-top--FQSW26TRR900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-top--FQSW26TRR900_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/graphic-monogram-bikini-top-nvprod4700013v/1ABYQX",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-top--FQSW26TRR900_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1ABYR3",
+      "productId": "nvprod4700014v",
+      "name": "Graphic Monogram Bikini Bottoms",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These essential bikini bottoms have been revisited in a sharp black and white print of the Monogram motif for a graphic Louis Vuitton look, trimmed with black piping. Cut from technical jersey in a classic low-rise shape for comfortable wear, they are a timeless swimwear style elevated with an iconic signature.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>Black/White</li>\n  <li>Regular fit</li>\n  <li>Made in France</li>\n</ul>",
+      "price": "£400.00",
+      "priceRaw": 400.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Black",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "commercialTag": "Icon",
+      "skus": [
+          {
+              "skuId": "1ABZB2",
+              "size": "32",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-bottoms--FQSW27TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYR1",
+              "size": "34",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-bottoms--FQSW27TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYR2",
+              "size": "36",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-bottoms--FQSW27TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYR3",
+              "size": "38",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-bottoms--FQSW27TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYR4",
+              "size": "40",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-bottoms--FQSW27TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYR5",
+              "size": "42",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-bottoms--FQSW27TRR900_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABYR6",
+              "size": "44",
+              "color": "Noir",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-bottoms--FQSW27TRR900_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-bottoms--FQSW27TRR900_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/graphic-monogram-bikini-bottoms-nvprod4700014v/1ABYR3",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-900_noir.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-graphic-monogram-bikini-bottoms---FQSW27TRR900_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Noir",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFMVP",
+      "productId": "nvprod5280031v",
+      "name": "Mahina Monogram Triangle Bikini Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This timeless triangle bikini top is discreetly signed with an all-over print of the delicate Mahina Monogram motif in a soft seasonal colourway. The halter-neck ties are trimmed with golden hardware for an elevated finish, while the back is fastened with an LV clasp for a final House touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>Crème White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£455.00",
+      "priceRaw": 455.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFMVM",
+              "size": "32",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVN",
+              "size": "34",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVO",
+              "size": "36",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVP",
+              "size": "38",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVQ",
+              "size": "40",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVR",
+              "size": "42",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVS",
+              "size": "44",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/mahina-monogram-triangle-bikini-top-nvprod5280031v/1AFMVP",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-034_beige_rose_2.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-triangle-bikini-top--FRSW20KGA031_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Beige Rose",
+      "isDiamond": false,
+      "collection": "Z250"
+  },
+  {
+      "skuId": "1AFMVG",
+      "productId": "nvprod5280036v",
+      "name": "Mahina Monogram Self-Tie Bikini Bottoms",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These bikini bottoms are cut from comfortable swimwear jersey in an all-over Mahina Monogram print in a soft seasonal colourway for an understated signature finish. The low-rise cut is fastened at the sides with hardware-tipped tie details for a chic, contemporary look.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>Crème White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£365.00",
+      "priceRaw": 365.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFMVE",
+              "size": "32",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVF",
+              "size": "34",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVG",
+              "size": "36",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVH",
+              "size": "38",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVI",
+              "size": "40",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVJ",
+              "size": "42",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFMVK",
+              "size": "44",
+              "color": "Beige Rose",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/mahina-monogram-self-tie-bikini-bottoms-nvprod5280036v/1AFMVG",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-034_beige_rose_2.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-mahina-monogram-self-tie-bikini-bottoms--FRSW21KGA031_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Beige Rose",
+      "isDiamond": false,
+      "collection": "Z250"
+  },
+  {
+      "skuId": "1AFUWZ",
+      "productId": "nvprod5500071v",
+      "name": "Blurry Monogram Bikini Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This bikini top is cut in a classic triangle shape with self-tie halter straps. Crafted from comfortable swimwear jersey, the iconic Monogram motif features as a bold all-over print in a fil coupé effect that introduces a playful, blurry finish. It comes complete with gold-colour hardware and an LV Circle clasp at the back.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 58% polyamide, 42% elastane</li>\n  <li>Bleu de France Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£545.00",
+      "priceRaw": 545.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFUWX",
+              "size": "32",
+              "color": "France Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUWY",
+              "size": "34",
+              "color": "France Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUWZ",
+              "size": "36",
+              "color": "France Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUX0",
+              "size": "38",
+              "color": "France Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUX1",
+              "size": "40",
+              "color": "France Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUX2",
+              "size": "42",
+              "color": "France Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUX3",
+              "size": "44",
+              "color": "France Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUX6",
+              "size": "34",
+              "color": "Orange Vif"
+          },
+          {
+              "skuId": "1AFUX7",
+              "size": "36",
+              "color": "Orange Vif"
+          },
+          {
+              "skuId": "1AFUX8",
+              "size": "38",
+              "color": "Orange Vif"
+          },
+          {
+              "skuId": "1AFUX9",
+              "size": "40",
+              "color": "Orange Vif"
+          },
+          {
+              "skuId": "1AFUXA",
+              "size": "42",
+              "color": "Orange Vif"
+          },
+          {
+              "skuId": "1AFUXB",
+              "size": "44",
+              "color": "Orange Vif"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/blurry-monogram-bikini-top-nvprod5500071v/1AFUWZ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Bleu_France.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-bikini-top--FRSW20LXD644_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "France Blue",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFUXG",
+      "productId": "nvprod5500072v",
+      "name": "Blurry Monogram Self-Tie Bikini Bottoms",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These staple bikini bottoms are playfully graphic in an all-over print of the iconic Monogram motif that has been reworked with a blurry fil coupé-effect finish. They are cut from comfortable swimwear jersey in a contemporary shape trimmed with self-tie straps. Gold-colour hardware completes the look with a chic metallic accent.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 58% polyamide, 42% elastane</li>\n  <li>Bleu de France Blue</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£500.00",
+      "priceRaw": 500.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFUXD",
+              "size": "32",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUXE",
+              "size": "34",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUXF",
+              "size": "36",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUXG",
+              "size": "38",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUXH",
+              "size": "40",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUXI",
+              "size": "42",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUXJ",
+              "size": "44",
+              "color": "Blue",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUXM",
+              "size": "34",
+              "color": "Orange Vif"
+          },
+          {
+              "skuId": "1AFUXN",
+              "size": "36",
+              "color": "Orange Vif"
+          },
+          {
+              "skuId": "1AFUXO",
+              "size": "38",
+              "color": "Orange Vif"
+          },
+          {
+              "skuId": "1AFUXP",
+              "size": "40",
+              "color": "Orange Vif"
+          },
+          {
+              "skuId": "1AFUXQ",
+              "size": "42",
+              "color": "Orange Vif"
+          },
+          {
+              "skuId": "1AFUXR",
+              "size": "44",
+              "color": "Orange Vif"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM1_Worn view.jpg",
+              "name": "Worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/blurry-monogram-self-tie-bikini-bottoms-nvprod5500072v/1AFUXG",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-610_bleu.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-blurry-monogram-self-tie-bikini-bottoms--FRSW21LXD644_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blue",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFTDK",
+      "productId": "nvprod5500065v",
+      "name": "Gathered Bikini Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Sophisticated detailing elevates this bikini top with understated elegance. Crafted from matte swimwear jersey, delicate gathering creates radiant lines around the softly curved neckline, while thick straps and sides form a flattering silhouette. It fastens at the back with an LV Circle clasp and is discreetly signed with an LV Initials tab.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 74% polyamide, 26% elastane</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£500.00",
+      "priceRaw": 500.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFTDI",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDJ",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDK",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDL",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDM",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/gathered-bikini-top-nvprod5500065v/1AFTDK",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-top--FRSW02CID001_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFTDS",
+      "productId": "nvprod5500066v",
+      "name": "Gathered Bikini Bottoms",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These bikini bottoms are made in a classic low-rise cut from matte swimwear jersey. The staple shape is elevated with subtle gathered details at either side of the waistline for an elegant draped look, while an LV Initials tab adds an understated signature to the left hip.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 74% polyamide, 26% elastane</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£455.00",
+      "priceRaw": 455.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFTDQ",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDR",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDS",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDT",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDU",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/gathered-bikini-bottoms-nvprod5500066v/1AFTDS",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-bikini-bottoms--FRSW03CID001_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AC4JL",
+      "productId": "nvprod4700080v",
+      "name": "Triangle Bikini Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This season’s graffiti-style 3D Mahina Monogram uplifts this staple bikini top with a graphic all-over signature. It is crafted from comfortable swimwear jersey in a timeless triangle shape. The halter neck ties are tipped with golden hardware, while an LV clasp fastens the back for a polished finish.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£470.00",
+      "priceRaw": 470.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AC4JJ",
+              "size": "32",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-triangle-bikini-top--FQSW28CUQ603_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC4JK",
+              "size": "34",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-triangle-bikini-top--FQSW28CUQ603_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC4JL",
+              "size": "36",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-triangle-bikini-top--FQSW28CUQ603_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC4JM",
+              "size": "38",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-triangle-bikini-top--FQSW28CUQ603_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC4JN",
+              "size": "40",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-triangle-bikini-top--FQSW28CUQ603_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC4JO",
+              "size": "42",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-triangle-bikini-top--FQSW28CUQ603_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AC4JP",
+              "size": "44",
+              "color": "Blanc",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-triangle-bikini-top--FQSW28CUQ603_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-triangle-bikini-top--FQSW28CUQ603_PM2_Front view.jpg",
+              "name": "Front view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/triangle-bikini-top-nvprod4700080v/1AC4JL",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-001_blanc.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-triangle-bikini-top--FQSW28CUQ603_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc",
+      "isDiamond": false,
+      "collection": "Z234"
+  },
+  {
+      "skuId": "1AFGPQ",
+      "productId": "nvprod4940350v",
+      "name": "Brooch Detail V-Neck One-Piece Swimsuit",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This one-piece swimsuit is crafted from recycled swimwear jersey in an elegant halter-neck silhouette. It has a sweeping open back and a plunging V-neckline at the front for a contemporary sensual look. Sophisticated golden buckle details add a refined brooch-like embellishment to the strap.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>White/Blue</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£905.00",
+      "priceRaw": 905.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<p>Quite fragile, they need to be carefully protected before dry cleaning.</p>\n<p>We recommend that you bring this garment to expert dry cleaners only.</p>",
+              "introduction": "<div class=\"popinHeader uppercase\"> The shaded tones of this garment are due to a traditional dyeing process which gives the cloth a non homogeneous colour.</div>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFGPP",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-brooch-detail-v-neck-one-piece-swimsuit--FQSW38YC0001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFGPQ",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-brooch-detail-v-neck-one-piece-swimsuit--FQSW38YC0001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFGPR",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-brooch-detail-v-neck-one-piece-swimsuit--FQSW38YC0001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFGPS",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-brooch-detail-v-neck-one-piece-swimsuit--FQSW38YC0001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFGPT",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-brooch-detail-v-neck-one-piece-swimsuit--FQSW38YC0001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFGPU",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-brooch-detail-v-neck-one-piece-swimsuit--FQSW38YC0001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-brooch-detail-v-neck-one-piece-swimsuit--FQSW38YC0001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-brooch-detail-v-neck-one-piece-swimsuit--FQSW38YC0001_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-brooch-detail-v-neck-one-piece-swimsuit--FQSW38YC0001_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          },
+          {
+              "url": "https://player.louisvuitton.com/embed/1486813",
+              "name": "freeCaster Media Worn View"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/brooch-detail-v-neck-one-piece-swimsuit-nvprod4940350v/1AFGPQ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFZEM",
+      "productId": "nvprod5560171v",
+      "name": "LV x AC Flag One-Piece Swimsuit",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This one-piece swimsuit makes a bold, sporty statement in an oversized flag print from the LV x America's Cup 2024 capsule, which is peppered with subtle Monogram accents for a classic signature touch. This piece is cut from comfortable swimwear jersey, with a rounded neckline and a scoop back for a flattering fit.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 58% polyamide, 42% elastane</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£770.00",
+      "priceRaw": 770.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "Sustainability",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          },
+          {
+              "type": "ProductCare",
+              "title": " ",
+              "description": " ",
+              "introduction": " "
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFZEL",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-flag-one-piece-swimsuit--FRSW46NCZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZEM",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-flag-one-piece-swimsuit--FRSW46NCZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZEN",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-flag-one-piece-swimsuit--FRSW46NCZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZEO",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-flag-one-piece-swimsuit--FRSW46NCZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZEP",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-flag-one-piece-swimsuit--FRSW46NCZ001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZEQ",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-flag-one-piece-swimsuit--FRSW46NCZ001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-flag-one-piece-swimsuit--FRSW46NCZ001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-flag-one-piece-swimsuit--FRSW46NCZ001_PM1_Side view.jpg",
+              "name": "Side view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-x-ac-flag-one-piece-swimsuit--FRSW46NCZ001_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-x-ac-flag-one-piece-swimsuit-nvprod5560171v/1AFZEM",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z248"
+  },
+  {
+      "skuId": "1AFTDB",
+      "productId": "nvprod5500064v",
+      "name": "Gathered One-Piece Swimsuit",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This understated one-piece swimsuit is crafted from matte swimwear jersey in a flattering silhouette cut with thick straps and a sweeping low back for a clean, sporty look. The curved neckline is elevated with delicate gathering that gently radiates across the bust. It is discreetly signed with an LV Initials tab on the left hip.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 74% polyamide, 26% elastane</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£545.00",
+      "priceRaw": 545.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFTDA",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDB",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDC",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDD",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFTDE",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/gathered-one-piece-swimsuit-nvprod5500064v/1AFTDB",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-gathered-one-piece-swimsuit--FRSW01CID001_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFUY3",
+      "productId": "nvprod5500073v",
+      "name": "Monogram Jacquard One-Piece Swimsuit",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This chic one-piece swimsuit is subtly signed all over with the iconic Monogram motif in a tone-on-tone jacquard. The silhouette flatters the figure with a low, straight-cut neckline and slim crossover straps at the back.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 89% polyamide, 11% elastane</li>\n  <li>White</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£590.00",
+      "priceRaw": 590.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "White",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFUY1",
+              "size": "32",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUY2",
+              "size": "34",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUY3",
+              "size": "36",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUY4",
+              "size": "38",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUY5",
+              "size": "40",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUY6",
+              "size": "42",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUY7",
+              "size": "44",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFUY8",
+              "size": "46",
+              "color": "Blanc Lait",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-jacquard-one-piece-swimsuit-nvprod5500073v/1AFUY3",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-002_blanc_lait.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-one-piece-swimsuit--FRSW53UN7001_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Blanc Lait",
+      "isDiamond": false,
+      "collection": "Z252"
+  },
+  {
+      "skuId": "1AFZJA",
+      "productId": "nvprod5560137v",
+      "name": "Monogram Kaleidoscope Bikini Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>Crafted from comfortable swimwear jersey, this staple halter-neck triangle bikini top is uplifted with the season’s playfully graphic Monogram kaleidoscope motif in a fresh pastel palette. Graphic cut-out Monogram Flower charms add a chic signature to the underband, which is fastened at the back with an LV Circle clasp.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 58% polyamide, 42% elastane</li>\n  <li>Light Yellow</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£545.00",
+      "priceRaw": 545.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Yellow",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFZJ7",
+              "size": "32",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-top--FRSW41NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJ8",
+              "size": "34",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-top--FRSW41NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJ9",
+              "size": "36",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-top--FRSW41NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJA",
+              "size": "38",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-top--FRSW41NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJB",
+              "size": "40",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-top--FRSW41NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJC",
+              "size": "42",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-top--FRSW41NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJD",
+              "size": "44",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-top--FRSW41NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJE",
+              "size": "46",
+              "color": "Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-null--FRSW41NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJF",
+              "size": "32",
+              "color": "Blue"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-top--FRSW41NTH420_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-top--FRSW41NTH420_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-kaleidoscope-bikini-top-nvprod5560137v/1AFZJA",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-420_jaune_clair.jpg",
+      "enableViewBySet": false,
+      "color": "Pale Yellow",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFZJ2",
+      "productId": "nvprod5560138v",
+      "name": "Monogram Kaleidoscope Bikini Bottoms",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>These bikini bottoms have chic, summery appeal in soft swimwear jersey featuring a print of this season’s playfully graphic Monogram kaleidoscope motif in a sunny colourway. Cut in a classic triangle shape, the self-tie sides are trimmed with golden hardware for a chic finishing touch.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 58% polyamide, 42% elastane</li>\n  <li>Light Yellow</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£545.00",
+      "priceRaw": 545.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Yellow",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFZJ0",
+              "size": "34",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-bottoms--FRSW42NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJ1",
+              "size": "36",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-bottoms--FRSW42NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJ2",
+              "size": "38",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-bottoms--FRSW42NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJ3",
+              "size": "40",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-bottoms--FRSW42NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJ4",
+              "size": "42",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-bottoms--FRSW42NTH420_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFZJ5",
+              "size": "44",
+              "color": "Pale Yellow",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-bottoms--FRSW42NTH420_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-bottoms--FRSW42NTH420_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-kaleidoscope-bikini-bottoms--FRSW42NTH420_PM1_Back view.jpg",
+              "name": "Back view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-kaleidoscope-bikini-bottoms-nvprod5560138v/1AFZJ2",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-420_jaune_clair.jpg",
+      "enableViewBySet": false,
+      "color": "Pale Yellow",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFFY6",
+      "productId": "nvprod5090072v",
+      "name": "LV Clip Triangle Bikini Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This bikini top is cut in a timeless triangle shape from recycled swimwear jersey in an upbeat shade of blue for a bold seasonal look. The halter straps are tipped with chic gold-colour hardware for an elevated finish, while the back is secured with this season’s signature enamel LV Circle clip.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>Blue</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£515.00",
+      "priceRaw": 515.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFFY5",
+              "size": "34",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFFY6",
+              "size": "36",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFFY7",
+              "size": "38",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFFY8",
+              "size": "40",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFFY9",
+              "size": "42",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFFYA",
+              "size": "44",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-triangle-bikini-top--FQSW28YC0620_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-clip-triangle-bikini-top-nvprod5090072v/1AFFY6",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-620_bleu_dur.jpg",
+      "enableViewBySet": false,
+      "color": "Bleu Dur",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFDO0",
+      "productId": "nvprod5090071v",
+      "name": "High-Rise LV Pin Bikini Bottoms",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This season’s punchy palette uplifts these vintage-style high-rise bikini bottoms with a fresh, contemporary feel. Crafted from recycled swimwear jersey, the cut offers full coverage for comfortable wear. A tone-on-tone enamel LV Circle pin on the waistline completes the look with an elegant signature detail.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>Blue</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£380.00",
+      "priceRaw": 380.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Blue",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFDOF",
+              "size": "34",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDOG",
+              "size": "36",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDOH",
+              "size": "38",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDOI",
+              "size": "40",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDOJ",
+              "size": "42",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDNZ",
+              "size": "34",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDO0",
+              "size": "36",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDO1",
+              "size": "38",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDO2",
+              "size": "40",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDO3",
+              "size": "42",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDO4",
+              "size": "44",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/high-rise-lv-pin-bikini-bottoms-nvprod5090071v/1AFDO0",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-620_bleu_dur.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Bleu Dur",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFFXQ",
+      "productId": "nvprod5090069v",
+      "name": "LV Clip Gathered Halter Bikini Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This bikini top is cut from recycled swimwear jersey in a punchy orange hue for a fresh, sporty look. The contemporary halter silhouette offers full coverage at the front with an elegantly gathered neckline, while the back is left open for a sensual contrast that is secured with this season’s signature enamel LV Circle clips.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>Orange</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£515.00",
+      "priceRaw": 515.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Orange",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFFXP",
+              "size": "34",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFFXQ",
+              "size": "36",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFFXR",
+              "size": "38",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFFXS",
+              "size": "40",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFFXT",
+              "size": "42",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/lv-clip-gathered-halter-bikini-top-nvprod5090069v/1AFFXQ",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Orange_Vif.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-lv-clip-gathered-halter-bikini-top--FQSW04YC0402_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Orange Vif",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1AFDOG",
+      "productId": "nvprod5090071v",
+      "name": "High-Rise LV Pin Bikini Bottoms",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>This season’s punchy palette uplifts these vintage-style high-rise bikini bottoms with a fresh, contemporary feel. Crafted from recycled swimwear jersey, the cut offers full coverage for comfortable wear. A tone-on-tone enamel LV Circle pin on the waistline completes the look with an elegant signature detail.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 70% polyamide, 30% elastane</li>\n  <li>Orange</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£380.00",
+      "priceRaw": 380.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Orange",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "36",
+      "video360Enabled": false,
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1AFDOF",
+              "size": "34",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDOG",
+              "size": "36",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDOH",
+              "size": "38",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDOI",
+              "size": "40",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDOJ",
+              "size": "42",
+              "color": "Orange Vif",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDNZ",
+              "size": "34",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDO0",
+              "size": "36",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDO1",
+              "size": "38",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDO2",
+              "size": "40",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDO3",
+              "size": "42",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1AFDO4",
+              "size": "44",
+              "color": "Bleu Dur",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0620_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-high-rise-lv-pin-bikini-bottoms--FQSW09YC0402_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/high-rise-lv-pin-bikini-bottoms-nvprod5090071v/1AFDOG",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-RTW-Orange_Vif.jpg",
+      "enableViewBySet": false,
+      "color": "Orange Vif",
+      "isDiamond": false
+  },
+  {
+      "skuId": "1ABC8T",
+      "productId": "nvprod4240046v",
+      "name": "Monogram Jacquard Bikini Top",
+      "isCollectible": false,
+      "kitFlag": false,
+      "shortDescription": "<p>The House’s go-to bikini top is chic and summery in lightweight swimwear jersey featuring a tone-on-tone all-over Monogram motif for a subtle signature finish, complete with playful Monogram Flower accents on the front. The effortless halterneck triangle shape is tied with casual laces around the neck and back.</p>",
+      "detailedDescription": "<ul>\n  <li>Main material: 89% polyamide, 11% elastane</li>\n  <li>Lemon</li>\n  <li>Regular fit</li>\n  <li>Made in Italy</li>\n</ul>",
+      "price": "£490.00",
+      "priceRaw": 490.00,
+      "currency": "GBP",
+      "locateInStore": true,
+      "macroColor": "Yellow",
+      "materialGroupCode": "Z05",
+      "filterCategories": "Ready_To_Wear_Women",
+      "360VideoEnabled": false,
+      "eligibleToAgec": true,
+      "size": "38",
+      "video360Enabled": false,
+      "panelInformations": [
+          {
+              "type": "ProductCare",
+              "title": "Product Care",
+              "description": "<ul>\n  <li>We recommend you take special care and entrust this garment to a specialised dry cleaner.</li>\n</ul>",
+              "introduction": "<p>This fabric garment was designed to meet the highest demands, reflecting Louis Vuitton's heritage.</p>"
+          }
+      ],
+      "tryOnEnabled": false,
+      "cscSellable": true,
+      "sellable": true,
+      "sizeGuide": true,
+      "backOrder": false,
+      "backOrderFullDeposit": false,
+      "backOrderDisclaimer": false,
+      "storeSourcingDisclaimer": false,
+      "skus": [
+          {
+              "skuId": "1ABC8R",
+              "size": "34",
+              "color": "Citron",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABC8S",
+              "size": "36",
+              "color": "Citron",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABC8T",
+              "size": "38",
+              "color": "Citron",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABC8U",
+              "size": "40",
+              "color": "Citron",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABC8V",
+              "size": "42",
+              "color": "Citron",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM2_Front view.jpg"
+          },
+          {
+              "skuId": "1ABC8W",
+              "size": "44",
+              "color": "Citron",
+              "mediaUrl": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM2_Front view.jpg"
+          }
+      ],
+      "medias": [
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM2_Front view.jpg",
+              "name": "Front view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM1_Cropped view.jpg",
+              "name": "Cropped view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM1_Ambiance view.jpg",
+              "name": "Ambiance view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM1_Worn view.jpg",
+              "name": "Worn view"
+          },
+          {
+              "url": "https://uk.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top--FPSW25UN7441_PM1_Cropped worn view.jpg",
+              "name": "Cropped worn view"
+          }
+      ],
+      "dimensionsData": [
+          {
+              "unit": "inches",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          },
+          {
+              "unit": "cm",
+              "height": 0.0,
+              "length": 0.0,
+              "width": 0.0
+          }
+      ],
+      "personnalisation": {
+          "engravable": false,
+          "hotstampable": false,
+          "engravingEnabled": false
+      },
+      "diamondEngravingEnabled": false,
+      "url": "/eng-gb/products/monogram-jacquard-bikini-top-nvprod4240046v/1ABC8T",
+      "colorIconURL": "https://www.louisvuitton.com/images/is/image/MKC-LG-9CT_citron.jpg",
+      "getTheLookImage": "https://ru.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-monogram-jacquard-bikini-top --FPSW25UN7441_PM1_Look view.jpg",
+      "enableViewBySet": false,
+      "color": "Citron",
+      "isDiamond": false,
+      "collection": "Z216"
+  }
+]
