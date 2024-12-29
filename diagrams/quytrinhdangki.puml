@@ -1,0 +1,20 @@
+@startuml
+actor "Người dùng" as User
+participant "Giao diện Website" as WebUI
+participant "Máy chủ WordPress" as Server
+database "Cơ sở dữ liệu" as DB
+
+User -> WebUI: Truy cập trang đăng ký
+WebUI -> User: Hiển thị form đăng ký
+User -> WebUI: Nhập thông tin và nhấn "Đăng ký"
+WebUI -> Server: Gửi dữ liệu đăng ký
+Server -> DB: Kiểm tra thông tin (Email, v.v.)
+DB -> Server: Thông tin hợp lệ/trùng lặp
+alt Thông tin hợp lệ
+    Server -> DB: Lưu thông tin tài khoản mới
+    Server -> User: Gửi email kích hoạt tài khoản (nếu có)
+else Email đã tồn tại
+    Server -> WebUI: Trả lỗi "Email đã tồn tại"
+end
+WebUI -> User: Hiển thị thông báo thành công/lỗi
+@enduml

@@ -16,55 +16,51 @@ function delay(ms) {
 
   console.log("[INFO] Orders loaded:", orders);
 
-  // 2. Mở trình duyệt
-  console.log("[INFO] Launching browser with full screen...");
-  const browser = await puppeteer.launch({
-    headless: false,
-    defaultViewport: null,
-    args: ["--start-maximized"],
-  });
-  const page = await browser.newPage();
-
-  const userAgents = [
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36",
-    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
-    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.199 Safari/537.36",
-    "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 Safari/604.1",
-    "Mozilla/5.0 (iPad; CPU OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.2 Mobile/15E148 Safari/604.1"
-  ];
-  
-  const randomUserAgent = userAgents[Math.floor(Math.random() * userAgents.length)];
-  console.log(`[INFO] Setting random user agent: ${randomUserAgent}`);
-  await page.setUserAgent(randomUserAgent);
-
-  // 3. Truy cập trang chủ LV
-  const homeUrl = "https://uk.louisvuitton.com/eng-gb/homepage";
-  console.log(`[INFO] Going to homepage: ${homeUrl}`);
-  try {
-    await page.goto(homeUrl, {
-      waitUntil: "domcontentloaded",
-      timeout: 60000,
+    // 2. Mở trình duyệt
+    console.log("[INFO] Launching browser with full screen...");
+    const browser = await puppeteer.launch({
+      headless: false,
+      defaultViewport: null,
+      args: ["--start-maximized"],
     });
-    console.log("[INFO] Homepage loaded successfully.");
-  } catch (err) {
-    console.error("[ERROR] Failed to load LV homepage:", err.message);
-  }
-
-  // 4. Set token đăng nhập (nếu cần)
-  const loginKey = "LV.loginData";
-  const loginValue = JSON.stringify({
-    usid: "a48001fe-9796-4e7b-98ec-afd3a26ea788",
-  });
-  console.log("[INFO] Setting token in localStorage...");
-  await page.evaluate((key, value) => localStorage.setItem(key, value), loginKey, loginValue);
-
-  console.log("[INFO] Reloading page to apply token...");
-  try {
-    await page.reload({ waitUntil: "domcontentloaded", timeout: 60000 });
-    console.log("[INFO] Token LV.loginData set successfully.");
-  } catch (err) {
-    console.error("[ERROR] Reload page failed after setting token:", err.message);
-  }
+    const page = await browser.newPage();
+  
+    // Đặt User-Agent giống Chrome thật
+    const customUserAgent =
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) " +
+      "AppleWebKit/537.36 (KHTML, like Gecko) " +
+      "Chrome/131.0.0.0 Safari/537.36";
+    console.log(`[INFO] Setting user agent: ${customUserAgent}`);
+    await page.setUserAgent(customUserAgent);
+  
+    // 3. Truy cập trang chủ LV
+    const homeUrl = "https://uk.louisvuitton.com/eng-gb/homepage";
+    console.log(`[INFO] Going to homepage: ${homeUrl}`);
+    try {
+      await page.goto(homeUrl, {
+        waitUntil: "domcontentloaded",
+        timeout: 60000,
+      });
+      console.log("[INFO] Homepage loaded successfully.");
+    } catch (err) {
+      console.error("[ERROR] Failed to load LV homepage:", err.message);
+    }
+  
+    // 4. Set token đăng nhập (nếu cần)
+    const loginKey = "LV.loginData";
+    const loginValue = JSON.stringify({
+      usid: "a48001fe-9796-4e7b-98ec-afd3a26ea788",
+    });
+    console.log("[INFO] Setting token in localStorage...");
+    await page.evaluate((key, value) => localStorage.setItem(key, value), loginKey, loginValue);
+  
+    console.log("[INFO] Reloading page to apply token...");
+    try {
+      await page.reload({ waitUntil: "domcontentloaded", timeout: 60000 });
+      console.log("[INFO] Token LV.loginData set successfully.");
+    } catch (err) {
+      console.error("[ERROR] Reload page failed after setting token:", err.message);
+    }
 
   // **Selector** tùy theo info bạn cung cấp
   const searchButtonSelector = "button#headerSearchButton"; // Nút search
